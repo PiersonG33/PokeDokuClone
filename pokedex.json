@@ -4315,7 +4315,9 @@
             "Pressure",
             "Unnerve"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "eggGroups": [
             "Undiscovered"
         ],
@@ -9298,7 +9300,9 @@
         "abilities": [
             "Levitate"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "eggGroups": [
             "Undiscovered"
         ],
@@ -9464,7 +9468,10 @@
         "abilities": [
             "Pressure"
         ],
-        "tags": [],
+        "tags": [
+            "Mythical",
+            "Legendary"
+        ],
         "eggGroups": [
             "Undiscovered"
         ],
@@ -11665,7 +11672,9 @@
             "Pressure",
             "Telepathy"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "eggGroups": [
             "Undiscovered"
         ],
@@ -11777,7 +11786,10 @@
         "abilities": [
             "Natural Cure"
         ],
-        "tags": [],
+        "tags": [
+            "Mythical",
+            "Legendary"
+        ],
         "eggGroups": [
             "Undiscovered"
         ],
@@ -15277,7 +15289,9 @@
         "abilities": [
             "Pressure"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "eggGroups": [
             "Undiscovered"
         ],
@@ -15332,7 +15346,10 @@
         "abilities": [
             "Justified"
         ],
-        "tags": [],
+        "tags": [
+            "Mythical",
+            "Legendary"
+        ],
         "eggGroups": [
             "Undiscovered"
         ],
@@ -15368,7 +15385,10 @@
         "abilities": [
             "Serene Grace"
         ],
-        "tags": [],
+        "tags": [
+            "Mythical",
+            "Legendary"
+        ],
         "eggGroups": [
             "Undiscovered"
         ],
@@ -15404,7 +15424,10 @@
         "abilities": [
             "Download"
         ],
-        "tags": [],
+        "tags": [
+            "Mythical",
+            "Legendary"
+        ],
         "eggGroups": [
             "Undiscovered"
         ],
@@ -17028,7 +17051,9 @@
         "abilities": [
             "Fairy Aura"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "eggGroups": [
             "Undiscovered"
         ],
@@ -17141,7 +17166,10 @@
         "abilities": [
             "Clear Body"
         ],
-        "tags": [],
+        "tags": [
+            "Mythical",
+            "Legendary"
+        ],
         "eggGroups": [
             "Undiscovered"
         ],
@@ -17177,7 +17205,10 @@
         "abilities": [
             "Magician"
         ],
-        "tags": [],
+        "tags": [
+            "Mythical",
+            "Legendary"
+        ],
         "eggGroups": [
             "Undiscovered"
         ],
@@ -19407,7 +19438,10 @@
         "abilities": [
             "Soul-Heart"
         ],
-        "tags": [],
+        "tags": [
+            "Mythical",
+            "Legendary"
+        ],
         "eggGroups": [
             "Undiscovered"
         ],
@@ -21586,7 +21620,9 @@
         "abilities": [
             "Intrepid Sword"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "eggGroups": [
             "Undiscovered"
         ],
@@ -21621,7 +21657,9 @@
         "abilities": [
             "Dauntless Shield"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "eggGroups": [
             "Undiscovered"
         ],
@@ -21657,7 +21695,9 @@
         "abilities": [
             "Pressure"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "eggGroups": [
             "Undiscovered"
         ],
@@ -21787,7 +21827,10 @@
         "abilities": [
             "Leaf Guard"
         ],
-        "tags": [],
+        "tags": [
+            "Mythical",
+            "Legendary"
+        ],
         "eggGroups": [
             "Undiscovered"
         ],
@@ -21895,7 +21938,9 @@
         "abilities": [
             "Unnerve"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "eggGroups": [
             "Undiscovered"
         ],

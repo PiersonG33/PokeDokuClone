@@ -26,7 +26,6 @@ def to_json(ts, json_name):
                 cFormes = []
                 if cName in first_pokemon:
                     generation += 1
-                #print(cName)
             if line.startswith("forme: "):
                 cForme = (line[8:])
                 cForme = cForme.replace('"', "").replace(",", "").strip()
@@ -34,6 +33,7 @@ def to_json(ts, json_name):
             if line.startswith("types: "):
                 cTypes = (line[8:])
                 cTypes = cTypes.replace('"', "").replace(",", "").replace("[", "").replace("]", "").split()
+                cTags = []
                 #print(cTypes)
             if line.startswith("abilities: "):
                 cAbilities = (line[12:])
@@ -45,6 +45,7 @@ def to_json(ts, json_name):
                 cTags = (line[7:])
                 cTags = cTags.replace('"', "").replace("[", "").replace("]", "").split(",")
                 cTags = [x.strip() for x in cTags if x.strip()]
+                #print(cName, cTags)
                 #print(cTags)
             if line.startswith("eggGroups: "):
                 cEggGroups = (line[11:])
@@ -54,8 +55,10 @@ def to_json(ts, json_name):
                     the_group = cEggGroups[i]
                     if the_group in {"Dragon", "Grass", "Fairy", "Flying", "Bug"}:
                         cEggGroups[i] = the_group + " (Egg Group)"
-                current += 1
+                #current += 1
                 #print(cEggGroups)
+            if line == "}" or line == "},":
+                current += 1
             if current != past:
                 subDict = dict()
                 subDict["types"] = cTypes
@@ -67,7 +70,7 @@ def to_json(ts, json_name):
                 if len(cTags) != 0:
                     if cTags[0] == "Mythical":
                         cTags = ["Mythical", "Legendary"] #Mythical pokemon are also legendary
-                    elif cTags[0] != "Paradox":
+                    elif "legendary" in cTags[0].lower():
                         cTags = ["Legendary"] #Groups sub and restricted legendary pokemon together
                 subDict["tags"] = cTags
                 for t in cTags:
