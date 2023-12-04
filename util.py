@@ -50,6 +50,10 @@ def to_json(ts, json_name):
                 cEggGroups = (line[11:])
                 cEggGroups = cEggGroups.replace('"', "").replace("[", "").replace("]", "").split(",")
                 cEggGroups = [x.strip() for x in cEggGroups if x.strip()]
+                for i in range(len(cEggGroups)):
+                    the_group = cEggGroups[i]
+                    if the_group in {"Dragon", "Grass", "Fairy", "Flying", "Bug"}:
+                        cEggGroups[i] = the_group + " (Egg Group)"
                 current += 1
                 #print(cEggGroups)
             if current != past:
@@ -70,7 +74,7 @@ def to_json(ts, json_name):
                     options[t] = "tags"
                 subDict["eggGroups"] = cEggGroups
                 for e in cEggGroups:
-                    options[e] = "egg groups"
+                    options[e] = "eggGroups"
                 subDict["generation"] = ["Generation " + str(generation)]
                 options["Generation " + str(generation)] = "generation"
                 subDict["formes"] = cFormes
@@ -101,7 +105,8 @@ def to_dict(json_name):
     return poke_data
 
 
-def generate_combos(options, types = True, abilities = True, tags = True, eggGroups = True, generation = True):
+def generate_combos(options, types = True, abilities = True, tags = True, eggGroups = True, generation = True, 
+                    formes = True, invalid = []):
     possibilities = []
     for key in options:
         #print(key, options[key])
@@ -111,10 +116,12 @@ def generate_combos(options, types = True, abilities = True, tags = True, eggGro
             possibilities.append(key)
         elif options[key] == "tags" and tags:
             possibilities.append(key)
-        elif options[key] == "egg groups" and eggGroups:
+        elif options[key] == "eggGroups" and eggGroups:
             possibilities.append(key)
         elif options[key] == "generation" and generation:
             possibilities.append(key)
+        if (key in invalid) and (key in possibilities):
+            possibilities.remove(key)
 
     puzzle = random.sample(possibilities, 6)
     return puzzle
@@ -128,8 +135,8 @@ def check_valid(row, col, dex, options, cutoff = 1):
             count = 0
             for p in dex:
                 pokemon = dex[p]
-                r_key = options[r].lower()
-                c_key = options[c].lower()
+                r_key = options[r]#.lower()
+                c_key = options[c]#.lower()
                 # print(r_key, c_key)
                 # print(pokemon)
                 if r.lower() in [x.lower() for x in pokemon[r_key]] and c.lower() in [x.lower() for x in pokemon[c_key]]:
