@@ -159,3 +159,13 @@ def write_answer(answer_key, f_name = "answer_key.txt"):
             answer_grid += answer_key[row * 3 + col].ljust(max_len + 3)
         answer_grid += "\n"
     print(answer_grid, file=open(f_name, "w"))
+
+def get_valid_labels(pokedict, stats):
+    ready = False
+    while not ready:
+        puzzle = generate_combos(stats, abilities = False, eggGroups = False)
+        rows = puzzle[:3]
+        cols = puzzle[3:]
+        ready = check_valid(rows, cols, pokedict, stats, cutoff = 1)
+    write_answer(ready, "answer_key.txt")
+    return rows, cols

@@ -14,15 +14,7 @@ def is_valid(sub_dict, stats, row_label, col_label):
 
 def generate_grid(pokemon, pokedict, stats):
 
-    ready = False
-    while not ready:
-        puzzle = generate_combos(stats, abilities = False, eggGroups = False)
-        rows = puzzle[:3]
-        cols = puzzle[3:]
-        ready = check_valid(rows, cols, pokedict, stats, cutoff = 1)
-    write_answer(ready, "answer_key.txt")
-    col_labels = cols
-    row_labels = rows
+    row_labels, col_labels = get_valid_labels(pokedict, stats)
 
     options = pokemon
 
@@ -54,6 +46,7 @@ def generate_grid(pokemon, pokedict, stats):
 
     # Add "New Puzzle" button
     layout.append([sg.Button("New Puzzle", key="-NEW PUZZLE-")])
+    
     # Create the window
     window = sg.Window("PokeDoku", layout, finalize=True) #, background_color="#1d1752"
 
@@ -65,6 +58,10 @@ def generate_grid(pokemon, pokedict, stats):
         # Handle events
         if event == sg.WINDOW_CLOSED:
             break
+
+        elif event == "-NEW PUZZLE-":
+            window.close()
+            generate_grid(pokemon, pokedict, stats)
 
         for row in range(3):
             for col in range(3):
