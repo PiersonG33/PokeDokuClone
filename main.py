@@ -1,4 +1,4 @@
-from util import to_dict, to_json
+from util import *
 from gui import *
 
 if __name__ == "__main__":

@@ -1,5 +1,5 @@
 import PySimpleGUI as sg
-from util import generate_combos, check_valid, write_answer
+from util import *
 
 # Function to create a dropdown element
 def create_dropdown(key, pokemon):
