@@ -5,108 +5,10 @@ import random
 pokedex = dict()
 options = dict()
 
-def to_json(ts, json_name):
-    with open(ts, "r") as f:
-        past = 0
-        current = 0
-        cName = ""
-        cTypes = []
-        cAbilities = []
-        cTags = []
-        cEggGroups = []
-        cFormes = []
-        first_pokemon = ["Chikorita", "Treecko", "Turtwig", "Victini", "Chespin", "Rowlet", "Grookey", "Sprigatito"]
-        generation = 1
-        for line in f:
-            line = line.strip()
-            if line.startswith("name: "):
-                cName = (line[7:])
-                cName = cName.replace('"', "").replace(",", "")
-                cTags = []
-                cFormes = []
-                if cName in first_pokemon:
-                    generation += 1
-            if line.startswith("forme: "):
-                cForme = (line[8:])
-                cForme = cForme.replace('"', "").replace(",", "").strip()
-                cFormes.append(cForme)
-            if line.startswith("types: "):
-                cTypes = (line[8:])
-                cTypes = cTypes.replace('"', "").replace(",", "").replace("[", "").replace("]", "").split()
-                cTags = []
-                #print(cTypes)
-            if line.startswith("abilities: "):
-                cAbilities = (line[12:])
-                cAbilities = cAbilities.replace('"', "").replace("{", "").replace("}", "").split(",")
-                cAbilities = [x.strip() for x in cAbilities if x.strip()]
-                cAbilities = [x[3:] for x in cAbilities]
-                #print(cAbilities)
-            if line.startswith("tags: "):
-                cTags = (line[7:])
-                cTags = cTags.replace('"', "").replace("[", "").replace("]", "").split(",")
-                cTags = [x.strip() for x in cTags if x.strip()]
-                #print(cName, cTags)
-                #print(cTags)
-            if line.startswith("eggGroups: "):
-                cEggGroups = (line[11:])
-                cEggGroups = cEggGroups.replace('"', "").replace("[", "").replace("]", "").split(",")
-                cEggGroups = [x.strip() for x in cEggGroups if x.strip()]
-                for i in range(len(cEggGroups)):
-                    the_group = cEggGroups[i]
-                    if the_group in {"Dragon", "Grass", "Fairy", "Flying", "Bug"}:
-                        cEggGroups[i] = the_group + " (Egg Group)"
-                #current += 1
-                #print(cEggGroups)
-            if line == "}," or line == "}":
-                current += 1
-            if current != past:
-                subDict = dict()
-                subDict["types"] = cTypes
-                for t in cTypes:
-                    options[t] = "types"
-                subDict["abilities"] = cAbilities
-                for a in cAbilities:
-                    options[a] = "abilities"
-                if len(cTags) != 0:
-                    if cTags[0] == "Mythical":
-                        cTags = ["Mythical", "Legendary"] #Mythical pokemon are also legendary
-                    elif "legendary" in cTags[0].lower():
-                        cTags = ["Legendary"] #Groups sub and restricted legendary pokemon together
-                subDict["tags"] = cTags
-                for t in cTags:
-                    options[t] = "tags"
-                subDict["eggGroups"] = cEggGroups
-                for e in cEggGroups:
-                    options[e] = "eggGroups"
-                subDict["generation"] = ["Generation " + str(generation)]
-                options["Generation " + str(generation)] = "generation"
-                subDict["formes"] = cFormes
-                for f in cFormes:
-                    options[f] = "formes"
-                if len(cFormes) > 0:
-                    the_form = cFormes[0]
-                    if the_form.startswith("Alola"):
-                        subDict["generation"] = ["Generation 7"]
-                    elif the_form.startswith("Galar"):
-                        subDict["generation"] = ["Generation 8"]
-                    elif the_form.startswith("Hisui"):
-                        subDict["generation"] = ["Generation 9"]
-                pokedex[cName] = subDict
-                past = current
-                # cTypes.clear()
-                # cAbilities.clear()
-                # cTags.clear()
-                # cEggGroups.clear()
-    #print(pokedex, file=open("pokedex.txt", "w"))
-    print(json.dumps(pokedex, indent=4), file=open(json_name, "w"))
-    #options.pop("")
-    print(json.dumps(options, indent=4), file=open("options.json", "w"))
-
 def to_dict(json_name):
     #pokedex.json to dict:
-    poke_data = json.load(open(json_name))
+    poke_data = json.load(open(json_name, encoding="utf8"))
     return poke_data
-
 
 def generate_combos(options, types = True, abilities = True, tags = True, eggGroups = True, generation = True, 
                     invalid = []):
@@ -173,3 +75,86 @@ def get_valid_labels(pokedict, stats, types = True, abilities = True,
         ready = check_valid(rows, cols, pokedict, stats, cutoff = cutoff)
     write_answer(ready, "answer_key.txt")
     return rows, cols
+
+def get_generation(name, num):
+    gen = ""
+    if (1 <= num <= 152):
+        gen = "Generation 1"
+    elif (152 < num <= 251):
+        gen = "Generation 2"
+    elif (251 < num <= 386):
+        gen = "Generation 3"
+    elif (386 < num <= 493):
+        gen = "Generation 4"
+    elif (493 < num <= 649):
+        gen = "Generation 5"
+    elif (649 < num <= 721):
+        gen = "Generation 6"
+    elif (721 < num <= 809):
+        gen = "Generation 7"
+    elif (809 < num <= 905):
+        gen = "Generation 8"
+    elif (905 < num):
+        gen = "Generation 9"
+    if "Alola" in name:
+        gen = "Generation 7"
+    elif "Galar" in name or "Hisui" in name:
+        gen = "Generation 8"
+    elif "Paldea" in name:
+        gen = "Generation 9"
+    return gen
+
+def json_formatting(dict1):
+    # Designed to change the formatting of the auto-generated json file from the ts file
+    # into something that works better for PokeDoku
+    new_dict = dict()
+    options = dict()
+    for key in dict1:
+        cName = dict1[key]["name"]
+        cTypes = dict1[key]["types"]
+        cAbilities = list(dict1[key]["abilities"].values())
+        cEggGroups = dict1[key]["eggGroups"]
+        cTags = dict1[key].get("tags",[])
+        cFormes = dict1[key].get("forme","")
+        cFormes = [cFormes]
+        if cFormes[0] == "":
+            cFormes = []
+        cNum = dict1[key]["num"]
+        new_dict[cName] = dict()
+
+        new_dict[cName]["types"] = cTypes
+        for t in cTypes:
+            options[t] = "types"
+
+        new_dict[cName]["abilities"] = cAbilities
+        for a in cAbilities:
+            options[a] = "abilities"
+
+        new_dict[cName]["eggGroups"] = cEggGroups
+        for e in range(len(cEggGroups)):
+            cEggGroups[e] = cEggGroups[e] + " (Egg Group)"
+            options[cEggGroups[e]] = "eggGroups"
+
+        for t in range(len(cTags)):
+            # Are Mythical pokemon also legendary?
+            the_tag = cTags[t]
+            if "legendary" in the_tag.lower():
+                cTags =["Legendary"]
+                options["Legendary"] = "tags"
+                break
+            if "mythical" in the_tag.lower():
+                cTags = ["Mythical", "Legendary"]
+                options["Mythical"] = "tags"
+                options["Legendary"] = "tags"
+                break
+        new_dict[cName]["tags"] = cTags
+
+        new_dict[cName]["formes"] = cFormes
+        for f in cFormes:
+            options[f] = "formes"
+        new_dict[cName]["num"] = cNum
+
+        new_dict[cName]["generation"] = [get_generation(cName, cNum)]
+        options[get_generation(cName, cNum)] = "generation"
+
+    return new_dict, options

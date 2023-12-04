@@ -163,3 +163,8 @@ cython_debug/
 answer_key.txt
 pokedex.ts
 pokedex_backup.json
+options_backup.json
+pokedex_test.json
+ts_to_json.js
+pokedex.js
+pokedex_exp.json
