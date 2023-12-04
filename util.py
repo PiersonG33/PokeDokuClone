@@ -1,7 +1,7 @@
 import json
 import time
 import random
-from gui import *
+# from gui import *
 pokedex = dict()
 options = dict()
 
@@ -106,7 +106,7 @@ def to_dict(json_name):
 
 
 def generate_combos(options, types = True, abilities = True, tags = True, eggGroups = True, generation = True, 
-                    formes = True, invalid = []):
+                    invalid = []):
     possibilities = []
     for key in options:
         #print(key, options[key])

@@ -1,4 +1,5 @@
 import PySimpleGUI as sg
+from util import generate_combos, check_valid, write_answer
 
 # Function to create a dropdown element
 def create_dropdown(key, pokemon):
@@ -11,7 +12,17 @@ def is_valid(sub_dict, stats, row_label, col_label):
         return True
     return False
 
-def generate_grid(pokemon, col_labels, row_labels, pokedict, stats):
+def generate_grid(pokemon, pokedict, stats):
+
+    ready = False
+    while not ready:
+        puzzle = generate_combos(stats, abilities = False, eggGroups = False)
+        rows = puzzle[:3]
+        cols = puzzle[3:]
+        ready = check_valid(rows, cols, pokedict, stats, cutoff = 1)
+    write_answer(ready, "answer_key.txt")
+    col_labels = cols
+    row_labels = rows
 
     options = pokemon
 
@@ -41,6 +52,8 @@ def generate_grid(pokemon, col_labels, row_labels, pokedict, stats):
                 ]))
         layout.append(row_layout)
 
+    # Add "New Puzzle" button
+    layout.append([sg.Button("New Puzzle", key="-NEW PUZZLE-")])
     # Create the window
     window = sg.Window("PokeDoku", layout, finalize=True) #, background_color="#1d1752"
 
