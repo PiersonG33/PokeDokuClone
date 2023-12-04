@@ -161,12 +161,12 @@ def write_answer(answer_key, f_name = "answer_key.txt"):
     print(answer_grid, file=open(f_name, "w"))
 
 def get_valid_labels(pokedict, stats, types = True, abilities = True, 
-                     tags = True, eggGroups = True, generation = True, invalid = []):
+                     tags = True, eggGroups = True, generation = True, invalid = [], cutoff = 1):
     ready = False
     while not ready:
         puzzle = generate_combos(stats, types, abilities, tags, eggGroups, generation, invalid)
         rows = puzzle[:3]
         cols = puzzle[3:]
-        ready = check_valid(rows, cols, pokedict, stats, cutoff = 1)
+        ready = check_valid(rows, cols, pokedict, stats, cutoff = cutoff)
     write_answer(ready, "answer_key.txt")
     return rows, cols
