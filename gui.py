@@ -24,10 +24,10 @@ def generate_grid(pokemon, col_labels, row_labels, pokedict, stats):
                 if stats[col_labels[col]] == "types":
                     row_layout.append(sg.Image(filename=f"images/{col_labels[col]}.gif", size=(60, 60), pad=((100, 100), (0, 0))))
                 else:
-                    row_layout.append(sg.Text(col_labels[col], size=(35, 2), pad = ((10, 10), (0, 0))))
+                    row_layout.append(sg.Text(col_labels[col], size=(35, 2), justification="center"))
         else:
             if stats[row_labels[row-1]] == "types":
-                row_layout.append(sg.Image(filename=f"images/{row_labels[row-1]}.gif", size=(60, 60), pad=((0, 0), (0, 0))))
+                row_layout.append(sg.Image(filename=f"images/{row_labels[row-1]}.gif", size=(80, 60), pad=((20, 0), (0, 0))))
             else:
                 row_layout.append(sg.Text(row_labels[row-1], size=(10, 2)))
             for col in range(3):
@@ -42,7 +42,7 @@ def generate_grid(pokemon, col_labels, row_labels, pokedict, stats):
         layout.append(row_layout)
 
     # Create the window
-    window = sg.Window("PokeDoku", layout, finalize=True)
+    window = sg.Window("PokeDoku", layout, finalize=True) #, background_color="#1d1752"
 
     guesses_remaining = 9
     # Event loop
