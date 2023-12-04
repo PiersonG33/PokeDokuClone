@@ -21,9 +21,15 @@ def generate_grid(pokemon, col_labels, row_labels, pokedict, stats):
         if row == 0:
             row_layout.append(sg.Text("", size=(10, 1)))
             for col in range(3):
-                row_layout.append(sg.Text(col_labels[col], size=(35, 2)))
+                if stats[col_labels[col]] == "types":
+                    row_layout.append(sg.Image(filename=f"images/{col_labels[col]}.gif", size=(60, 60), pad=((100, 100), (0, 0))))
+                else:
+                    row_layout.append(sg.Text(col_labels[col], size=(35, 2), pad = ((10, 10), (0, 0))))
         else:
-            row_layout.append(sg.Text(row_labels[row-1], size=(10, 2)))
+            if stats[row_labels[row-1]] == "types":
+                row_layout.append(sg.Image(filename=f"images/{row_labels[row-1]}.gif", size=(60, 60), pad=((0, 0), (0, 0))))
+            else:
+                row_layout.append(sg.Text(row_labels[row-1], size=(10, 2)))
             for col in range(3):
                 row_layout.append(sg.Column([
                     [sg.Text("")],
@@ -38,6 +44,7 @@ def generate_grid(pokemon, col_labels, row_labels, pokedict, stats):
     # Create the window
     window = sg.Window("PokeDoku", layout, finalize=True)
 
+    guesses_remaining = 9
     # Event loop
     while True:
         event, values = window.read()
@@ -76,6 +83,8 @@ def generate_grid(pokemon, col_labels, row_labels, pokedict, stats):
                     else:
                         #Change button color to red
                         window[f"-BUTTON-{row * 3 + col + 1}-"].update(button_color=('white', 'red'))
+                    guesses_remaining -= 1
+                    print(f"Guesses Remaining: {guesses_remaining}")
 
     # Close the window
     window.close()

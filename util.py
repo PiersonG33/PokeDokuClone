@@ -60,8 +60,11 @@ def to_json(ts, json_name):
                 subDict["abilities"] = cAbilities
                 for a in cAbilities:
                     options[a] = "abilities"
-                if len(cTags) != 0 and cTags[0] != "Paradox":
-                    cTags = ["Legendary"]
+                if len(cTags) != 0:
+                    if cTags[0] == "Mythical":
+                        cTags = ["Mythical", "Legendary"] #Mythical pokemon are also legendary
+                    elif cTags[0] != "Paradox":
+                        cTags = ["Legendary"] #Groups sub and restricted legendary pokemon together
                 subDict["tags"] = cTags
                 for t in cTags:
                     options[t] = "tags"

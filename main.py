@@ -9,7 +9,7 @@ if __name__ == "__main__":
         puzzle = generate_combos(options, abilities = False, eggGroups = False)
         rows = puzzle[:3]
         cols = puzzle[3:]
-        ready = check_valid(rows, cols, data, options, cutoff = 2)
+        ready = check_valid(rows, cols, data, options, cutoff = 1)
     write_answer(ready, "answer_key.txt")
     generate_grid(list(data.keys()), cols, rows, data, options)
     
