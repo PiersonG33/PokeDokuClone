@@ -13,9 +13,10 @@ def is_valid(sub_dict, stats, row_label, col_label):
     return False
 
 def generate_grid(pokemon, pokedict, stats, types = True, abilities = False, 
-                  tags = True, eggGroups = False, generation = True, invalid = []):
+                  tags = True, eggGroups = False, generation = True, invalid = [], cutoff = 1):
 
-    row_labels, col_labels = get_valid_labels(pokedict, stats, types, abilities, tags, eggGroups, generation, invalid)
+    row_labels, col_labels = get_valid_labels(pokedict, stats, types, abilities, 
+                                              tags, eggGroups, generation, invalid, cutoff = cutoff)
 
     options = pokemon
 
