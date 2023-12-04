@@ -162,3 +162,4 @@ cython_debug/
 # Additional text files
 answer_key.txt
 pokedex.ts
+pokedex_backup.json
