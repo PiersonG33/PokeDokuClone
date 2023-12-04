@@ -57,7 +57,7 @@ def to_json(ts, json_name):
                         cEggGroups[i] = the_group + " (Egg Group)"
                 #current += 1
                 #print(cEggGroups)
-            if line == "}" or line == "},":
+            if line == "}," or line == "}":
                 current += 1
             if current != past:
                 subDict = dict()
