@@ -63,7 +63,7 @@ def generate_grid(pokemon, pokedict, stats, types = True, abilities = False,
 
         elif event == "-NEW PUZZLE-":
             window.close()
-            generate_grid(pokemon, pokedict, stats)
+            generate_grid(pokemon, pokedict, stats, cutoff = cutoff)
 
         for row in range(3):
             for col in range(3):

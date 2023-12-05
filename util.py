@@ -5,6 +5,16 @@ import random
 pokedex = dict()
 options = dict()
 
+def search_database(term1, term2, pokedict, stats):
+    t1_key = stats[term1]
+    t2_key = stats[term2]
+    all_valid = []
+    for key in pokedict:
+        pokemon = pokedict[key]
+        if term1 in pokemon.get(t1_key, []) and term2 in pokemon.get(t2_key, []):
+            all_valid.append(key)
+    return all_valid
+
 def to_dict(json_name):
     #pokedex.json to dict:
     poke_data = json.load(open(json_name, encoding="utf8"))
@@ -79,29 +89,29 @@ def get_valid_labels(pokedict, stats, types = True, abilities = True,
 def get_generation(name, num):
     gen = ""
     if (1 <= num <= 152):
-        gen = "Generation 1"
+        gen = "Kanto"
     elif (152 < num <= 251):
-        gen = "Generation 2"
+        gen = "Johto"
     elif (251 < num <= 386):
-        gen = "Generation 3"
+        gen = "Hoenn"
     elif (386 < num <= 493):
-        gen = "Generation 4"
+        gen = "Sinnoh"
     elif (493 < num <= 649):
-        gen = "Generation 5"
+        gen = "Unova"
     elif (649 < num <= 721):
-        gen = "Generation 6"
+        gen = "Kalos"
     elif (721 < num <= 809):
-        gen = "Generation 7"
+        gen = "Alola"
     elif (809 < num <= 905):
-        gen = "Generation 8"
+        gen = "Galar/Hisui"
     elif (905 < num):
-        gen = "Generation 9"
+        gen = "Paldea"
     if "Alola" in name:
-        gen = "Generation 7"
+        gen = "Alola"
     elif "Galar" in name or "Hisui" in name:
-        gen = "Generation 8"
+        gen = "Galar/Hisui"
     elif "Paldea" in name:
-        gen = "Generation 9"
+        gen = "Paldea"
     return gen
 
 def json_formatting(dict1):
