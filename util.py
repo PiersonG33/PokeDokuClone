@@ -157,4 +157,11 @@ def json_formatting(dict1):
         new_dict[cName]["generation"] = [get_generation(cName, cNum)]
         options[get_generation(cName, cNum)] = "generation"
 
+        # give alt forms the same tags of the previous form
+        baseSpecies = dict1[key].get("baseSpecies", False)
+        if baseSpecies:
+            base_tags = new_dict[baseSpecies].get("tags", [])
+            new_dict[cName]["tags"] = base_tags
+            # print(f"{cName} has the same tags as {baseSpecies}")
+
     return new_dict, options

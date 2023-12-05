@@ -4386,7 +4386,9 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "formes": [
             "Galar"
         ],
@@ -4427,7 +4429,9 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "formes": [
             "Galar"
         ],
@@ -4468,7 +4472,9 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "formes": [
             "Galar"
         ],
@@ -4566,7 +4572,9 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "formes": [
             "Mega-X"
         ],
@@ -4585,7 +4593,9 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "formes": [
             "Mega-Y"
         ],
@@ -9780,7 +9790,9 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "formes": [
             "Mega"
         ],
@@ -9820,7 +9832,9 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "formes": [
             "Mega"
         ],
@@ -9858,7 +9872,9 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "formes": [
             "Primal"
         ],
@@ -9897,7 +9913,9 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "formes": [
             "Primal"
         ],
@@ -9937,7 +9955,9 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "formes": [
             "Mega"
         ],
@@ -9997,7 +10017,10 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Mythical",
+            "Legendary"
+        ],
         "formes": [
             "Attack"
         ],
@@ -10016,7 +10039,10 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Mythical",
+            "Legendary"
+        ],
         "formes": [
             "Defense"
         ],
@@ -10035,7 +10061,10 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Mythical",
+            "Legendary"
+        ],
         "formes": [
             "Speed"
         ],
@@ -12197,7 +12226,9 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "formes": [
             "Origin"
         ],
@@ -12239,7 +12270,9 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "formes": [
             "Origin"
         ],
@@ -12320,7 +12353,9 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "formes": [
             "Origin"
         ],
@@ -12441,7 +12476,10 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Mythical",
+            "Legendary"
+        ],
         "formes": [
             "Sky"
         ],
@@ -12480,7 +12518,10 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Mythical",
+            "Legendary"
+        ],
         "formes": [
             "Bug"
         ],
@@ -12499,7 +12540,10 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Mythical",
+            "Legendary"
+        ],
         "formes": [
             "Dark"
         ],
@@ -12518,7 +12562,10 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Mythical",
+            "Legendary"
+        ],
         "formes": [
             "Dragon"
         ],
@@ -12537,7 +12584,10 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Mythical",
+            "Legendary"
+        ],
         "formes": [
             "Electric"
         ],
@@ -12556,7 +12606,10 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Mythical",
+            "Legendary"
+        ],
         "formes": [
             "Fairy"
         ],
@@ -12575,7 +12628,10 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Mythical",
+            "Legendary"
+        ],
         "formes": [
             "Fighting"
         ],
@@ -12594,7 +12650,10 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Mythical",
+            "Legendary"
+        ],
         "formes": [
             "Fire"
         ],
@@ -12613,7 +12672,10 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Mythical",
+            "Legendary"
+        ],
         "formes": [
             "Flying"
         ],
@@ -12632,7 +12694,10 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Mythical",
+            "Legendary"
+        ],
         "formes": [
             "Ghost"
         ],
@@ -12651,7 +12716,10 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Mythical",
+            "Legendary"
+        ],
         "formes": [
             "Grass"
         ],
@@ -12670,7 +12738,10 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Mythical",
+            "Legendary"
+        ],
         "formes": [
             "Ground"
         ],
@@ -12689,7 +12760,10 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Mythical",
+            "Legendary"
+        ],
         "formes": [
             "Ice"
         ],
@@ -12708,7 +12782,10 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Mythical",
+            "Legendary"
+        ],
         "formes": [
             "Poison"
         ],
@@ -12727,7 +12804,10 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Mythical",
+            "Legendary"
+        ],
         "formes": [
             "Psychic"
         ],
@@ -12746,7 +12826,10 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Mythical",
+            "Legendary"
+        ],
         "formes": [
             "Rock"
         ],
@@ -12765,7 +12848,10 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Mythical",
+            "Legendary"
+        ],
         "formes": [
             "Steel"
         ],
@@ -12784,7 +12870,10 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Mythical",
+            "Legendary"
+        ],
         "formes": [
             "Water"
         ],
@@ -15971,7 +16060,9 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "formes": [
             "Therian"
         ],
@@ -16012,7 +16103,9 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "formes": [
             "Therian"
         ],
@@ -16093,7 +16186,9 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "formes": [
             "Therian"
         ],
@@ -16133,7 +16228,9 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "formes": [
             "Black"
         ],
@@ -16153,7 +16250,9 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "formes": [
             "White"
         ],
@@ -16194,7 +16293,10 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Mythical",
+            "Legendary"
+        ],
         "formes": [
             "Resolute"
         ],
@@ -16235,7 +16337,10 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Mythical",
+            "Legendary"
+        ],
         "formes": [
             "Pirouette"
         ],
@@ -16276,7 +16381,10 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Mythical",
+            "Legendary"
+        ],
         "formes": [
             "Douse"
         ],
@@ -16296,7 +16404,10 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Mythical",
+            "Legendary"
+        ],
         "formes": [
             "Shock"
         ],
@@ -16316,7 +16427,10 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Mythical",
+            "Legendary"
+        ],
         "formes": [
             "Burn"
         ],
@@ -16336,7 +16450,10 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Mythical",
+            "Legendary"
+        ],
         "formes": [
             "Chill"
         ],
@@ -17988,7 +18105,9 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "formes": [
             "Neutral"
         ],
@@ -18050,7 +18169,9 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "formes": [
             "10%"
         ],
@@ -18070,7 +18191,9 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "formes": [
             "Complete"
         ],
@@ -18111,7 +18234,10 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Mythical",
+            "Legendary"
+        ],
         "formes": [
             "Mega"
         ],
@@ -18152,7 +18278,10 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Mythical",
+            "Legendary"
+        ],
         "formes": [
             "Unbound"
         ],
@@ -19449,7 +19578,9 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "formes": [
             "Bug"
         ],
@@ -19468,7 +19599,9 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "formes": [
             "Dark"
         ],
@@ -19487,7 +19620,9 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "formes": [
             "Dragon"
         ],
@@ -19506,7 +19641,9 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "formes": [
             "Electric"
         ],
@@ -19525,7 +19662,9 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "formes": [
             "Fairy"
         ],
@@ -19544,7 +19683,9 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "formes": [
             "Fighting"
         ],
@@ -19563,7 +19704,9 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "formes": [
             "Fire"
         ],
@@ -19582,7 +19725,9 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "formes": [
             "Flying"
         ],
@@ -19601,7 +19746,9 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "formes": [
             "Ghost"
         ],
@@ -19620,7 +19767,9 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "formes": [
             "Grass"
         ],
@@ -19639,7 +19788,9 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "formes": [
             "Ground"
         ],
@@ -19658,7 +19809,9 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "formes": [
             "Ice"
         ],
@@ -19677,7 +19830,9 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "formes": [
             "Poison"
         ],
@@ -19696,7 +19851,9 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "formes": [
             "Psychic"
         ],
@@ -19715,7 +19872,9 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "formes": [
             "Rock"
         ],
@@ -19734,7 +19893,9 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "formes": [
             "Steel"
         ],
@@ -19753,7 +19914,9 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "formes": [
             "Water"
         ],
@@ -20425,7 +20588,9 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "formes": [
             "Dusk-Mane"
         ],
@@ -20445,7 +20610,9 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "formes": [
             "Dawn-Wings"
         ],
@@ -20465,7 +20632,9 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "formes": [
             "Ultra"
         ],
@@ -20506,7 +20675,10 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Mythical",
+            "Legendary"
+        ],
         "formes": [
             "Original"
         ],
@@ -20685,7 +20857,10 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Mythical",
+            "Legendary"
+        ],
         "formes": [
             "Gmax"
         ],
@@ -22802,7 +22977,9 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "formes": [
             "Crowned"
         ],
@@ -22841,7 +23018,9 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "formes": [
             "Crowned"
         ],
@@ -22881,7 +23060,9 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "formes": [
             "Eternamax"
         ],
@@ -22940,7 +23121,9 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "formes": [
             "Rapid-Strike"
         ],
@@ -22960,7 +23143,9 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "formes": [
             "Gmax"
         ],
@@ -22980,7 +23165,9 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "formes": [
             "Rapid-Strike-Gmax"
         ],
@@ -23021,7 +23208,10 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Mythical",
+            "Legendary"
+        ],
         "formes": [
             "Dada"
         ],
@@ -23137,7 +23327,9 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "formes": [
             "Ice"
         ],
@@ -23157,7 +23349,9 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "formes": [
             "Shadow"
         ],
@@ -23360,7 +23554,9 @@
         "eggGroups": [
             "Undiscovered (Egg Group)"
         ],
-        "tags": [],
+        "tags": [
+            "Legendary"
+        ],
         "formes": [
             "Therian"
         ],
