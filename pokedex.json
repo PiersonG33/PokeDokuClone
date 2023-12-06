@@ -1,5 +1,6 @@
 {
     "Bulbasaur": {
+        "evoTypes": [],
         "types": [
             "Grass",
             "Poison"
@@ -20,6 +21,7 @@
         ]
     },
     "Ivysaur": {
+        "evoTypes": [],
         "types": [
             "Grass",
             "Poison"
@@ -40,6 +42,7 @@
         ]
     },
     "Venusaur": {
+        "evoTypes": [],
         "types": [
             "Grass",
             "Poison"
@@ -60,6 +63,7 @@
         ]
     },
     "Venusaur-Mega": {
+        "evoTypes": [],
         "types": [
             "Grass",
             "Poison"
@@ -81,6 +85,7 @@
         ]
     },
     "Venusaur-Gmax": {
+        "evoTypes": [],
         "types": [
             "Grass",
             "Poison"
@@ -103,6 +108,7 @@
         ]
     },
     "Charmander": {
+        "evoTypes": [],
         "types": [
             "Fire"
         ],
@@ -125,6 +131,7 @@
         ]
     },
     "Charmeleon": {
+        "evoTypes": [],
         "types": [
             "Fire"
         ],
@@ -147,6 +154,7 @@
         ]
     },
     "Charizard": {
+        "evoTypes": [],
         "types": [
             "Fire",
             "Flying"
@@ -167,6 +175,7 @@
         ]
     },
     "Charizard-Mega-X": {
+        "evoTypes": [],
         "types": [
             "Fire",
             "Dragon"
@@ -188,6 +197,7 @@
         ]
     },
     "Charizard-Mega-Y": {
+        "evoTypes": [],
         "types": [
             "Fire",
             "Flying"
@@ -209,6 +219,7 @@
         ]
     },
     "Charizard-Gmax": {
+        "evoTypes": [],
         "types": [
             "Fire",
             "Flying"
@@ -231,6 +242,7 @@
         ]
     },
     "Squirtle": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -253,6 +265,7 @@
         ]
     },
     "Wartortle": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -275,6 +288,7 @@
         ]
     },
     "Blastoise": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -297,6 +311,7 @@
         ]
     },
     "Blastoise-Mega": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -320,6 +335,7 @@
         ]
     },
     "Blastoise-Gmax": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -344,6 +360,7 @@
         ]
     },
     "Caterpie": {
+        "evoTypes": [],
         "types": [
             "Bug"
         ],
@@ -365,6 +382,7 @@
         ]
     },
     "Metapod": {
+        "evoTypes": [],
         "types": [
             "Bug"
         ],
@@ -385,6 +403,7 @@
         ]
     },
     "Butterfree": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Flying"
@@ -404,6 +423,7 @@
         ]
     },
     "Butterfree-Gmax": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Flying"
@@ -425,6 +445,7 @@
         ]
     },
     "Weedle": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Poison"
@@ -444,6 +465,7 @@
         ]
     },
     "Kakuna": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Poison"
@@ -462,6 +484,7 @@
         ]
     },
     "Beedrill": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Poison"
@@ -481,6 +504,7 @@
         ]
     },
     "Beedrill-Mega": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Poison"
@@ -501,6 +525,7 @@
         ]
     },
     "Pidgey": {
+        "evoTypes": [],
         "types": [
             "Normal",
             "Flying"
@@ -521,6 +546,7 @@
         ]
     },
     "Pidgeotto": {
+        "evoTypes": [],
         "types": [
             "Normal",
             "Flying"
@@ -541,6 +567,7 @@
         ]
     },
     "Pidgeot": {
+        "evoTypes": [],
         "types": [
             "Normal",
             "Flying"
@@ -561,6 +588,7 @@
         ]
     },
     "Pidgeot-Mega": {
+        "evoTypes": [],
         "types": [
             "Normal",
             "Flying"
@@ -581,6 +609,7 @@
         ]
     },
     "Rattata": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -603,6 +632,7 @@
         ]
     },
     "Rattata-Alola": {
+        "evoTypes": [],
         "types": [
             "Dark",
             "Normal"
@@ -625,6 +655,7 @@
         ]
     },
     "Raticate": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -647,6 +678,7 @@
         ]
     },
     "Raticate-Alola": {
+        "evoTypes": [],
         "types": [
             "Dark",
             "Normal"
@@ -669,6 +701,7 @@
         ]
     },
     "Raticate-Alola-Totem": {
+        "evoTypes": [],
         "types": [
             "Dark",
             "Normal"
@@ -689,6 +722,7 @@
         ]
     },
     "Spearow": {
+        "evoTypes": [],
         "types": [
             "Normal",
             "Flying"
@@ -708,6 +742,7 @@
         ]
     },
     "Fearow": {
+        "evoTypes": [],
         "types": [
             "Normal",
             "Flying"
@@ -727,6 +762,7 @@
         ]
     },
     "Ekans": {
+        "evoTypes": [],
         "types": [
             "Poison"
         ],
@@ -750,6 +786,7 @@
         ]
     },
     "Arbok": {
+        "evoTypes": [],
         "types": [
             "Poison"
         ],
@@ -773,6 +810,9 @@
         ]
     },
     "Pikachu": {
+        "evoTypes": [
+            "Evolved by Friendship"
+        ],
         "types": [
             "Electric"
         ],
@@ -795,6 +835,7 @@
         ]
     },
     "Pikachu-Cosplay": {
+        "evoTypes": [],
         "types": [
             "Electric"
         ],
@@ -817,6 +858,7 @@
         ]
     },
     "Pikachu-Rock-Star": {
+        "evoTypes": [],
         "types": [
             "Electric"
         ],
@@ -839,6 +881,7 @@
         ]
     },
     "Pikachu-Belle": {
+        "evoTypes": [],
         "types": [
             "Electric"
         ],
@@ -861,6 +904,7 @@
         ]
     },
     "Pikachu-Pop-Star": {
+        "evoTypes": [],
         "types": [
             "Electric"
         ],
@@ -883,6 +927,7 @@
         ]
     },
     "Pikachu-PhD": {
+        "evoTypes": [],
         "types": [
             "Electric"
         ],
@@ -905,6 +950,7 @@
         ]
     },
     "Pikachu-Libre": {
+        "evoTypes": [],
         "types": [
             "Electric"
         ],
@@ -927,6 +973,7 @@
         ]
     },
     "Pikachu-Original": {
+        "evoTypes": [],
         "types": [
             "Electric"
         ],
@@ -950,6 +997,7 @@
         ]
     },
     "Pikachu-Hoenn": {
+        "evoTypes": [],
         "types": [
             "Electric"
         ],
@@ -973,6 +1021,7 @@
         ]
     },
     "Pikachu-Sinnoh": {
+        "evoTypes": [],
         "types": [
             "Electric"
         ],
@@ -996,6 +1045,7 @@
         ]
     },
     "Pikachu-Unova": {
+        "evoTypes": [],
         "types": [
             "Electric"
         ],
@@ -1019,6 +1069,7 @@
         ]
     },
     "Pikachu-Kalos": {
+        "evoTypes": [],
         "types": [
             "Electric"
         ],
@@ -1042,6 +1093,7 @@
         ]
     },
     "Pikachu-Alola": {
+        "evoTypes": [],
         "types": [
             "Electric"
         ],
@@ -1065,6 +1117,7 @@
         ]
     },
     "Pikachu-Partner": {
+        "evoTypes": [],
         "types": [
             "Electric"
         ],
@@ -1088,6 +1141,7 @@
         ]
     },
     "Pikachu-Starter": {
+        "evoTypes": [],
         "types": [
             "Electric"
         ],
@@ -1111,6 +1165,7 @@
         ]
     },
     "Pikachu-Gmax": {
+        "evoTypes": [],
         "types": [
             "Electric"
         ],
@@ -1135,6 +1190,7 @@
         ]
     },
     "Pikachu-World": {
+        "evoTypes": [],
         "types": [
             "Electric"
         ],
@@ -1158,6 +1214,9 @@
         ]
     },
     "Raichu": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Electric"
         ],
@@ -1180,6 +1239,9 @@
         ]
     },
     "Raichu-Alola": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Electric",
             "Psychic"
@@ -1201,6 +1263,7 @@
         ]
     },
     "Sandshrew": {
+        "evoTypes": [],
         "types": [
             "Ground"
         ],
@@ -1222,6 +1285,7 @@
         ]
     },
     "Sandshrew-Alola": {
+        "evoTypes": [],
         "types": [
             "Ice",
             "Steel"
@@ -1243,6 +1307,7 @@
         ]
     },
     "Sandslash": {
+        "evoTypes": [],
         "types": [
             "Ground"
         ],
@@ -1264,6 +1329,9 @@
         ]
     },
     "Sandslash-Alola": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Ice",
             "Steel"
@@ -1285,6 +1353,7 @@
         ]
     },
     "Nidoran-F": {
+        "evoTypes": [],
         "types": [
             "Poison"
         ],
@@ -1308,6 +1377,7 @@
         ]
     },
     "Nidorina": {
+        "evoTypes": [],
         "types": [
             "Poison"
         ],
@@ -1330,6 +1400,9 @@
         ]
     },
     "Nidoqueen": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Poison",
             "Ground"
@@ -1350,6 +1423,7 @@
         ]
     },
     "Nidoran-M": {
+        "evoTypes": [],
         "types": [
             "Poison"
         ],
@@ -1373,6 +1447,7 @@
         ]
     },
     "Nidorino": {
+        "evoTypes": [],
         "types": [
             "Poison"
         ],
@@ -1396,6 +1471,9 @@
         ]
     },
     "Nidoking": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Poison",
             "Ground"
@@ -1417,6 +1495,9 @@
         ]
     },
     "Clefairy": {
+        "evoTypes": [
+            "Evolved by Friendship"
+        ],
         "types": [
             "Fairy"
         ],
@@ -1439,6 +1520,9 @@
         ]
     },
     "Clefable": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Fairy"
         ],
@@ -1461,6 +1545,7 @@
         ]
     },
     "Vulpix": {
+        "evoTypes": [],
         "types": [
             "Fire"
         ],
@@ -1482,6 +1567,7 @@
         ]
     },
     "Vulpix-Alola": {
+        "evoTypes": [],
         "types": [
             "Ice"
         ],
@@ -1505,6 +1591,9 @@
         ]
     },
     "Ninetales": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Fire"
         ],
@@ -1526,6 +1615,9 @@
         ]
     },
     "Ninetales-Alola": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Ice",
             "Fairy"
@@ -1547,6 +1639,9 @@
         ]
     },
     "Jigglypuff": {
+        "evoTypes": [
+            "Evolved by Friendship"
+        ],
         "types": [
             "Normal",
             "Fairy"
@@ -1567,6 +1662,9 @@
         ]
     },
     "Wigglytuff": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Normal",
             "Fairy"
@@ -1587,6 +1685,7 @@
         ]
     },
     "Zubat": {
+        "evoTypes": [],
         "types": [
             "Poison",
             "Flying"
@@ -1606,6 +1705,7 @@
         ]
     },
     "Golbat": {
+        "evoTypes": [],
         "types": [
             "Poison",
             "Flying"
@@ -1625,6 +1725,7 @@
         ]
     },
     "Oddish": {
+        "evoTypes": [],
         "types": [
             "Grass",
             "Poison"
@@ -1644,6 +1745,7 @@
         ]
     },
     "Gloom": {
+        "evoTypes": [],
         "types": [
             "Grass",
             "Poison"
@@ -1663,6 +1765,9 @@
         ]
     },
     "Vileplume": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Grass",
             "Poison"
@@ -1682,6 +1787,7 @@
         ]
     },
     "Paras": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Grass"
@@ -1703,6 +1809,7 @@
         ]
     },
     "Parasect": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Grass"
@@ -1724,6 +1831,7 @@
         ]
     },
     "Venonat": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Poison"
@@ -1744,6 +1852,7 @@
         ]
     },
     "Venomoth": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Poison"
@@ -1764,6 +1873,7 @@
         ]
     },
     "Diglett": {
+        "evoTypes": [],
         "types": [
             "Ground"
         ],
@@ -1786,6 +1896,7 @@
         ]
     },
     "Diglett-Alola": {
+        "evoTypes": [],
         "types": [
             "Ground",
             "Steel"
@@ -1808,6 +1919,7 @@
         ]
     },
     "Dugtrio": {
+        "evoTypes": [],
         "types": [
             "Ground"
         ],
@@ -1830,6 +1942,7 @@
         ]
     },
     "Dugtrio-Alola": {
+        "evoTypes": [],
         "types": [
             "Ground",
             "Steel"
@@ -1852,6 +1965,7 @@
         ]
     },
     "Meowth": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -1874,6 +1988,7 @@
         ]
     },
     "Meowth-Alola": {
+        "evoTypes": [],
         "types": [
             "Dark"
         ],
@@ -1898,6 +2013,7 @@
         ]
     },
     "Meowth-Galar": {
+        "evoTypes": [],
         "types": [
             "Steel"
         ],
@@ -1922,6 +2038,7 @@
         ]
     },
     "Meowth-Gmax": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -1946,6 +2063,7 @@
         ]
     },
     "Persian": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -1968,6 +2086,9 @@
         ]
     },
     "Persian-Alola": {
+        "evoTypes": [
+            "Evolved by Friendship"
+        ],
         "types": [
             "Dark"
         ],
@@ -1992,6 +2113,7 @@
         ]
     },
     "Psyduck": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -2015,6 +2137,7 @@
         ]
     },
     "Golduck": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -2038,6 +2161,7 @@
         ]
     },
     "Mankey": {
+        "evoTypes": [],
         "types": [
             "Fighting"
         ],
@@ -2060,6 +2184,7 @@
         ]
     },
     "Primeape": {
+        "evoTypes": [],
         "types": [
             "Fighting"
         ],
@@ -2082,6 +2207,7 @@
         ]
     },
     "Growlithe": {
+        "evoTypes": [],
         "types": [
             "Fire"
         ],
@@ -2104,6 +2230,7 @@
         ]
     },
     "Growlithe-Hisui": {
+        "evoTypes": [],
         "types": [
             "Fire",
             "Rock"
@@ -2126,6 +2253,9 @@
         ]
     },
     "Arcanine": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Fire"
         ],
@@ -2148,6 +2278,9 @@
         ]
     },
     "Arcanine-Hisui": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Fire",
             "Rock"
@@ -2170,6 +2303,7 @@
         ]
     },
     "Poliwag": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -2192,6 +2326,7 @@
         ]
     },
     "Poliwhirl": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -2214,6 +2349,9 @@
         ]
     },
     "Poliwrath": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Water",
             "Fighting"
@@ -2234,6 +2372,7 @@
         ]
     },
     "Abra": {
+        "evoTypes": [],
         "types": [
             "Psychic"
         ],
@@ -2256,6 +2395,7 @@
         ]
     },
     "Kadabra": {
+        "evoTypes": [],
         "types": [
             "Psychic"
         ],
@@ -2278,6 +2418,9 @@
         ]
     },
     "Alakazam": {
+        "evoTypes": [
+            "Evolved by Trade"
+        ],
         "types": [
             "Psychic"
         ],
@@ -2300,6 +2443,7 @@
         ]
     },
     "Alakazam-Mega": {
+        "evoTypes": [],
         "types": [
             "Psychic"
         ],
@@ -2322,6 +2466,7 @@
         ]
     },
     "Machop": {
+        "evoTypes": [],
         "types": [
             "Fighting"
         ],
@@ -2344,6 +2489,7 @@
         ]
     },
     "Machoke": {
+        "evoTypes": [],
         "types": [
             "Fighting"
         ],
@@ -2366,6 +2512,9 @@
         ]
     },
     "Machamp": {
+        "evoTypes": [
+            "Evolved by Trade"
+        ],
         "types": [
             "Fighting"
         ],
@@ -2388,6 +2537,7 @@
         ]
     },
     "Machamp-Gmax": {
+        "evoTypes": [],
         "types": [
             "Fighting"
         ],
@@ -2412,6 +2562,7 @@
         ]
     },
     "Bellsprout": {
+        "evoTypes": [],
         "types": [
             "Grass",
             "Poison"
@@ -2431,6 +2582,7 @@
         ]
     },
     "Weepinbell": {
+        "evoTypes": [],
         "types": [
             "Grass",
             "Poison"
@@ -2450,6 +2602,9 @@
         ]
     },
     "Victreebel": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Grass",
             "Poison"
@@ -2469,6 +2624,7 @@
         ]
     },
     "Tentacool": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Poison"
@@ -2489,6 +2645,7 @@
         ]
     },
     "Tentacruel": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Poison"
@@ -2509,6 +2666,7 @@
         ]
     },
     "Geodude": {
+        "evoTypes": [],
         "types": [
             "Rock",
             "Ground"
@@ -2529,6 +2687,7 @@
         ]
     },
     "Geodude-Alola": {
+        "evoTypes": [],
         "types": [
             "Rock",
             "Electric"
@@ -2551,6 +2710,7 @@
         ]
     },
     "Graveler": {
+        "evoTypes": [],
         "types": [
             "Rock",
             "Ground"
@@ -2571,6 +2731,7 @@
         ]
     },
     "Graveler-Alola": {
+        "evoTypes": [],
         "types": [
             "Rock",
             "Electric"
@@ -2593,6 +2754,9 @@
         ]
     },
     "Golem": {
+        "evoTypes": [
+            "Evolved by Trade"
+        ],
         "types": [
             "Rock",
             "Ground"
@@ -2613,6 +2777,9 @@
         ]
     },
     "Golem-Alola": {
+        "evoTypes": [
+            "Evolved by Trade"
+        ],
         "types": [
             "Rock",
             "Electric"
@@ -2635,6 +2802,7 @@
         ]
     },
     "Ponyta": {
+        "evoTypes": [],
         "types": [
             "Fire"
         ],
@@ -2657,6 +2825,7 @@
         ]
     },
     "Ponyta-Galar": {
+        "evoTypes": [],
         "types": [
             "Psychic"
         ],
@@ -2681,6 +2850,7 @@
         ]
     },
     "Rapidash": {
+        "evoTypes": [],
         "types": [
             "Fire"
         ],
@@ -2703,6 +2873,7 @@
         ]
     },
     "Rapidash-Galar": {
+        "evoTypes": [],
         "types": [
             "Psychic",
             "Fairy"
@@ -2725,6 +2896,7 @@
         ]
     },
     "Slowpoke": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Psychic"
@@ -2746,6 +2918,7 @@
         ]
     },
     "Slowpoke-Galar": {
+        "evoTypes": [],
         "types": [
             "Psychic"
         ],
@@ -2771,6 +2944,7 @@
         ]
     },
     "Slowbro": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Psychic"
@@ -2792,6 +2966,7 @@
         ]
     },
     "Slowbro-Mega": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Psychic"
@@ -2813,6 +2988,9 @@
         ]
     },
     "Slowbro-Galar": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Poison",
             "Psychic"
@@ -2836,6 +3014,7 @@
         ]
     },
     "Magnemite": {
+        "evoTypes": [],
         "types": [
             "Electric",
             "Steel"
@@ -2856,6 +3035,7 @@
         ]
     },
     "Magneton": {
+        "evoTypes": [],
         "types": [
             "Electric",
             "Steel"
@@ -2876,6 +3056,7 @@
         ]
     },
     "Farfetch\u2019d": {
+        "evoTypes": [],
         "types": [
             "Normal",
             "Flying"
@@ -2897,6 +3078,7 @@
         ]
     },
     "Farfetch\u2019d-Galar": {
+        "evoTypes": [],
         "types": [
             "Fighting"
         ],
@@ -2921,6 +3103,7 @@
         ]
     },
     "Doduo": {
+        "evoTypes": [],
         "types": [
             "Normal",
             "Flying"
@@ -2941,6 +3124,7 @@
         ]
     },
     "Dodrio": {
+        "evoTypes": [],
         "types": [
             "Normal",
             "Flying"
@@ -2961,6 +3145,7 @@
         ]
     },
     "Seel": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -2984,6 +3169,7 @@
         ]
     },
     "Dewgong": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Ice"
@@ -3005,6 +3191,7 @@
         ]
     },
     "Grimer": {
+        "evoTypes": [],
         "types": [
             "Poison"
         ],
@@ -3027,6 +3214,7 @@
         ]
     },
     "Grimer-Alola": {
+        "evoTypes": [],
         "types": [
             "Poison",
             "Dark"
@@ -3049,6 +3237,7 @@
         ]
     },
     "Muk": {
+        "evoTypes": [],
         "types": [
             "Poison"
         ],
@@ -3071,6 +3260,7 @@
         ]
     },
     "Muk-Alola": {
+        "evoTypes": [],
         "types": [
             "Poison",
             "Dark"
@@ -3093,6 +3283,7 @@
         ]
     },
     "Shellder": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -3115,6 +3306,9 @@
         ]
     },
     "Cloyster": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Water",
             "Ice"
@@ -3135,6 +3329,7 @@
         ]
     },
     "Gastly": {
+        "evoTypes": [],
         "types": [
             "Ghost",
             "Poison"
@@ -3153,6 +3348,7 @@
         ]
     },
     "Haunter": {
+        "evoTypes": [],
         "types": [
             "Ghost",
             "Poison"
@@ -3171,6 +3367,9 @@
         ]
     },
     "Gengar": {
+        "evoTypes": [
+            "Evolved by Trade"
+        ],
         "types": [
             "Ghost",
             "Poison"
@@ -3189,6 +3388,7 @@
         ]
     },
     "Gengar-Mega": {
+        "evoTypes": [],
         "types": [
             "Ghost",
             "Poison"
@@ -3209,6 +3409,7 @@
         ]
     },
     "Gengar-Gmax": {
+        "evoTypes": [],
         "types": [
             "Ghost",
             "Poison"
@@ -3229,6 +3430,7 @@
         ]
     },
     "Onix": {
+        "evoTypes": [],
         "types": [
             "Rock",
             "Ground"
@@ -3249,6 +3451,7 @@
         ]
     },
     "Drowzee": {
+        "evoTypes": [],
         "types": [
             "Psychic"
         ],
@@ -3271,6 +3474,7 @@
         ]
     },
     "Hypno": {
+        "evoTypes": [],
         "types": [
             "Psychic"
         ],
@@ -3293,6 +3497,7 @@
         ]
     },
     "Krabby": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -3315,6 +3520,7 @@
         ]
     },
     "Kingler": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -3337,6 +3543,7 @@
         ]
     },
     "Kingler-Gmax": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -3361,6 +3568,7 @@
         ]
     },
     "Voltorb": {
+        "evoTypes": [],
         "types": [
             "Electric"
         ],
@@ -3383,6 +3591,7 @@
         ]
     },
     "Voltorb-Hisui": {
+        "evoTypes": [],
         "types": [
             "Electric",
             "Grass"
@@ -3405,6 +3614,7 @@
         ]
     },
     "Electrode": {
+        "evoTypes": [],
         "types": [
             "Electric"
         ],
@@ -3427,6 +3637,9 @@
         ]
     },
     "Electrode-Hisui": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Electric",
             "Grass"
@@ -3449,6 +3662,7 @@
         ]
     },
     "Exeggcute": {
+        "evoTypes": [],
         "types": [
             "Grass",
             "Psychic"
@@ -3468,6 +3682,9 @@
         ]
     },
     "Exeggutor": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Grass",
             "Psychic"
@@ -3487,6 +3704,9 @@
         ]
     },
     "Exeggutor-Alola": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Grass",
             "Dragon"
@@ -3508,6 +3728,7 @@
         ]
     },
     "Cubone": {
+        "evoTypes": [],
         "types": [
             "Ground"
         ],
@@ -3530,6 +3751,7 @@
         ]
     },
     "Marowak": {
+        "evoTypes": [],
         "types": [
             "Ground"
         ],
@@ -3552,6 +3774,7 @@
         ]
     },
     "Marowak-Alola": {
+        "evoTypes": [],
         "types": [
             "Fire",
             "Ghost"
@@ -3574,6 +3797,7 @@
         ]
     },
     "Marowak-Alola-Totem": {
+        "evoTypes": [],
         "types": [
             "Fire",
             "Ghost"
@@ -3594,6 +3818,7 @@
         ]
     },
     "Hitmonlee": {
+        "evoTypes": [],
         "types": [
             "Fighting"
         ],
@@ -3616,6 +3841,7 @@
         ]
     },
     "Hitmonchan": {
+        "evoTypes": [],
         "types": [
             "Fighting"
         ],
@@ -3638,6 +3864,7 @@
         ]
     },
     "Lickitung": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -3660,6 +3887,7 @@
         ]
     },
     "Koffing": {
+        "evoTypes": [],
         "types": [
             "Poison"
         ],
@@ -3682,6 +3910,7 @@
         ]
     },
     "Weezing": {
+        "evoTypes": [],
         "types": [
             "Poison"
         ],
@@ -3704,6 +3933,7 @@
         ]
     },
     "Weezing-Galar": {
+        "evoTypes": [],
         "types": [
             "Poison",
             "Fairy"
@@ -3726,6 +3956,7 @@
         ]
     },
     "Rhyhorn": {
+        "evoTypes": [],
         "types": [
             "Ground",
             "Rock"
@@ -3747,6 +3978,7 @@
         ]
     },
     "Rhydon": {
+        "evoTypes": [],
         "types": [
             "Ground",
             "Rock"
@@ -3768,6 +4000,7 @@
         ]
     },
     "Chansey": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -3790,6 +4023,7 @@
         ]
     },
     "Tangela": {
+        "evoTypes": [],
         "types": [
             "Grass"
         ],
@@ -3812,6 +4046,7 @@
         ]
     },
     "Kangaskhan": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -3834,6 +4069,7 @@
         ]
     },
     "Kangaskhan-Mega": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -3856,6 +4092,7 @@
         ]
     },
     "Horsea": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -3879,6 +4116,7 @@
         ]
     },
     "Seadra": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -3902,6 +4140,7 @@
         ]
     },
     "Goldeen": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -3924,6 +4163,7 @@
         ]
     },
     "Seaking": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -3946,6 +4186,7 @@
         ]
     },
     "Staryu": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -3968,6 +4209,9 @@
         ]
     },
     "Starmie": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Water",
             "Psychic"
@@ -3988,6 +4232,7 @@
         ]
     },
     "Mr. Mime": {
+        "evoTypes": [],
         "types": [
             "Psychic",
             "Fairy"
@@ -4008,6 +4253,7 @@
         ]
     },
     "Mr. Mime-Galar": {
+        "evoTypes": [],
         "types": [
             "Ice",
             "Psychic"
@@ -4030,6 +4276,7 @@
         ]
     },
     "Scyther": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Flying"
@@ -4050,6 +4297,7 @@
         ]
     },
     "Jynx": {
+        "evoTypes": [],
         "types": [
             "Ice",
             "Psychic"
@@ -4070,6 +4318,7 @@
         ]
     },
     "Electabuzz": {
+        "evoTypes": [],
         "types": [
             "Electric"
         ],
@@ -4091,6 +4340,7 @@
         ]
     },
     "Magmar": {
+        "evoTypes": [],
         "types": [
             "Fire"
         ],
@@ -4112,6 +4362,7 @@
         ]
     },
     "Pinsir": {
+        "evoTypes": [],
         "types": [
             "Bug"
         ],
@@ -4134,6 +4385,7 @@
         ]
     },
     "Pinsir-Mega": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Flying"
@@ -4154,6 +4406,7 @@
         ]
     },
     "Tauros": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -4176,6 +4429,7 @@
         ]
     },
     "Tauros-Paldea-Combat": {
+        "evoTypes": [],
         "types": [
             "Fighting"
         ],
@@ -4200,6 +4454,7 @@
         ]
     },
     "Tauros-Paldea-Blaze": {
+        "evoTypes": [],
         "types": [
             "Fighting",
             "Fire"
@@ -4222,6 +4477,7 @@
         ]
     },
     "Tauros-Paldea-Aqua": {
+        "evoTypes": [],
         "types": [
             "Fighting",
             "Water"
@@ -4244,6 +4500,7 @@
         ]
     },
     "Magikarp": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -4266,6 +4523,7 @@
         ]
     },
     "Gyarados": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Flying"
@@ -4286,6 +4544,7 @@
         ]
     },
     "Gyarados-Mega": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Dark"
@@ -4307,6 +4566,7 @@
         ]
     },
     "Lapras": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Ice"
@@ -4328,6 +4588,7 @@
         ]
     },
     "Lapras-Gmax": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Ice"
@@ -4351,6 +4612,7 @@
         ]
     },
     "Ditto": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -4372,6 +4634,7 @@
         ]
     },
     "Eevee": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -4394,6 +4657,7 @@
         ]
     },
     "Eevee-Starter": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -4418,6 +4682,7 @@
         ]
     },
     "Eevee-Gmax": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -4442,6 +4707,9 @@
         ]
     },
     "Vaporeon": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Water"
         ],
@@ -4463,6 +4731,9 @@
         ]
     },
     "Jolteon": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Electric"
         ],
@@ -4484,6 +4755,9 @@
         ]
     },
     "Flareon": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Fire"
         ],
@@ -4505,6 +4779,7 @@
         ]
     },
     "Porygon": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -4527,6 +4802,7 @@
         ]
     },
     "Omanyte": {
+        "evoTypes": [],
         "types": [
             "Rock",
             "Water"
@@ -4548,6 +4824,7 @@
         ]
     },
     "Omastar": {
+        "evoTypes": [],
         "types": [
             "Rock",
             "Water"
@@ -4569,6 +4846,7 @@
         ]
     },
     "Kabuto": {
+        "evoTypes": [],
         "types": [
             "Rock",
             "Water"
@@ -4590,6 +4868,7 @@
         ]
     },
     "Kabutops": {
+        "evoTypes": [],
         "types": [
             "Rock",
             "Water"
@@ -4611,6 +4890,7 @@
         ]
     },
     "Aerodactyl": {
+        "evoTypes": [],
         "types": [
             "Rock",
             "Flying"
@@ -4631,6 +4911,7 @@
         ]
     },
     "Aerodactyl-Mega": {
+        "evoTypes": [],
         "types": [
             "Rock",
             "Flying"
@@ -4651,6 +4932,9 @@
         ]
     },
     "Snorlax": {
+        "evoTypes": [
+            "Evolved by Friendship"
+        ],
         "types": [
             "Normal"
         ],
@@ -4673,6 +4957,7 @@
         ]
     },
     "Snorlax-Gmax": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -4697,6 +4982,7 @@
         ]
     },
     "Articuno": {
+        "evoTypes": [],
         "types": [
             "Ice",
             "Flying"
@@ -4718,6 +5004,7 @@
         ]
     },
     "Articuno-Galar": {
+        "evoTypes": [],
         "types": [
             "Psychic",
             "Flying"
@@ -4740,6 +5027,7 @@
         ]
     },
     "Zapdos": {
+        "evoTypes": [],
         "types": [
             "Electric",
             "Flying"
@@ -4761,6 +5049,7 @@
         ]
     },
     "Zapdos-Galar": {
+        "evoTypes": [],
         "types": [
             "Fighting",
             "Flying"
@@ -4783,6 +5072,7 @@
         ]
     },
     "Moltres": {
+        "evoTypes": [],
         "types": [
             "Fire",
             "Flying"
@@ -4804,6 +5094,7 @@
         ]
     },
     "Moltres-Galar": {
+        "evoTypes": [],
         "types": [
             "Dark",
             "Flying"
@@ -4826,6 +5117,7 @@
         ]
     },
     "Dratini": {
+        "evoTypes": [],
         "types": [
             "Dragon"
         ],
@@ -4848,6 +5140,7 @@
         ]
     },
     "Dragonair": {
+        "evoTypes": [],
         "types": [
             "Dragon"
         ],
@@ -4870,6 +5163,7 @@
         ]
     },
     "Dragonite": {
+        "evoTypes": [],
         "types": [
             "Dragon",
             "Flying"
@@ -4890,6 +5184,7 @@
         ]
     },
     "Mewtwo": {
+        "evoTypes": [],
         "types": [
             "Psychic"
         ],
@@ -4913,6 +5208,7 @@
         ]
     },
     "Mewtwo-Mega-X": {
+        "evoTypes": [],
         "types": [
             "Psychic",
             "Fighting"
@@ -4935,6 +5231,7 @@
         ]
     },
     "Mewtwo-Mega-Y": {
+        "evoTypes": [],
         "types": [
             "Psychic"
         ],
@@ -4959,6 +5256,7 @@
         ]
     },
     "Mew": {
+        "evoTypes": [],
         "types": [
             "Psychic"
         ],
@@ -4982,6 +5280,7 @@
         ]
     },
     "Chikorita": {
+        "evoTypes": [],
         "types": [
             "Grass"
         ],
@@ -5004,6 +5303,7 @@
         ]
     },
     "Bayleef": {
+        "evoTypes": [],
         "types": [
             "Grass"
         ],
@@ -5026,6 +5326,7 @@
         ]
     },
     "Meganium": {
+        "evoTypes": [],
         "types": [
             "Grass"
         ],
@@ -5048,6 +5349,7 @@
         ]
     },
     "Cyndaquil": {
+        "evoTypes": [],
         "types": [
             "Fire"
         ],
@@ -5069,6 +5371,7 @@
         ]
     },
     "Quilava": {
+        "evoTypes": [],
         "types": [
             "Fire"
         ],
@@ -5090,6 +5393,7 @@
         ]
     },
     "Typhlosion": {
+        "evoTypes": [],
         "types": [
             "Fire"
         ],
@@ -5111,6 +5415,7 @@
         ]
     },
     "Typhlosion-Hisui": {
+        "evoTypes": [],
         "types": [
             "Fire",
             "Ghost"
@@ -5132,6 +5437,7 @@
         ]
     },
     "Totodile": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -5154,6 +5460,7 @@
         ]
     },
     "Croconaw": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -5176,6 +5483,7 @@
         ]
     },
     "Feraligatr": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -5198,6 +5506,7 @@
         ]
     },
     "Sentret": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -5220,6 +5529,7 @@
         ]
     },
     "Furret": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -5242,6 +5552,7 @@
         ]
     },
     "Hoothoot": {
+        "evoTypes": [],
         "types": [
             "Normal",
             "Flying"
@@ -5262,6 +5573,7 @@
         ]
     },
     "Noctowl": {
+        "evoTypes": [],
         "types": [
             "Normal",
             "Flying"
@@ -5282,6 +5594,7 @@
         ]
     },
     "Ledyba": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Flying"
@@ -5302,6 +5615,7 @@
         ]
     },
     "Ledian": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Flying"
@@ -5322,6 +5636,7 @@
         ]
     },
     "Spinarak": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Poison"
@@ -5342,6 +5657,7 @@
         ]
     },
     "Ariados": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Poison"
@@ -5362,6 +5678,9 @@
         ]
     },
     "Crobat": {
+        "evoTypes": [
+            "Evolved by Friendship"
+        ],
         "types": [
             "Poison",
             "Flying"
@@ -5381,6 +5700,7 @@
         ]
     },
     "Chinchou": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Electric"
@@ -5401,6 +5721,7 @@
         ]
     },
     "Lanturn": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Electric"
@@ -5421,6 +5742,7 @@
         ]
     },
     "Pichu": {
+        "evoTypes": [],
         "types": [
             "Electric"
         ],
@@ -5442,6 +5764,7 @@
         ]
     },
     "Pichu-Spiky-eared": {
+        "evoTypes": [],
         "types": [
             "Electric"
         ],
@@ -5464,6 +5787,7 @@
         ]
     },
     "Cleffa": {
+        "evoTypes": [],
         "types": [
             "Fairy"
         ],
@@ -5486,6 +5810,7 @@
         ]
     },
     "Igglybuff": {
+        "evoTypes": [],
         "types": [
             "Normal",
             "Fairy"
@@ -5506,6 +5831,7 @@
         ]
     },
     "Togepi": {
+        "evoTypes": [],
         "types": [
             "Fairy"
         ],
@@ -5528,6 +5854,9 @@
         ]
     },
     "Togetic": {
+        "evoTypes": [
+            "Evolved by Friendship"
+        ],
         "types": [
             "Fairy",
             "Flying"
@@ -5549,6 +5878,7 @@
         ]
     },
     "Natu": {
+        "evoTypes": [],
         "types": [
             "Psychic",
             "Flying"
@@ -5569,6 +5899,7 @@
         ]
     },
     "Xatu": {
+        "evoTypes": [],
         "types": [
             "Psychic",
             "Flying"
@@ -5589,6 +5920,7 @@
         ]
     },
     "Mareep": {
+        "evoTypes": [],
         "types": [
             "Electric"
         ],
@@ -5611,6 +5943,7 @@
         ]
     },
     "Flaaffy": {
+        "evoTypes": [],
         "types": [
             "Electric"
         ],
@@ -5633,6 +5966,7 @@
         ]
     },
     "Ampharos": {
+        "evoTypes": [],
         "types": [
             "Electric"
         ],
@@ -5655,6 +5989,7 @@
         ]
     },
     "Ampharos-Mega": {
+        "evoTypes": [],
         "types": [
             "Electric",
             "Dragon"
@@ -5676,6 +6011,9 @@
         ]
     },
     "Bellossom": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Grass"
         ],
@@ -5697,6 +6035,9 @@
         ]
     },
     "Marill": {
+        "evoTypes": [
+            "Evolved by Friendship"
+        ],
         "types": [
             "Water",
             "Fairy"
@@ -5718,6 +6059,7 @@
         ]
     },
     "Azumarill": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Fairy"
@@ -5739,6 +6081,7 @@
         ]
     },
     "Sudowoodo": {
+        "evoTypes": [],
         "types": [
             "Rock"
         ],
@@ -5761,6 +6104,9 @@
         ]
     },
     "Politoed": {
+        "evoTypes": [
+            "Evolved by Trade"
+        ],
         "types": [
             "Water"
         ],
@@ -5783,6 +6129,7 @@
         ]
     },
     "Hoppip": {
+        "evoTypes": [],
         "types": [
             "Grass",
             "Flying"
@@ -5804,6 +6151,7 @@
         ]
     },
     "Skiploom": {
+        "evoTypes": [],
         "types": [
             "Grass",
             "Flying"
@@ -5825,6 +6173,7 @@
         ]
     },
     "Jumpluff": {
+        "evoTypes": [],
         "types": [
             "Grass",
             "Flying"
@@ -5846,6 +6195,7 @@
         ]
     },
     "Aipom": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -5868,6 +6218,7 @@
         ]
     },
     "Sunkern": {
+        "evoTypes": [],
         "types": [
             "Grass"
         ],
@@ -5890,6 +6241,9 @@
         ]
     },
     "Sunflora": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Grass"
         ],
@@ -5912,6 +6266,7 @@
         ]
     },
     "Yanma": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Flying"
@@ -5932,6 +6287,7 @@
         ]
     },
     "Wooper": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Ground"
@@ -5953,6 +6309,7 @@
         ]
     },
     "Wooper-Paldea": {
+        "evoTypes": [],
         "types": [
             "Poison",
             "Ground"
@@ -5976,6 +6333,7 @@
         ]
     },
     "Quagsire": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Ground"
@@ -5997,6 +6355,9 @@
         ]
     },
     "Espeon": {
+        "evoTypes": [
+            "Evolved by Friendship"
+        ],
         "types": [
             "Psychic"
         ],
@@ -6018,6 +6379,9 @@
         ]
     },
     "Umbreon": {
+        "evoTypes": [
+            "Evolved by Friendship"
+        ],
         "types": [
             "Dark"
         ],
@@ -6039,6 +6403,7 @@
         ]
     },
     "Murkrow": {
+        "evoTypes": [],
         "types": [
             "Dark",
             "Flying"
@@ -6059,6 +6424,9 @@
         ]
     },
     "Slowking": {
+        "evoTypes": [
+            "Evolved by Trade"
+        ],
         "types": [
             "Water",
             "Psychic"
@@ -6080,6 +6448,9 @@
         ]
     },
     "Slowking-Galar": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Poison",
             "Psychic"
@@ -6103,6 +6474,7 @@
         ]
     },
     "Misdreavus": {
+        "evoTypes": [],
         "types": [
             "Ghost"
         ],
@@ -6123,6 +6495,7 @@
         ]
     },
     "Unown": {
+        "evoTypes": [],
         "types": [
             "Psychic"
         ],
@@ -6143,6 +6516,7 @@
         ]
     },
     "Wobbuffet": {
+        "evoTypes": [],
         "types": [
             "Psychic"
         ],
@@ -6164,6 +6538,7 @@
         ]
     },
     "Girafarig": {
+        "evoTypes": [],
         "types": [
             "Normal",
             "Psychic"
@@ -6184,6 +6559,7 @@
         ]
     },
     "Pineco": {
+        "evoTypes": [],
         "types": [
             "Bug"
         ],
@@ -6205,6 +6581,7 @@
         ]
     },
     "Forretress": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Steel"
@@ -6224,6 +6601,7 @@
         ]
     },
     "Dunsparce": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -6246,6 +6624,7 @@
         ]
     },
     "Gligar": {
+        "evoTypes": [],
         "types": [
             "Ground",
             "Flying"
@@ -6266,6 +6645,9 @@
         ]
     },
     "Steelix": {
+        "evoTypes": [
+            "Evolved by Trade"
+        ],
         "types": [
             "Steel",
             "Ground"
@@ -6286,6 +6668,7 @@
         ]
     },
     "Steelix-Mega": {
+        "evoTypes": [],
         "types": [
             "Steel",
             "Ground"
@@ -6306,6 +6689,7 @@
         ]
     },
     "Snubbull": {
+        "evoTypes": [],
         "types": [
             "Fairy"
         ],
@@ -6329,6 +6713,7 @@
         ]
     },
     "Granbull": {
+        "evoTypes": [],
         "types": [
             "Fairy"
         ],
@@ -6352,6 +6737,7 @@
         ]
     },
     "Qwilfish": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Poison"
@@ -6372,6 +6758,7 @@
         ]
     },
     "Qwilfish-Hisui": {
+        "evoTypes": [],
         "types": [
             "Dark",
             "Poison"
@@ -6394,6 +6781,9 @@
         ]
     },
     "Scizor": {
+        "evoTypes": [
+            "Evolved by Trade"
+        ],
         "types": [
             "Bug",
             "Steel"
@@ -6414,6 +6804,7 @@
         ]
     },
     "Scizor-Mega": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Steel"
@@ -6434,6 +6825,7 @@
         ]
     },
     "Shuckle": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Rock"
@@ -6454,6 +6846,7 @@
         ]
     },
     "Heracross": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Fighting"
@@ -6474,6 +6867,7 @@
         ]
     },
     "Heracross-Mega": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Fighting"
@@ -6494,6 +6888,7 @@
         ]
     },
     "Sneasel": {
+        "evoTypes": [],
         "types": [
             "Dark",
             "Ice"
@@ -6514,6 +6909,7 @@
         ]
     },
     "Sneasel-Hisui": {
+        "evoTypes": [],
         "types": [
             "Fighting",
             "Poison"
@@ -6536,6 +6932,7 @@
         ]
     },
     "Teddiursa": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -6558,6 +6955,7 @@
         ]
     },
     "Ursaring": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -6580,6 +6978,7 @@
         ]
     },
     "Slugma": {
+        "evoTypes": [],
         "types": [
             "Fire"
         ],
@@ -6602,6 +7001,7 @@
         ]
     },
     "Magcargo": {
+        "evoTypes": [],
         "types": [
             "Fire",
             "Rock"
@@ -6622,6 +7022,7 @@
         ]
     },
     "Swinub": {
+        "evoTypes": [],
         "types": [
             "Ice",
             "Ground"
@@ -6642,6 +7043,7 @@
         ]
     },
     "Piloswine": {
+        "evoTypes": [],
         "types": [
             "Ice",
             "Ground"
@@ -6662,6 +7064,7 @@
         ]
     },
     "Corsola": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Rock"
@@ -6683,6 +7086,7 @@
         ]
     },
     "Corsola-Galar": {
+        "evoTypes": [],
         "types": [
             "Ghost"
         ],
@@ -6707,6 +7111,7 @@
         ]
     },
     "Remoraid": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -6730,6 +7135,7 @@
         ]
     },
     "Octillery": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -6753,6 +7159,7 @@
         ]
     },
     "Delibird": {
+        "evoTypes": [],
         "types": [
             "Ice",
             "Flying"
@@ -6774,6 +7181,7 @@
         ]
     },
     "Mantine": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Flying"
@@ -6794,6 +7202,7 @@
         ]
     },
     "Skarmory": {
+        "evoTypes": [],
         "types": [
             "Steel",
             "Flying"
@@ -6814,6 +7223,7 @@
         ]
     },
     "Houndour": {
+        "evoTypes": [],
         "types": [
             "Dark",
             "Fire"
@@ -6834,6 +7244,7 @@
         ]
     },
     "Houndoom": {
+        "evoTypes": [],
         "types": [
             "Dark",
             "Fire"
@@ -6854,6 +7265,7 @@
         ]
     },
     "Houndoom-Mega": {
+        "evoTypes": [],
         "types": [
             "Dark",
             "Fire"
@@ -6874,6 +7286,9 @@
         ]
     },
     "Kingdra": {
+        "evoTypes": [
+            "Evolved by Trade"
+        ],
         "types": [
             "Water",
             "Dragon"
@@ -6895,6 +7310,7 @@
         ]
     },
     "Phanpy": {
+        "evoTypes": [],
         "types": [
             "Ground"
         ],
@@ -6916,6 +7332,7 @@
         ]
     },
     "Donphan": {
+        "evoTypes": [],
         "types": [
             "Ground"
         ],
@@ -6937,6 +7354,9 @@
         ]
     },
     "Porygon2": {
+        "evoTypes": [
+            "Evolved by Trade"
+        ],
         "types": [
             "Normal"
         ],
@@ -6959,6 +7379,7 @@
         ]
     },
     "Stantler": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -6981,6 +7402,7 @@
         ]
     },
     "Smeargle": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -7003,6 +7425,7 @@
         ]
     },
     "Tyrogue": {
+        "evoTypes": [],
         "types": [
             "Fighting"
         ],
@@ -7025,6 +7448,7 @@
         ]
     },
     "Hitmontop": {
+        "evoTypes": [],
         "types": [
             "Fighting"
         ],
@@ -7047,6 +7471,7 @@
         ]
     },
     "Smoochum": {
+        "evoTypes": [],
         "types": [
             "Ice",
             "Psychic"
@@ -7067,6 +7492,7 @@
         ]
     },
     "Elekid": {
+        "evoTypes": [],
         "types": [
             "Electric"
         ],
@@ -7088,6 +7514,7 @@
         ]
     },
     "Magby": {
+        "evoTypes": [],
         "types": [
             "Fire"
         ],
@@ -7109,6 +7536,7 @@
         ]
     },
     "Miltank": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -7131,6 +7559,9 @@
         ]
     },
     "Blissey": {
+        "evoTypes": [
+            "Evolved by Friendship"
+        ],
         "types": [
             "Normal"
         ],
@@ -7153,6 +7584,7 @@
         ]
     },
     "Raikou": {
+        "evoTypes": [],
         "types": [
             "Electric"
         ],
@@ -7176,6 +7608,7 @@
         ]
     },
     "Entei": {
+        "evoTypes": [],
         "types": [
             "Fire"
         ],
@@ -7199,6 +7632,7 @@
         ]
     },
     "Suicune": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -7222,6 +7656,7 @@
         ]
     },
     "Larvitar": {
+        "evoTypes": [],
         "types": [
             "Rock",
             "Ground"
@@ -7241,6 +7676,7 @@
         ]
     },
     "Pupitar": {
+        "evoTypes": [],
         "types": [
             "Rock",
             "Ground"
@@ -7259,6 +7695,7 @@
         ]
     },
     "Tyranitar": {
+        "evoTypes": [],
         "types": [
             "Rock",
             "Dark"
@@ -7278,6 +7715,7 @@
         ]
     },
     "Tyranitar-Mega": {
+        "evoTypes": [],
         "types": [
             "Rock",
             "Dark"
@@ -7298,6 +7736,7 @@
         ]
     },
     "Lugia": {
+        "evoTypes": [],
         "types": [
             "Psychic",
             "Flying"
@@ -7319,6 +7758,7 @@
         ]
     },
     "Ho-Oh": {
+        "evoTypes": [],
         "types": [
             "Fire",
             "Flying"
@@ -7340,6 +7780,7 @@
         ]
     },
     "Celebi": {
+        "evoTypes": [],
         "types": [
             "Psychic",
             "Grass"
@@ -7361,6 +7802,7 @@
         ]
     },
     "Treecko": {
+        "evoTypes": [],
         "types": [
             "Grass"
         ],
@@ -7383,6 +7825,7 @@
         ]
     },
     "Grovyle": {
+        "evoTypes": [],
         "types": [
             "Grass"
         ],
@@ -7405,6 +7848,7 @@
         ]
     },
     "Sceptile": {
+        "evoTypes": [],
         "types": [
             "Grass"
         ],
@@ -7427,6 +7871,7 @@
         ]
     },
     "Sceptile-Mega": {
+        "evoTypes": [],
         "types": [
             "Grass",
             "Dragon"
@@ -7448,6 +7893,7 @@
         ]
     },
     "Torchic": {
+        "evoTypes": [],
         "types": [
             "Fire"
         ],
@@ -7469,6 +7915,7 @@
         ]
     },
     "Combusken": {
+        "evoTypes": [],
         "types": [
             "Fire",
             "Fighting"
@@ -7488,6 +7935,7 @@
         ]
     },
     "Blaziken": {
+        "evoTypes": [],
         "types": [
             "Fire",
             "Fighting"
@@ -7507,6 +7955,7 @@
         ]
     },
     "Blaziken-Mega": {
+        "evoTypes": [],
         "types": [
             "Fire",
             "Fighting"
@@ -7527,6 +7976,7 @@
         ]
     },
     "Mudkip": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -7549,6 +7999,7 @@
         ]
     },
     "Marshtomp": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Ground"
@@ -7569,6 +8020,7 @@
         ]
     },
     "Swampert": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Ground"
@@ -7589,6 +8041,7 @@
         ]
     },
     "Swampert-Mega": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Ground"
@@ -7610,6 +8063,7 @@
         ]
     },
     "Poochyena": {
+        "evoTypes": [],
         "types": [
             "Dark"
         ],
@@ -7632,6 +8086,7 @@
         ]
     },
     "Mightyena": {
+        "evoTypes": [],
         "types": [
             "Dark"
         ],
@@ -7654,6 +8109,7 @@
         ]
     },
     "Zigzagoon": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -7676,6 +8132,7 @@
         ]
     },
     "Zigzagoon-Galar": {
+        "evoTypes": [],
         "types": [
             "Dark",
             "Normal"
@@ -7698,6 +8155,7 @@
         ]
     },
     "Linoone": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -7720,6 +8178,7 @@
         ]
     },
     "Linoone-Galar": {
+        "evoTypes": [],
         "types": [
             "Dark",
             "Normal"
@@ -7742,6 +8201,7 @@
         ]
     },
     "Wurmple": {
+        "evoTypes": [],
         "types": [
             "Bug"
         ],
@@ -7763,6 +8223,7 @@
         ]
     },
     "Silcoon": {
+        "evoTypes": [],
         "types": [
             "Bug"
         ],
@@ -7783,6 +8244,7 @@
         ]
     },
     "Beautifly": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Flying"
@@ -7802,6 +8264,7 @@
         ]
     },
     "Cascoon": {
+        "evoTypes": [],
         "types": [
             "Bug"
         ],
@@ -7822,6 +8285,7 @@
         ]
     },
     "Dustox": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Poison"
@@ -7841,6 +8305,7 @@
         ]
     },
     "Lotad": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Grass"
@@ -7862,6 +8327,7 @@
         ]
     },
     "Lombre": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Grass"
@@ -7883,6 +8349,9 @@
         ]
     },
     "Ludicolo": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Water",
             "Grass"
@@ -7904,6 +8373,7 @@
         ]
     },
     "Seedot": {
+        "evoTypes": [],
         "types": [
             "Grass"
         ],
@@ -7927,6 +8397,7 @@
         ]
     },
     "Nuzleaf": {
+        "evoTypes": [],
         "types": [
             "Grass",
             "Dark"
@@ -7948,6 +8419,9 @@
         ]
     },
     "Shiftry": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Grass",
             "Dark"
@@ -7969,6 +8443,7 @@
         ]
     },
     "Taillow": {
+        "evoTypes": [],
         "types": [
             "Normal",
             "Flying"
@@ -7988,6 +8463,7 @@
         ]
     },
     "Swellow": {
+        "evoTypes": [],
         "types": [
             "Normal",
             "Flying"
@@ -8007,6 +8483,7 @@
         ]
     },
     "Wingull": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Flying"
@@ -8028,6 +8505,7 @@
         ]
     },
     "Pelipper": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Flying"
@@ -8049,6 +8527,7 @@
         ]
     },
     "Ralts": {
+        "evoTypes": [],
         "types": [
             "Psychic",
             "Fairy"
@@ -8070,6 +8549,7 @@
         ]
     },
     "Kirlia": {
+        "evoTypes": [],
         "types": [
             "Psychic",
             "Fairy"
@@ -8091,6 +8571,7 @@
         ]
     },
     "Gardevoir": {
+        "evoTypes": [],
         "types": [
             "Psychic",
             "Fairy"
@@ -8112,6 +8593,7 @@
         ]
     },
     "Gardevoir-Mega": {
+        "evoTypes": [],
         "types": [
             "Psychic",
             "Fairy"
@@ -8132,6 +8614,7 @@
         ]
     },
     "Surskit": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Water"
@@ -8152,6 +8635,7 @@
         ]
     },
     "Masquerain": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Flying"
@@ -8172,6 +8656,7 @@
         ]
     },
     "Shroomish": {
+        "evoTypes": [],
         "types": [
             "Grass"
         ],
@@ -8195,6 +8680,7 @@
         ]
     },
     "Breloom": {
+        "evoTypes": [],
         "types": [
             "Grass",
             "Fighting"
@@ -8216,6 +8702,7 @@
         ]
     },
     "Slakoth": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -8236,6 +8723,7 @@
         ]
     },
     "Vigoroth": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -8256,6 +8744,7 @@
         ]
     },
     "Slaking": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -8276,6 +8765,7 @@
         ]
     },
     "Nincada": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Ground"
@@ -8295,6 +8785,7 @@
         ]
     },
     "Ninjask": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Flying"
@@ -8314,6 +8805,7 @@
         ]
     },
     "Shedinja": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Ghost"
@@ -8332,6 +8824,7 @@
         ]
     },
     "Whismur": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -8354,6 +8847,7 @@
         ]
     },
     "Loudred": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -8376,6 +8870,7 @@
         ]
     },
     "Exploud": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -8398,6 +8893,7 @@
         ]
     },
     "Makuhita": {
+        "evoTypes": [],
         "types": [
             "Fighting"
         ],
@@ -8420,6 +8916,7 @@
         ]
     },
     "Hariyama": {
+        "evoTypes": [],
         "types": [
             "Fighting"
         ],
@@ -8442,6 +8939,7 @@
         ]
     },
     "Azurill": {
+        "evoTypes": [],
         "types": [
             "Normal",
             "Fairy"
@@ -8462,6 +8960,7 @@
         ]
     },
     "Nosepass": {
+        "evoTypes": [],
         "types": [
             "Rock"
         ],
@@ -8484,6 +8983,7 @@
         ]
     },
     "Skitty": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -8507,6 +9007,9 @@
         ]
     },
     "Delcatty": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Normal"
         ],
@@ -8530,6 +9033,7 @@
         ]
     },
     "Sableye": {
+        "evoTypes": [],
         "types": [
             "Dark",
             "Ghost"
@@ -8550,6 +9054,7 @@
         ]
     },
     "Sableye-Mega": {
+        "evoTypes": [],
         "types": [
             "Dark",
             "Ghost"
@@ -8570,6 +9075,7 @@
         ]
     },
     "Mawile": {
+        "evoTypes": [],
         "types": [
             "Steel",
             "Fairy"
@@ -8591,6 +9097,7 @@
         ]
     },
     "Mawile-Mega": {
+        "evoTypes": [],
         "types": [
             "Steel",
             "Fairy"
@@ -8612,6 +9119,7 @@
         ]
     },
     "Aron": {
+        "evoTypes": [],
         "types": [
             "Steel",
             "Rock"
@@ -8632,6 +9140,7 @@
         ]
     },
     "Lairon": {
+        "evoTypes": [],
         "types": [
             "Steel",
             "Rock"
@@ -8652,6 +9161,7 @@
         ]
     },
     "Aggron": {
+        "evoTypes": [],
         "types": [
             "Steel",
             "Rock"
@@ -8672,6 +9182,7 @@
         ]
     },
     "Aggron-Mega": {
+        "evoTypes": [],
         "types": [
             "Steel"
         ],
@@ -8694,6 +9205,7 @@
         ]
     },
     "Meditite": {
+        "evoTypes": [],
         "types": [
             "Fighting",
             "Psychic"
@@ -8713,6 +9225,7 @@
         ]
     },
     "Medicham": {
+        "evoTypes": [],
         "types": [
             "Fighting",
             "Psychic"
@@ -8732,6 +9245,7 @@
         ]
     },
     "Medicham-Mega": {
+        "evoTypes": [],
         "types": [
             "Fighting",
             "Psychic"
@@ -8752,6 +9266,7 @@
         ]
     },
     "Electrike": {
+        "evoTypes": [],
         "types": [
             "Electric"
         ],
@@ -8774,6 +9289,7 @@
         ]
     },
     "Manectric": {
+        "evoTypes": [],
         "types": [
             "Electric"
         ],
@@ -8796,6 +9312,7 @@
         ]
     },
     "Manectric-Mega": {
+        "evoTypes": [],
         "types": [
             "Electric"
         ],
@@ -8818,6 +9335,7 @@
         ]
     },
     "Plusle": {
+        "evoTypes": [],
         "types": [
             "Electric"
         ],
@@ -8839,6 +9357,7 @@
         ]
     },
     "Minun": {
+        "evoTypes": [],
         "types": [
             "Electric"
         ],
@@ -8860,6 +9379,7 @@
         ]
     },
     "Volbeat": {
+        "evoTypes": [],
         "types": [
             "Bug"
         ],
@@ -8883,6 +9403,7 @@
         ]
     },
     "Illumise": {
+        "evoTypes": [],
         "types": [
             "Bug"
         ],
@@ -8906,6 +9427,9 @@
         ]
     },
     "Roselia": {
+        "evoTypes": [
+            "Evolved by Friendship"
+        ],
         "types": [
             "Grass",
             "Poison"
@@ -8927,6 +9451,7 @@
         ]
     },
     "Gulpin": {
+        "evoTypes": [],
         "types": [
             "Poison"
         ],
@@ -8949,6 +9474,7 @@
         ]
     },
     "Swalot": {
+        "evoTypes": [],
         "types": [
             "Poison"
         ],
@@ -8971,6 +9497,7 @@
         ]
     },
     "Carvanha": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Dark"
@@ -8990,6 +9517,7 @@
         ]
     },
     "Sharpedo": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Dark"
@@ -9009,6 +9537,7 @@
         ]
     },
     "Sharpedo-Mega": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Dark"
@@ -9029,6 +9558,7 @@
         ]
     },
     "Wailmer": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -9052,6 +9582,7 @@
         ]
     },
     "Wailord": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -9075,6 +9606,7 @@
         ]
     },
     "Numel": {
+        "evoTypes": [],
         "types": [
             "Fire",
             "Ground"
@@ -9095,6 +9627,7 @@
         ]
     },
     "Camerupt": {
+        "evoTypes": [],
         "types": [
             "Fire",
             "Ground"
@@ -9115,6 +9648,7 @@
         ]
     },
     "Camerupt-Mega": {
+        "evoTypes": [],
         "types": [
             "Fire",
             "Ground"
@@ -9135,6 +9669,7 @@
         ]
     },
     "Torkoal": {
+        "evoTypes": [],
         "types": [
             "Fire"
         ],
@@ -9157,6 +9692,7 @@
         ]
     },
     "Spoink": {
+        "evoTypes": [],
         "types": [
             "Psychic"
         ],
@@ -9179,6 +9715,7 @@
         ]
     },
     "Grumpig": {
+        "evoTypes": [],
         "types": [
             "Psychic"
         ],
@@ -9201,6 +9738,7 @@
         ]
     },
     "Spinda": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -9224,6 +9762,7 @@
         ]
     },
     "Trapinch": {
+        "evoTypes": [],
         "types": [
             "Ground"
         ],
@@ -9247,6 +9786,7 @@
         ]
     },
     "Vibrava": {
+        "evoTypes": [],
         "types": [
             "Ground",
             "Dragon"
@@ -9266,6 +9806,7 @@
         ]
     },
     "Flygon": {
+        "evoTypes": [],
         "types": [
             "Ground",
             "Dragon"
@@ -9285,6 +9826,7 @@
         ]
     },
     "Cacnea": {
+        "evoTypes": [],
         "types": [
             "Grass"
         ],
@@ -9307,6 +9849,7 @@
         ]
     },
     "Cacturne": {
+        "evoTypes": [],
         "types": [
             "Grass",
             "Dark"
@@ -9327,6 +9870,7 @@
         ]
     },
     "Swablu": {
+        "evoTypes": [],
         "types": [
             "Normal",
             "Flying"
@@ -9347,6 +9891,7 @@
         ]
     },
     "Altaria": {
+        "evoTypes": [],
         "types": [
             "Dragon",
             "Flying"
@@ -9367,6 +9912,7 @@
         ]
     },
     "Altaria-Mega": {
+        "evoTypes": [],
         "types": [
             "Dragon",
             "Fairy"
@@ -9388,6 +9934,7 @@
         ]
     },
     "Zangoose": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -9409,6 +9956,7 @@
         ]
     },
     "Seviper": {
+        "evoTypes": [],
         "types": [
             "Poison"
         ],
@@ -9431,6 +9979,7 @@
         ]
     },
     "Lunatone": {
+        "evoTypes": [],
         "types": [
             "Rock",
             "Psychic"
@@ -9449,6 +9998,7 @@
         ]
     },
     "Solrock": {
+        "evoTypes": [],
         "types": [
             "Rock",
             "Psychic"
@@ -9467,6 +10017,7 @@
         ]
     },
     "Barboach": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Ground"
@@ -9487,6 +10038,7 @@
         ]
     },
     "Whiscash": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Ground"
@@ -9507,6 +10059,7 @@
         ]
     },
     "Corphish": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -9530,6 +10083,7 @@
         ]
     },
     "Crawdaunt": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Dark"
@@ -9551,6 +10105,7 @@
         ]
     },
     "Baltoy": {
+        "evoTypes": [],
         "types": [
             "Ground",
             "Psychic"
@@ -9569,6 +10124,7 @@
         ]
     },
     "Claydol": {
+        "evoTypes": [],
         "types": [
             "Ground",
             "Psychic"
@@ -9587,6 +10143,7 @@
         ]
     },
     "Lileep": {
+        "evoTypes": [],
         "types": [
             "Rock",
             "Grass"
@@ -9606,6 +10163,7 @@
         ]
     },
     "Cradily": {
+        "evoTypes": [],
         "types": [
             "Rock",
             "Grass"
@@ -9625,6 +10183,7 @@
         ]
     },
     "Anorith": {
+        "evoTypes": [],
         "types": [
             "Rock",
             "Bug"
@@ -9644,6 +10203,7 @@
         ]
     },
     "Armaldo": {
+        "evoTypes": [],
         "types": [
             "Rock",
             "Bug"
@@ -9663,6 +10223,7 @@
         ]
     },
     "Feebas": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -9686,6 +10247,9 @@
         ]
     },
     "Milotic": {
+        "evoTypes": [
+            "Evolved by Trade"
+        ],
         "types": [
             "Water"
         ],
@@ -9709,6 +10273,7 @@
         ]
     },
     "Castform": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -9730,6 +10295,7 @@
         ]
     },
     "Castform-Sunny": {
+        "evoTypes": [],
         "types": [
             "Fire"
         ],
@@ -9753,6 +10319,7 @@
         ]
     },
     "Castform-Rainy": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -9776,6 +10343,7 @@
         ]
     },
     "Castform-Snowy": {
+        "evoTypes": [],
         "types": [
             "Ice"
         ],
@@ -9799,6 +10367,7 @@
         ]
     },
     "Kecleon": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -9820,6 +10389,7 @@
         ]
     },
     "Shuppet": {
+        "evoTypes": [],
         "types": [
             "Ghost"
         ],
@@ -9842,6 +10412,7 @@
         ]
     },
     "Banette": {
+        "evoTypes": [],
         "types": [
             "Ghost"
         ],
@@ -9864,6 +10435,7 @@
         ]
     },
     "Banette-Mega": {
+        "evoTypes": [],
         "types": [
             "Ghost"
         ],
@@ -9886,6 +10458,7 @@
         ]
     },
     "Duskull": {
+        "evoTypes": [],
         "types": [
             "Ghost"
         ],
@@ -9907,6 +10480,7 @@
         ]
     },
     "Dusclops": {
+        "evoTypes": [],
         "types": [
             "Ghost"
         ],
@@ -9928,6 +10502,7 @@
         ]
     },
     "Tropius": {
+        "evoTypes": [],
         "types": [
             "Grass",
             "Flying"
@@ -9949,6 +10524,9 @@
         ]
     },
     "Chimecho": {
+        "evoTypes": [
+            "Evolved by Friendship"
+        ],
         "types": [
             "Psychic"
         ],
@@ -9969,6 +10547,7 @@
         ]
     },
     "Absol": {
+        "evoTypes": [],
         "types": [
             "Dark"
         ],
@@ -9991,6 +10570,7 @@
         ]
     },
     "Absol-Mega": {
+        "evoTypes": [],
         "types": [
             "Dark"
         ],
@@ -10013,6 +10593,7 @@
         ]
     },
     "Wynaut": {
+        "evoTypes": [],
         "types": [
             "Psychic"
         ],
@@ -10034,6 +10615,7 @@
         ]
     },
     "Snorunt": {
+        "evoTypes": [],
         "types": [
             "Ice"
         ],
@@ -10057,6 +10639,7 @@
         ]
     },
     "Glalie": {
+        "evoTypes": [],
         "types": [
             "Ice"
         ],
@@ -10080,6 +10663,7 @@
         ]
     },
     "Glalie-Mega": {
+        "evoTypes": [],
         "types": [
             "Ice"
         ],
@@ -10103,6 +10687,7 @@
         ]
     },
     "Spheal": {
+        "evoTypes": [],
         "types": [
             "Ice",
             "Water"
@@ -10124,6 +10709,7 @@
         ]
     },
     "Sealeo": {
+        "evoTypes": [],
         "types": [
             "Ice",
             "Water"
@@ -10145,6 +10731,7 @@
         ]
     },
     "Walrein": {
+        "evoTypes": [],
         "types": [
             "Ice",
             "Water"
@@ -10166,6 +10753,7 @@
         ]
     },
     "Clamperl": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -10187,6 +10775,9 @@
         ]
     },
     "Huntail": {
+        "evoTypes": [
+            "Evolved by Trade"
+        ],
         "types": [
             "Water"
         ],
@@ -10208,6 +10799,9 @@
         ]
     },
     "Gorebyss": {
+        "evoTypes": [
+            "Evolved by Trade"
+        ],
         "types": [
             "Water"
         ],
@@ -10229,6 +10823,7 @@
         ]
     },
     "Relicanth": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Rock"
@@ -10250,6 +10845,7 @@
         ]
     },
     "Luvdisc": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -10271,6 +10867,7 @@
         ]
     },
     "Bagon": {
+        "evoTypes": [],
         "types": [
             "Dragon"
         ],
@@ -10292,6 +10889,7 @@
         ]
     },
     "Shelgon": {
+        "evoTypes": [],
         "types": [
             "Dragon"
         ],
@@ -10313,6 +10911,7 @@
         ]
     },
     "Salamence": {
+        "evoTypes": [],
         "types": [
             "Dragon",
             "Flying"
@@ -10332,6 +10931,7 @@
         ]
     },
     "Salamence-Mega": {
+        "evoTypes": [],
         "types": [
             "Dragon",
             "Flying"
@@ -10352,6 +10952,7 @@
         ]
     },
     "Beldum": {
+        "evoTypes": [],
         "types": [
             "Steel",
             "Psychic"
@@ -10371,6 +10972,7 @@
         ]
     },
     "Metang": {
+        "evoTypes": [],
         "types": [
             "Steel",
             "Psychic"
@@ -10390,6 +10992,7 @@
         ]
     },
     "Metagross": {
+        "evoTypes": [],
         "types": [
             "Steel",
             "Psychic"
@@ -10409,6 +11012,7 @@
         ]
     },
     "Metagross-Mega": {
+        "evoTypes": [],
         "types": [
             "Steel",
             "Psychic"
@@ -10429,6 +11033,7 @@
         ]
     },
     "Regirock": {
+        "evoTypes": [],
         "types": [
             "Rock"
         ],
@@ -10452,6 +11057,7 @@
         ]
     },
     "Regice": {
+        "evoTypes": [],
         "types": [
             "Ice"
         ],
@@ -10475,6 +11081,7 @@
         ]
     },
     "Registeel": {
+        "evoTypes": [],
         "types": [
             "Steel"
         ],
@@ -10498,6 +11105,7 @@
         ]
     },
     "Latias": {
+        "evoTypes": [],
         "types": [
             "Dragon",
             "Psychic"
@@ -10518,6 +11126,7 @@
         ]
     },
     "Latias-Mega": {
+        "evoTypes": [],
         "types": [
             "Dragon",
             "Psychic"
@@ -10540,6 +11149,7 @@
         ]
     },
     "Latios": {
+        "evoTypes": [],
         "types": [
             "Dragon",
             "Psychic"
@@ -10560,6 +11170,7 @@
         ]
     },
     "Latios-Mega": {
+        "evoTypes": [],
         "types": [
             "Dragon",
             "Psychic"
@@ -10582,6 +11193,7 @@
         ]
     },
     "Kyogre": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -10604,6 +11216,7 @@
         ]
     },
     "Kyogre-Primal": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -10628,6 +11241,7 @@
         ]
     },
     "Groudon": {
+        "evoTypes": [],
         "types": [
             "Ground"
         ],
@@ -10650,6 +11264,7 @@
         ]
     },
     "Groudon-Primal": {
+        "evoTypes": [],
         "types": [
             "Ground",
             "Fire"
@@ -10672,6 +11287,7 @@
         ]
     },
     "Rayquaza": {
+        "evoTypes": [],
         "types": [
             "Dragon",
             "Flying"
@@ -10692,6 +11308,7 @@
         ]
     },
     "Rayquaza-Mega": {
+        "evoTypes": [],
         "types": [
             "Dragon",
             "Flying"
@@ -10714,6 +11331,7 @@
         ]
     },
     "Jirachi": {
+        "evoTypes": [],
         "types": [
             "Steel",
             "Psychic"
@@ -10735,6 +11353,7 @@
         ]
     },
     "Deoxys": {
+        "evoTypes": [],
         "types": [
             "Psychic"
         ],
@@ -10758,6 +11377,7 @@
         ]
     },
     "Deoxys-Attack": {
+        "evoTypes": [],
         "types": [
             "Psychic"
         ],
@@ -10783,6 +11403,7 @@
         ]
     },
     "Deoxys-Defense": {
+        "evoTypes": [],
         "types": [
             "Psychic"
         ],
@@ -10808,6 +11429,7 @@
         ]
     },
     "Deoxys-Speed": {
+        "evoTypes": [],
         "types": [
             "Psychic"
         ],
@@ -10833,6 +11455,7 @@
         ]
     },
     "Turtwig": {
+        "evoTypes": [],
         "types": [
             "Grass"
         ],
@@ -10855,6 +11478,7 @@
         ]
     },
     "Grotle": {
+        "evoTypes": [],
         "types": [
             "Grass"
         ],
@@ -10877,6 +11501,7 @@
         ]
     },
     "Torterra": {
+        "evoTypes": [],
         "types": [
             "Grass",
             "Ground"
@@ -10897,6 +11522,7 @@
         ]
     },
     "Chimchar": {
+        "evoTypes": [],
         "types": [
             "Fire"
         ],
@@ -10919,6 +11545,7 @@
         ]
     },
     "Monferno": {
+        "evoTypes": [],
         "types": [
             "Fire",
             "Fighting"
@@ -10939,6 +11566,7 @@
         ]
     },
     "Infernape": {
+        "evoTypes": [],
         "types": [
             "Fire",
             "Fighting"
@@ -10959,6 +11587,7 @@
         ]
     },
     "Piplup": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -10981,6 +11610,7 @@
         ]
     },
     "Prinplup": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -11003,6 +11633,7 @@
         ]
     },
     "Empoleon": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Steel"
@@ -11023,6 +11654,7 @@
         ]
     },
     "Starly": {
+        "evoTypes": [],
         "types": [
             "Normal",
             "Flying"
@@ -11042,6 +11674,7 @@
         ]
     },
     "Staravia": {
+        "evoTypes": [],
         "types": [
             "Normal",
             "Flying"
@@ -11061,6 +11694,7 @@
         ]
     },
     "Staraptor": {
+        "evoTypes": [],
         "types": [
             "Normal",
             "Flying"
@@ -11080,6 +11714,7 @@
         ]
     },
     "Bidoof": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -11103,6 +11738,7 @@
         ]
     },
     "Bibarel": {
+        "evoTypes": [],
         "types": [
             "Normal",
             "Water"
@@ -11124,6 +11760,7 @@
         ]
     },
     "Kricketot": {
+        "evoTypes": [],
         "types": [
             "Bug"
         ],
@@ -11145,6 +11782,7 @@
         ]
     },
     "Kricketune": {
+        "evoTypes": [],
         "types": [
             "Bug"
         ],
@@ -11166,6 +11804,7 @@
         ]
     },
     "Shinx": {
+        "evoTypes": [],
         "types": [
             "Electric"
         ],
@@ -11188,6 +11827,7 @@
         ]
     },
     "Luxio": {
+        "evoTypes": [],
         "types": [
             "Electric"
         ],
@@ -11210,6 +11850,7 @@
         ]
     },
     "Luxray": {
+        "evoTypes": [],
         "types": [
             "Electric"
         ],
@@ -11232,6 +11873,7 @@
         ]
     },
     "Budew": {
+        "evoTypes": [],
         "types": [
             "Grass",
             "Poison"
@@ -11252,6 +11894,9 @@
         ]
     },
     "Roserade": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Grass",
             "Poison"
@@ -11273,6 +11918,7 @@
         ]
     },
     "Cranidos": {
+        "evoTypes": [],
         "types": [
             "Rock"
         ],
@@ -11294,6 +11940,7 @@
         ]
     },
     "Rampardos": {
+        "evoTypes": [],
         "types": [
             "Rock"
         ],
@@ -11315,6 +11962,7 @@
         ]
     },
     "Shieldon": {
+        "evoTypes": [],
         "types": [
             "Rock",
             "Steel"
@@ -11334,6 +11982,7 @@
         ]
     },
     "Bastiodon": {
+        "evoTypes": [],
         "types": [
             "Rock",
             "Steel"
@@ -11353,6 +12002,7 @@
         ]
     },
     "Burmy": {
+        "evoTypes": [],
         "types": [
             "Bug"
         ],
@@ -11374,6 +12024,7 @@
         ]
     },
     "Wormadam": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Grass"
@@ -11393,6 +12044,7 @@
         ]
     },
     "Wormadam-Sandy": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Ground"
@@ -11414,6 +12066,7 @@
         ]
     },
     "Wormadam-Trash": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Steel"
@@ -11435,6 +12088,7 @@
         ]
     },
     "Mothim": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Flying"
@@ -11454,6 +12108,7 @@
         ]
     },
     "Combee": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Flying"
@@ -11473,6 +12128,7 @@
         ]
     },
     "Vespiquen": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Flying"
@@ -11492,6 +12148,7 @@
         ]
     },
     "Pachirisu": {
+        "evoTypes": [],
         "types": [
             "Electric"
         ],
@@ -11515,6 +12172,7 @@
         ]
     },
     "Buizel": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -11537,6 +12195,7 @@
         ]
     },
     "Floatzel": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -11559,6 +12218,7 @@
         ]
     },
     "Cherubi": {
+        "evoTypes": [],
         "types": [
             "Grass"
         ],
@@ -11580,6 +12240,7 @@
         ]
     },
     "Cherrim": {
+        "evoTypes": [],
         "types": [
             "Grass"
         ],
@@ -11601,6 +12262,7 @@
         ]
     },
     "Cherrim-Sunshine": {
+        "evoTypes": [],
         "types": [
             "Grass"
         ],
@@ -11624,6 +12286,7 @@
         ]
     },
     "Shellos": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -11647,6 +12310,7 @@
         ]
     },
     "Gastrodon": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Ground"
@@ -11668,6 +12332,7 @@
         ]
     },
     "Ambipom": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -11690,6 +12355,7 @@
         ]
     },
     "Drifloon": {
+        "evoTypes": [],
         "types": [
             "Ghost",
             "Flying"
@@ -11710,6 +12376,7 @@
         ]
     },
     "Drifblim": {
+        "evoTypes": [],
         "types": [
             "Ghost",
             "Flying"
@@ -11730,6 +12397,7 @@
         ]
     },
     "Buneary": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -11753,6 +12421,9 @@
         ]
     },
     "Lopunny": {
+        "evoTypes": [
+            "Evolved by Friendship"
+        ],
         "types": [
             "Normal"
         ],
@@ -11776,6 +12447,7 @@
         ]
     },
     "Lopunny-Mega": {
+        "evoTypes": [],
         "types": [
             "Normal",
             "Fighting"
@@ -11797,6 +12469,9 @@
         ]
     },
     "Mismagius": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Ghost"
         ],
@@ -11817,6 +12492,9 @@
         ]
     },
     "Honchkrow": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Dark",
             "Flying"
@@ -11837,6 +12515,7 @@
         ]
     },
     "Glameow": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -11859,6 +12538,7 @@
         ]
     },
     "Purugly": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -11881,6 +12561,7 @@
         ]
     },
     "Chingling": {
+        "evoTypes": [],
         "types": [
             "Psychic"
         ],
@@ -11901,6 +12582,7 @@
         ]
     },
     "Stunky": {
+        "evoTypes": [],
         "types": [
             "Poison",
             "Dark"
@@ -11921,6 +12603,7 @@
         ]
     },
     "Skuntank": {
+        "evoTypes": [],
         "types": [
             "Poison",
             "Dark"
@@ -11941,6 +12624,7 @@
         ]
     },
     "Bronzor": {
+        "evoTypes": [],
         "types": [
             "Steel",
             "Psychic"
@@ -11961,6 +12645,7 @@
         ]
     },
     "Bronzong": {
+        "evoTypes": [],
         "types": [
             "Steel",
             "Psychic"
@@ -11981,6 +12666,7 @@
         ]
     },
     "Bonsly": {
+        "evoTypes": [],
         "types": [
             "Rock"
         ],
@@ -12003,6 +12689,7 @@
         ]
     },
     "Mime Jr.": {
+        "evoTypes": [],
         "types": [
             "Psychic",
             "Fairy"
@@ -12023,6 +12710,7 @@
         ]
     },
     "Happiny": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -12045,6 +12733,7 @@
         ]
     },
     "Chatot": {
+        "evoTypes": [],
         "types": [
             "Normal",
             "Flying"
@@ -12065,6 +12754,7 @@
         ]
     },
     "Spiritomb": {
+        "evoTypes": [],
         "types": [
             "Ghost",
             "Dark"
@@ -12084,6 +12774,7 @@
         ]
     },
     "Gible": {
+        "evoTypes": [],
         "types": [
             "Dragon",
             "Ground"
@@ -12104,6 +12795,7 @@
         ]
     },
     "Gabite": {
+        "evoTypes": [],
         "types": [
             "Dragon",
             "Ground"
@@ -12124,6 +12816,7 @@
         ]
     },
     "Garchomp": {
+        "evoTypes": [],
         "types": [
             "Dragon",
             "Ground"
@@ -12144,6 +12837,7 @@
         ]
     },
     "Garchomp-Mega": {
+        "evoTypes": [],
         "types": [
             "Dragon",
             "Ground"
@@ -12165,6 +12859,7 @@
         ]
     },
     "Munchlax": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -12187,6 +12882,7 @@
         ]
     },
     "Riolu": {
+        "evoTypes": [],
         "types": [
             "Fighting"
         ],
@@ -12209,6 +12905,9 @@
         ]
     },
     "Lucario": {
+        "evoTypes": [
+            "Evolved by Friendship"
+        ],
         "types": [
             "Fighting",
             "Steel"
@@ -12230,6 +12929,7 @@
         ]
     },
     "Lucario-Mega": {
+        "evoTypes": [],
         "types": [
             "Fighting",
             "Steel"
@@ -12251,6 +12951,7 @@
         ]
     },
     "Hippopotas": {
+        "evoTypes": [],
         "types": [
             "Ground"
         ],
@@ -12272,6 +12973,7 @@
         ]
     },
     "Hippowdon": {
+        "evoTypes": [],
         "types": [
             "Ground"
         ],
@@ -12293,6 +12995,7 @@
         ]
     },
     "Skorupi": {
+        "evoTypes": [],
         "types": [
             "Poison",
             "Bug"
@@ -12314,6 +13017,7 @@
         ]
     },
     "Drapion": {
+        "evoTypes": [],
         "types": [
             "Poison",
             "Dark"
@@ -12335,6 +13039,7 @@
         ]
     },
     "Croagunk": {
+        "evoTypes": [],
         "types": [
             "Poison",
             "Fighting"
@@ -12355,6 +13060,7 @@
         ]
     },
     "Toxicroak": {
+        "evoTypes": [],
         "types": [
             "Poison",
             "Fighting"
@@ -12375,6 +13081,7 @@
         ]
     },
     "Carnivine": {
+        "evoTypes": [],
         "types": [
             "Grass"
         ],
@@ -12395,6 +13102,7 @@
         ]
     },
     "Finneon": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -12417,6 +13125,7 @@
         ]
     },
     "Lumineon": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -12439,6 +13148,7 @@
         ]
     },
     "Mantyke": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Flying"
@@ -12459,6 +13169,7 @@
         ]
     },
     "Snover": {
+        "evoTypes": [],
         "types": [
             "Grass",
             "Ice"
@@ -12479,6 +13190,7 @@
         ]
     },
     "Abomasnow": {
+        "evoTypes": [],
         "types": [
             "Grass",
             "Ice"
@@ -12499,6 +13211,7 @@
         ]
     },
     "Abomasnow-Mega": {
+        "evoTypes": [],
         "types": [
             "Grass",
             "Ice"
@@ -12520,6 +13233,7 @@
         ]
     },
     "Weavile": {
+        "evoTypes": [],
         "types": [
             "Dark",
             "Ice"
@@ -12539,6 +13253,9 @@
         ]
     },
     "Magnezone": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Electric",
             "Steel"
@@ -12559,6 +13276,7 @@
         ]
     },
     "Lickilicky": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -12581,6 +13299,9 @@
         ]
     },
     "Rhyperior": {
+        "evoTypes": [
+            "Evolved by Trade"
+        ],
         "types": [
             "Ground",
             "Rock"
@@ -12602,6 +13323,7 @@
         ]
     },
     "Tangrowth": {
+        "evoTypes": [],
         "types": [
             "Grass"
         ],
@@ -12624,6 +13346,9 @@
         ]
     },
     "Electivire": {
+        "evoTypes": [
+            "Evolved by Trade"
+        ],
         "types": [
             "Electric"
         ],
@@ -12645,6 +13370,9 @@
         ]
     },
     "Magmortar": {
+        "evoTypes": [
+            "Evolved by Trade"
+        ],
         "types": [
             "Fire"
         ],
@@ -12666,6 +13394,9 @@
         ]
     },
     "Togekiss": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Fairy",
             "Flying"
@@ -12687,6 +13418,7 @@
         ]
     },
     "Yanmega": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Flying"
@@ -12707,6 +13439,9 @@
         ]
     },
     "Leafeon": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Grass"
         ],
@@ -12728,6 +13463,9 @@
         ]
     },
     "Glaceon": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Ice"
         ],
@@ -12749,6 +13487,7 @@
         ]
     },
     "Gliscor": {
+        "evoTypes": [],
         "types": [
             "Ground",
             "Flying"
@@ -12769,6 +13508,7 @@
         ]
     },
     "Mamoswine": {
+        "evoTypes": [],
         "types": [
             "Ice",
             "Ground"
@@ -12789,6 +13529,9 @@
         ]
     },
     "Porygon-Z": {
+        "evoTypes": [
+            "Evolved by Trade"
+        ],
         "types": [
             "Normal"
         ],
@@ -12811,6 +13554,9 @@
         ]
     },
     "Gallade": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Psychic",
             "Fighting"
@@ -12832,6 +13578,7 @@
         ]
     },
     "Gallade-Mega": {
+        "evoTypes": [],
         "types": [
             "Psychic",
             "Fighting"
@@ -12852,6 +13599,7 @@
         ]
     },
     "Probopass": {
+        "evoTypes": [],
         "types": [
             "Rock",
             "Steel"
@@ -12872,6 +13620,9 @@
         ]
     },
     "Dusknoir": {
+        "evoTypes": [
+            "Evolved by Trade"
+        ],
         "types": [
             "Ghost"
         ],
@@ -12893,6 +13644,9 @@
         ]
     },
     "Froslass": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Ice",
             "Ghost"
@@ -12913,6 +13667,7 @@
         ]
     },
     "Rotom": {
+        "evoTypes": [],
         "types": [
             "Electric",
             "Ghost"
@@ -12931,6 +13686,7 @@
         ]
     },
     "Rotom-Heat": {
+        "evoTypes": [],
         "types": [
             "Electric",
             "Fire"
@@ -12951,6 +13707,7 @@
         ]
     },
     "Rotom-Wash": {
+        "evoTypes": [],
         "types": [
             "Electric",
             "Water"
@@ -12971,6 +13728,7 @@
         ]
     },
     "Rotom-Frost": {
+        "evoTypes": [],
         "types": [
             "Electric",
             "Ice"
@@ -12991,6 +13749,7 @@
         ]
     },
     "Rotom-Fan": {
+        "evoTypes": [],
         "types": [
             "Electric",
             "Flying"
@@ -13011,6 +13770,7 @@
         ]
     },
     "Rotom-Mow": {
+        "evoTypes": [],
         "types": [
             "Electric",
             "Grass"
@@ -13031,6 +13791,7 @@
         ]
     },
     "Uxie": {
+        "evoTypes": [],
         "types": [
             "Psychic"
         ],
@@ -13053,6 +13814,7 @@
         ]
     },
     "Mesprit": {
+        "evoTypes": [],
         "types": [
             "Psychic"
         ],
@@ -13075,6 +13837,7 @@
         ]
     },
     "Azelf": {
+        "evoTypes": [],
         "types": [
             "Psychic"
         ],
@@ -13097,6 +13860,7 @@
         ]
     },
     "Dialga": {
+        "evoTypes": [],
         "types": [
             "Steel",
             "Dragon"
@@ -13118,6 +13882,7 @@
         ]
     },
     "Dialga-Origin": {
+        "evoTypes": [],
         "types": [
             "Steel",
             "Dragon"
@@ -13141,6 +13906,7 @@
         ]
     },
     "Palkia": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Dragon"
@@ -13162,6 +13928,7 @@
         ]
     },
     "Palkia-Origin": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Dragon"
@@ -13185,6 +13952,7 @@
         ]
     },
     "Heatran": {
+        "evoTypes": [],
         "types": [
             "Fire",
             "Steel"
@@ -13206,6 +13974,7 @@
         ]
     },
     "Regigigas": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -13228,6 +13997,7 @@
         ]
     },
     "Giratina": {
+        "evoTypes": [],
         "types": [
             "Ghost",
             "Dragon"
@@ -13249,6 +14019,7 @@
         ]
     },
     "Giratina-Origin": {
+        "evoTypes": [],
         "types": [
             "Ghost",
             "Dragon"
@@ -13271,6 +14042,7 @@
         ]
     },
     "Cresselia": {
+        "evoTypes": [],
         "types": [
             "Psychic"
         ],
@@ -13293,6 +14065,7 @@
         ]
     },
     "Phione": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -13317,6 +14090,7 @@
         ]
     },
     "Manaphy": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -13341,6 +14115,7 @@
         ]
     },
     "Darkrai": {
+        "evoTypes": [],
         "types": [
             "Dark"
         ],
@@ -13364,6 +14139,7 @@
         ]
     },
     "Shaymin": {
+        "evoTypes": [],
         "types": [
             "Grass"
         ],
@@ -13387,6 +14163,7 @@
         ]
     },
     "Shaymin-Sky": {
+        "evoTypes": [],
         "types": [
             "Grass",
             "Flying"
@@ -13410,6 +14187,7 @@
         ]
     },
     "Arceus": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -13433,6 +14211,7 @@
         ]
     },
     "Arceus-Bug": {
+        "evoTypes": [],
         "types": [
             "Bug"
         ],
@@ -13458,6 +14237,7 @@
         ]
     },
     "Arceus-Dark": {
+        "evoTypes": [],
         "types": [
             "Dark"
         ],
@@ -13483,6 +14263,7 @@
         ]
     },
     "Arceus-Dragon": {
+        "evoTypes": [],
         "types": [
             "Dragon"
         ],
@@ -13508,6 +14289,7 @@
         ]
     },
     "Arceus-Electric": {
+        "evoTypes": [],
         "types": [
             "Electric"
         ],
@@ -13533,6 +14315,7 @@
         ]
     },
     "Arceus-Fairy": {
+        "evoTypes": [],
         "types": [
             "Fairy"
         ],
@@ -13558,6 +14341,7 @@
         ]
     },
     "Arceus-Fighting": {
+        "evoTypes": [],
         "types": [
             "Fighting"
         ],
@@ -13583,6 +14367,7 @@
         ]
     },
     "Arceus-Fire": {
+        "evoTypes": [],
         "types": [
             "Fire"
         ],
@@ -13608,6 +14393,7 @@
         ]
     },
     "Arceus-Flying": {
+        "evoTypes": [],
         "types": [
             "Flying"
         ],
@@ -13633,6 +14419,7 @@
         ]
     },
     "Arceus-Ghost": {
+        "evoTypes": [],
         "types": [
             "Ghost"
         ],
@@ -13658,6 +14445,7 @@
         ]
     },
     "Arceus-Grass": {
+        "evoTypes": [],
         "types": [
             "Grass"
         ],
@@ -13683,6 +14471,7 @@
         ]
     },
     "Arceus-Ground": {
+        "evoTypes": [],
         "types": [
             "Ground"
         ],
@@ -13708,6 +14497,7 @@
         ]
     },
     "Arceus-Ice": {
+        "evoTypes": [],
         "types": [
             "Ice"
         ],
@@ -13733,6 +14523,7 @@
         ]
     },
     "Arceus-Poison": {
+        "evoTypes": [],
         "types": [
             "Poison"
         ],
@@ -13758,6 +14549,7 @@
         ]
     },
     "Arceus-Psychic": {
+        "evoTypes": [],
         "types": [
             "Psychic"
         ],
@@ -13783,6 +14575,7 @@
         ]
     },
     "Arceus-Rock": {
+        "evoTypes": [],
         "types": [
             "Rock"
         ],
@@ -13808,6 +14601,7 @@
         ]
     },
     "Arceus-Steel": {
+        "evoTypes": [],
         "types": [
             "Steel"
         ],
@@ -13833,6 +14627,7 @@
         ]
     },
     "Arceus-Water": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -13858,6 +14653,7 @@
         ]
     },
     "Victini": {
+        "evoTypes": [],
         "types": [
             "Psychic",
             "Fire"
@@ -13879,6 +14675,7 @@
         ]
     },
     "Snivy": {
+        "evoTypes": [],
         "types": [
             "Grass"
         ],
@@ -13901,6 +14698,7 @@
         ]
     },
     "Servine": {
+        "evoTypes": [],
         "types": [
             "Grass"
         ],
@@ -13923,6 +14721,7 @@
         ]
     },
     "Serperior": {
+        "evoTypes": [],
         "types": [
             "Grass"
         ],
@@ -13945,6 +14744,7 @@
         ]
     },
     "Tepig": {
+        "evoTypes": [],
         "types": [
             "Fire"
         ],
@@ -13966,6 +14766,7 @@
         ]
     },
     "Pignite": {
+        "evoTypes": [],
         "types": [
             "Fire",
             "Fighting"
@@ -13985,6 +14786,7 @@
         ]
     },
     "Emboar": {
+        "evoTypes": [],
         "types": [
             "Fire",
             "Fighting"
@@ -14004,6 +14806,7 @@
         ]
     },
     "Oshawott": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -14025,6 +14828,7 @@
         ]
     },
     "Dewott": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -14046,6 +14850,7 @@
         ]
     },
     "Samurott": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -14067,6 +14872,7 @@
         ]
     },
     "Samurott-Hisui": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Dark"
@@ -14088,6 +14894,7 @@
         ]
     },
     "Patrat": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -14110,6 +14917,7 @@
         ]
     },
     "Watchog": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -14132,6 +14940,7 @@
         ]
     },
     "Lillipup": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -14154,6 +14963,7 @@
         ]
     },
     "Herdier": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -14176,6 +14986,7 @@
         ]
     },
     "Stoutland": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -14198,6 +15009,7 @@
         ]
     },
     "Purrloin": {
+        "evoTypes": [],
         "types": [
             "Dark"
         ],
@@ -14220,6 +15032,7 @@
         ]
     },
     "Liepard": {
+        "evoTypes": [],
         "types": [
             "Dark"
         ],
@@ -14242,6 +15055,7 @@
         ]
     },
     "Pansage": {
+        "evoTypes": [],
         "types": [
             "Grass"
         ],
@@ -14263,6 +15077,9 @@
         ]
     },
     "Simisage": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Grass"
         ],
@@ -14284,6 +15101,7 @@
         ]
     },
     "Pansear": {
+        "evoTypes": [],
         "types": [
             "Fire"
         ],
@@ -14305,6 +15123,9 @@
         ]
     },
     "Simisear": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Fire"
         ],
@@ -14326,6 +15147,7 @@
         ]
     },
     "Panpour": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -14347,6 +15169,9 @@
         ]
     },
     "Simipour": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Water"
         ],
@@ -14368,6 +15193,7 @@
         ]
     },
     "Munna": {
+        "evoTypes": [],
         "types": [
             "Psychic"
         ],
@@ -14390,6 +15216,9 @@
         ]
     },
     "Musharna": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Psychic"
         ],
@@ -14412,6 +15241,7 @@
         ]
     },
     "Pidove": {
+        "evoTypes": [],
         "types": [
             "Normal",
             "Flying"
@@ -14432,6 +15262,7 @@
         ]
     },
     "Tranquill": {
+        "evoTypes": [],
         "types": [
             "Normal",
             "Flying"
@@ -14452,6 +15283,7 @@
         ]
     },
     "Unfezant": {
+        "evoTypes": [],
         "types": [
             "Normal",
             "Flying"
@@ -14472,6 +15304,7 @@
         ]
     },
     "Blitzle": {
+        "evoTypes": [],
         "types": [
             "Electric"
         ],
@@ -14494,6 +15327,7 @@
         ]
     },
     "Zebstrika": {
+        "evoTypes": [],
         "types": [
             "Electric"
         ],
@@ -14516,6 +15350,7 @@
         ]
     },
     "Roggenrola": {
+        "evoTypes": [],
         "types": [
             "Rock"
         ],
@@ -14538,6 +15373,7 @@
         ]
     },
     "Boldore": {
+        "evoTypes": [],
         "types": [
             "Rock"
         ],
@@ -14560,6 +15396,9 @@
         ]
     },
     "Gigalith": {
+        "evoTypes": [
+            "Evolved by Trade"
+        ],
         "types": [
             "Rock"
         ],
@@ -14582,6 +15421,7 @@
         ]
     },
     "Woobat": {
+        "evoTypes": [],
         "types": [
             "Psychic",
             "Flying"
@@ -14603,6 +15443,9 @@
         ]
     },
     "Swoobat": {
+        "evoTypes": [
+            "Evolved by Friendship"
+        ],
         "types": [
             "Psychic",
             "Flying"
@@ -14624,6 +15467,7 @@
         ]
     },
     "Drilbur": {
+        "evoTypes": [],
         "types": [
             "Ground"
         ],
@@ -14646,6 +15490,7 @@
         ]
     },
     "Excadrill": {
+        "evoTypes": [],
         "types": [
             "Ground",
             "Steel"
@@ -14666,6 +15511,7 @@
         ]
     },
     "Audino": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -14688,6 +15534,7 @@
         ]
     },
     "Audino-Mega": {
+        "evoTypes": [],
         "types": [
             "Normal",
             "Fairy"
@@ -14708,6 +15555,7 @@
         ]
     },
     "Timburr": {
+        "evoTypes": [],
         "types": [
             "Fighting"
         ],
@@ -14730,6 +15578,7 @@
         ]
     },
     "Gurdurr": {
+        "evoTypes": [],
         "types": [
             "Fighting"
         ],
@@ -14752,6 +15601,9 @@
         ]
     },
     "Conkeldurr": {
+        "evoTypes": [
+            "Evolved by Trade"
+        ],
         "types": [
             "Fighting"
         ],
@@ -14774,6 +15626,7 @@
         ]
     },
     "Tympole": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -14796,6 +15649,7 @@
         ]
     },
     "Palpitoad": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Ground"
@@ -14816,6 +15670,7 @@
         ]
     },
     "Seismitoad": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Ground"
@@ -14836,6 +15691,7 @@
         ]
     },
     "Throh": {
+        "evoTypes": [],
         "types": [
             "Fighting"
         ],
@@ -14858,6 +15714,7 @@
         ]
     },
     "Sawk": {
+        "evoTypes": [],
         "types": [
             "Fighting"
         ],
@@ -14880,6 +15737,7 @@
         ]
     },
     "Sewaddle": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Grass"
@@ -14900,6 +15758,7 @@
         ]
     },
     "Swadloon": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Grass"
@@ -14920,6 +15779,9 @@
         ]
     },
     "Leavanny": {
+        "evoTypes": [
+            "Evolved by Friendship"
+        ],
         "types": [
             "Bug",
             "Grass"
@@ -14940,6 +15802,7 @@
         ]
     },
     "Venipede": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Poison"
@@ -14960,6 +15823,7 @@
         ]
     },
     "Whirlipede": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Poison"
@@ -14980,6 +15844,7 @@
         ]
     },
     "Scolipede": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Poison"
@@ -15000,6 +15865,7 @@
         ]
     },
     "Cottonee": {
+        "evoTypes": [],
         "types": [
             "Grass",
             "Fairy"
@@ -15021,6 +15887,9 @@
         ]
     },
     "Whimsicott": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Grass",
             "Fairy"
@@ -15042,6 +15911,7 @@
         ]
     },
     "Petilil": {
+        "evoTypes": [],
         "types": [
             "Grass"
         ],
@@ -15064,6 +15934,9 @@
         ]
     },
     "Lilligant": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Grass"
         ],
@@ -15086,6 +15959,9 @@
         ]
     },
     "Lilligant-Hisui": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Grass",
             "Fighting"
@@ -15108,6 +15984,7 @@
         ]
     },
     "Basculin": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -15130,6 +16007,7 @@
         ]
     },
     "Basculin-Blue-Striped": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -15154,6 +16032,7 @@
         ]
     },
     "Basculin-White-Striped": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -15178,6 +16057,7 @@
         ]
     },
     "Sandile": {
+        "evoTypes": [],
         "types": [
             "Ground",
             "Dark"
@@ -15198,6 +16078,7 @@
         ]
     },
     "Krokorok": {
+        "evoTypes": [],
         "types": [
             "Ground",
             "Dark"
@@ -15218,6 +16099,7 @@
         ]
     },
     "Krookodile": {
+        "evoTypes": [],
         "types": [
             "Ground",
             "Dark"
@@ -15238,6 +16120,7 @@
         ]
     },
     "Darumaka": {
+        "evoTypes": [],
         "types": [
             "Fire"
         ],
@@ -15259,6 +16142,7 @@
         ]
     },
     "Darumaka-Galar": {
+        "evoTypes": [],
         "types": [
             "Ice"
         ],
@@ -15282,6 +16166,7 @@
         ]
     },
     "Darmanitan": {
+        "evoTypes": [],
         "types": [
             "Fire"
         ],
@@ -15303,6 +16188,7 @@
         ]
     },
     "Darmanitan-Zen": {
+        "evoTypes": [],
         "types": [
             "Fire",
             "Psychic"
@@ -15323,6 +16209,9 @@
         ]
     },
     "Darmanitan-Galar": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Ice"
         ],
@@ -15346,6 +16235,7 @@
         ]
     },
     "Darmanitan-Galar-Zen": {
+        "evoTypes": [],
         "types": [
             "Ice",
             "Fire"
@@ -15366,6 +16256,7 @@
         ]
     },
     "Maractus": {
+        "evoTypes": [],
         "types": [
             "Grass"
         ],
@@ -15388,6 +16279,7 @@
         ]
     },
     "Dwebble": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Rock"
@@ -15409,6 +16301,7 @@
         ]
     },
     "Crustle": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Rock"
@@ -15430,6 +16323,7 @@
         ]
     },
     "Scraggy": {
+        "evoTypes": [],
         "types": [
             "Dark",
             "Fighting"
@@ -15451,6 +16345,7 @@
         ]
     },
     "Scrafty": {
+        "evoTypes": [],
         "types": [
             "Dark",
             "Fighting"
@@ -15472,6 +16367,7 @@
         ]
     },
     "Sigilyph": {
+        "evoTypes": [],
         "types": [
             "Psychic",
             "Flying"
@@ -15492,6 +16388,7 @@
         ]
     },
     "Yamask": {
+        "evoTypes": [],
         "types": [
             "Ghost"
         ],
@@ -15513,6 +16410,7 @@
         ]
     },
     "Yamask-Galar": {
+        "evoTypes": [],
         "types": [
             "Ground",
             "Ghost"
@@ -15534,6 +16432,7 @@
         ]
     },
     "Cofagrigus": {
+        "evoTypes": [],
         "types": [
             "Ghost"
         ],
@@ -15555,6 +16454,7 @@
         ]
     },
     "Tirtouga": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Rock"
@@ -15576,6 +16476,7 @@
         ]
     },
     "Carracosta": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Rock"
@@ -15597,6 +16498,7 @@
         ]
     },
     "Archen": {
+        "evoTypes": [],
         "types": [
             "Rock",
             "Flying"
@@ -15616,6 +16518,7 @@
         ]
     },
     "Archeops": {
+        "evoTypes": [],
         "types": [
             "Rock",
             "Flying"
@@ -15635,6 +16538,7 @@
         ]
     },
     "Trubbish": {
+        "evoTypes": [],
         "types": [
             "Poison"
         ],
@@ -15657,6 +16561,7 @@
         ]
     },
     "Garbodor": {
+        "evoTypes": [],
         "types": [
             "Poison"
         ],
@@ -15679,6 +16584,7 @@
         ]
     },
     "Garbodor-Gmax": {
+        "evoTypes": [],
         "types": [
             "Poison"
         ],
@@ -15703,6 +16609,7 @@
         ]
     },
     "Zorua": {
+        "evoTypes": [],
         "types": [
             "Dark"
         ],
@@ -15723,6 +16630,7 @@
         ]
     },
     "Zorua-Hisui": {
+        "evoTypes": [],
         "types": [
             "Normal",
             "Ghost"
@@ -15743,6 +16651,7 @@
         ]
     },
     "Zoroark": {
+        "evoTypes": [],
         "types": [
             "Dark"
         ],
@@ -15763,6 +16672,7 @@
         ]
     },
     "Zoroark-Hisui": {
+        "evoTypes": [],
         "types": [
             "Normal",
             "Ghost"
@@ -15783,6 +16693,7 @@
         ]
     },
     "Minccino": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -15805,6 +16716,9 @@
         ]
     },
     "Cinccino": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Normal"
         ],
@@ -15827,6 +16741,7 @@
         ]
     },
     "Gothita": {
+        "evoTypes": [],
         "types": [
             "Psychic"
         ],
@@ -15849,6 +16764,7 @@
         ]
     },
     "Gothorita": {
+        "evoTypes": [],
         "types": [
             "Psychic"
         ],
@@ -15871,6 +16787,7 @@
         ]
     },
     "Gothitelle": {
+        "evoTypes": [],
         "types": [
             "Psychic"
         ],
@@ -15893,6 +16810,7 @@
         ]
     },
     "Solosis": {
+        "evoTypes": [],
         "types": [
             "Psychic"
         ],
@@ -15915,6 +16833,7 @@
         ]
     },
     "Duosion": {
+        "evoTypes": [],
         "types": [
             "Psychic"
         ],
@@ -15937,6 +16856,7 @@
         ]
     },
     "Reuniclus": {
+        "evoTypes": [],
         "types": [
             "Psychic"
         ],
@@ -15959,6 +16879,7 @@
         ]
     },
     "Ducklett": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Flying"
@@ -15980,6 +16901,7 @@
         ]
     },
     "Swanna": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Flying"
@@ -16001,6 +16923,7 @@
         ]
     },
     "Vanillite": {
+        "evoTypes": [],
         "types": [
             "Ice"
         ],
@@ -16023,6 +16946,7 @@
         ]
     },
     "Vanillish": {
+        "evoTypes": [],
         "types": [
             "Ice"
         ],
@@ -16045,6 +16969,7 @@
         ]
     },
     "Vanilluxe": {
+        "evoTypes": [],
         "types": [
             "Ice"
         ],
@@ -16067,6 +16992,7 @@
         ]
     },
     "Deerling": {
+        "evoTypes": [],
         "types": [
             "Normal",
             "Grass"
@@ -16087,6 +17013,7 @@
         ]
     },
     "Sawsbuck": {
+        "evoTypes": [],
         "types": [
             "Normal",
             "Grass"
@@ -16107,6 +17034,7 @@
         ]
     },
     "Emolga": {
+        "evoTypes": [],
         "types": [
             "Electric",
             "Flying"
@@ -16126,6 +17054,7 @@
         ]
     },
     "Karrablast": {
+        "evoTypes": [],
         "types": [
             "Bug"
         ],
@@ -16148,6 +17077,9 @@
         ]
     },
     "Escavalier": {
+        "evoTypes": [
+            "Evolved by Trade"
+        ],
         "types": [
             "Bug",
             "Steel"
@@ -16168,6 +17100,7 @@
         ]
     },
     "Foongus": {
+        "evoTypes": [],
         "types": [
             "Grass",
             "Poison"
@@ -16187,6 +17120,7 @@
         ]
     },
     "Amoonguss": {
+        "evoTypes": [],
         "types": [
             "Grass",
             "Poison"
@@ -16206,6 +17140,7 @@
         ]
     },
     "Frillish": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Ghost"
@@ -16226,6 +17161,7 @@
         ]
     },
     "Jellicent": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Ghost"
@@ -16246,6 +17182,7 @@
         ]
     },
     "Alomomola": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -16269,6 +17206,7 @@
         ]
     },
     "Joltik": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Electric"
@@ -16289,6 +17227,7 @@
         ]
     },
     "Galvantula": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Electric"
@@ -16309,6 +17248,7 @@
         ]
     },
     "Ferroseed": {
+        "evoTypes": [],
         "types": [
             "Grass",
             "Steel"
@@ -16328,6 +17268,7 @@
         ]
     },
     "Ferrothorn": {
+        "evoTypes": [],
         "types": [
             "Grass",
             "Steel"
@@ -16348,6 +17289,7 @@
         ]
     },
     "Klink": {
+        "evoTypes": [],
         "types": [
             "Steel"
         ],
@@ -16370,6 +17312,7 @@
         ]
     },
     "Klang": {
+        "evoTypes": [],
         "types": [
             "Steel"
         ],
@@ -16392,6 +17335,7 @@
         ]
     },
     "Klinklang": {
+        "evoTypes": [],
         "types": [
             "Steel"
         ],
@@ -16414,6 +17358,7 @@
         ]
     },
     "Tynamo": {
+        "evoTypes": [],
         "types": [
             "Electric"
         ],
@@ -16434,6 +17379,7 @@
         ]
     },
     "Eelektrik": {
+        "evoTypes": [],
         "types": [
             "Electric"
         ],
@@ -16454,6 +17400,9 @@
         ]
     },
     "Eelektross": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Electric"
         ],
@@ -16474,6 +17423,7 @@
         ]
     },
     "Elgyem": {
+        "evoTypes": [],
         "types": [
             "Psychic"
         ],
@@ -16496,6 +17446,7 @@
         ]
     },
     "Beheeyem": {
+        "evoTypes": [],
         "types": [
             "Psychic"
         ],
@@ -16518,6 +17469,7 @@
         ]
     },
     "Litwick": {
+        "evoTypes": [],
         "types": [
             "Ghost",
             "Fire"
@@ -16538,6 +17490,7 @@
         ]
     },
     "Lampent": {
+        "evoTypes": [],
         "types": [
             "Ghost",
             "Fire"
@@ -16558,6 +17511,9 @@
         ]
     },
     "Chandelure": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Ghost",
             "Fire"
@@ -16578,6 +17534,7 @@
         ]
     },
     "Axew": {
+        "evoTypes": [],
         "types": [
             "Dragon"
         ],
@@ -16601,6 +17558,7 @@
         ]
     },
     "Fraxure": {
+        "evoTypes": [],
         "types": [
             "Dragon"
         ],
@@ -16624,6 +17582,7 @@
         ]
     },
     "Haxorus": {
+        "evoTypes": [],
         "types": [
             "Dragon"
         ],
@@ -16647,6 +17606,7 @@
         ]
     },
     "Cubchoo": {
+        "evoTypes": [],
         "types": [
             "Ice"
         ],
@@ -16669,6 +17629,7 @@
         ]
     },
     "Beartic": {
+        "evoTypes": [],
         "types": [
             "Ice"
         ],
@@ -16691,6 +17652,7 @@
         ]
     },
     "Cryogonal": {
+        "evoTypes": [],
         "types": [
             "Ice"
         ],
@@ -16711,6 +17673,7 @@
         ]
     },
     "Shelmet": {
+        "evoTypes": [],
         "types": [
             "Bug"
         ],
@@ -16733,6 +17696,9 @@
         ]
     },
     "Accelgor": {
+        "evoTypes": [
+            "Evolved by Trade"
+        ],
         "types": [
             "Bug"
         ],
@@ -16755,6 +17721,7 @@
         ]
     },
     "Stunfisk": {
+        "evoTypes": [],
         "types": [
             "Ground",
             "Electric"
@@ -16776,6 +17743,7 @@
         ]
     },
     "Stunfisk-Galar": {
+        "evoTypes": [],
         "types": [
             "Ground",
             "Steel"
@@ -16797,6 +17765,7 @@
         ]
     },
     "Mienfoo": {
+        "evoTypes": [],
         "types": [
             "Fighting"
         ],
@@ -16820,6 +17789,7 @@
         ]
     },
     "Mienshao": {
+        "evoTypes": [],
         "types": [
             "Fighting"
         ],
@@ -16843,6 +17813,7 @@
         ]
     },
     "Druddigon": {
+        "evoTypes": [],
         "types": [
             "Dragon"
         ],
@@ -16866,6 +17837,7 @@
         ]
     },
     "Golett": {
+        "evoTypes": [],
         "types": [
             "Ground",
             "Ghost"
@@ -16886,6 +17858,7 @@
         ]
     },
     "Golurk": {
+        "evoTypes": [],
         "types": [
             "Ground",
             "Ghost"
@@ -16906,6 +17879,7 @@
         ]
     },
     "Pawniard": {
+        "evoTypes": [],
         "types": [
             "Dark",
             "Steel"
@@ -16926,6 +17900,7 @@
         ]
     },
     "Bisharp": {
+        "evoTypes": [],
         "types": [
             "Dark",
             "Steel"
@@ -16946,6 +17921,7 @@
         ]
     },
     "Bouffalant": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -16968,6 +17944,7 @@
         ]
     },
     "Rufflet": {
+        "evoTypes": [],
         "types": [
             "Normal",
             "Flying"
@@ -16988,6 +17965,7 @@
         ]
     },
     "Braviary": {
+        "evoTypes": [],
         "types": [
             "Normal",
             "Flying"
@@ -17008,6 +17986,7 @@
         ]
     },
     "Braviary-Hisui": {
+        "evoTypes": [],
         "types": [
             "Psychic",
             "Flying"
@@ -17030,6 +18009,7 @@
         ]
     },
     "Vullaby": {
+        "evoTypes": [],
         "types": [
             "Dark",
             "Flying"
@@ -17050,6 +18030,7 @@
         ]
     },
     "Mandibuzz": {
+        "evoTypes": [],
         "types": [
             "Dark",
             "Flying"
@@ -17070,6 +18051,7 @@
         ]
     },
     "Heatmor": {
+        "evoTypes": [],
         "types": [
             "Fire"
         ],
@@ -17092,6 +18074,7 @@
         ]
     },
     "Durant": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Steel"
@@ -17112,6 +18095,7 @@
         ]
     },
     "Deino": {
+        "evoTypes": [],
         "types": [
             "Dark",
             "Dragon"
@@ -17130,6 +18114,7 @@
         ]
     },
     "Zweilous": {
+        "evoTypes": [],
         "types": [
             "Dark",
             "Dragon"
@@ -17148,6 +18133,7 @@
         ]
     },
     "Hydreigon": {
+        "evoTypes": [],
         "types": [
             "Dark",
             "Dragon"
@@ -17166,6 +18152,7 @@
         ]
     },
     "Larvesta": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Fire"
@@ -17185,6 +18172,7 @@
         ]
     },
     "Volcarona": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Fire"
@@ -17204,6 +18192,7 @@
         ]
     },
     "Cobalion": {
+        "evoTypes": [],
         "types": [
             "Steel",
             "Fighting"
@@ -17224,6 +18213,7 @@
         ]
     },
     "Terrakion": {
+        "evoTypes": [],
         "types": [
             "Rock",
             "Fighting"
@@ -17244,6 +18234,7 @@
         ]
     },
     "Virizion": {
+        "evoTypes": [],
         "types": [
             "Grass",
             "Fighting"
@@ -17264,6 +18255,7 @@
         ]
     },
     "Tornadus": {
+        "evoTypes": [],
         "types": [
             "Flying"
         ],
@@ -17287,6 +18279,7 @@
         ]
     },
     "Tornadus-Therian": {
+        "evoTypes": [],
         "types": [
             "Flying"
         ],
@@ -17311,6 +18304,7 @@
         ]
     },
     "Thundurus": {
+        "evoTypes": [],
         "types": [
             "Electric",
             "Flying"
@@ -17332,6 +18326,7 @@
         ]
     },
     "Thundurus-Therian": {
+        "evoTypes": [],
         "types": [
             "Electric",
             "Flying"
@@ -17354,6 +18349,7 @@
         ]
     },
     "Reshiram": {
+        "evoTypes": [],
         "types": [
             "Dragon",
             "Fire"
@@ -17374,6 +18370,7 @@
         ]
     },
     "Zekrom": {
+        "evoTypes": [],
         "types": [
             "Dragon",
             "Electric"
@@ -17394,6 +18391,7 @@
         ]
     },
     "Landorus": {
+        "evoTypes": [],
         "types": [
             "Ground",
             "Flying"
@@ -17415,6 +18413,7 @@
         ]
     },
     "Landorus-Therian": {
+        "evoTypes": [],
         "types": [
             "Ground",
             "Flying"
@@ -17437,6 +18436,7 @@
         ]
     },
     "Kyurem": {
+        "evoTypes": [],
         "types": [
             "Dragon",
             "Ice"
@@ -17457,6 +18457,7 @@
         ]
     },
     "Kyurem-Black": {
+        "evoTypes": [],
         "types": [
             "Dragon",
             "Ice"
@@ -17479,6 +18480,7 @@
         ]
     },
     "Kyurem-White": {
+        "evoTypes": [],
         "types": [
             "Dragon",
             "Ice"
@@ -17501,6 +18503,7 @@
         ]
     },
     "Keldeo": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Fighting"
@@ -17522,6 +18525,7 @@
         ]
     },
     "Keldeo-Resolute": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Fighting"
@@ -17545,6 +18549,7 @@
         ]
     },
     "Meloetta": {
+        "evoTypes": [],
         "types": [
             "Normal",
             "Psychic"
@@ -17566,6 +18571,7 @@
         ]
     },
     "Meloetta-Pirouette": {
+        "evoTypes": [],
         "types": [
             "Normal",
             "Fighting"
@@ -17589,6 +18595,7 @@
         ]
     },
     "Genesect": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Steel"
@@ -17610,6 +18617,7 @@
         ]
     },
     "Genesect-Douse": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Steel"
@@ -17633,6 +18641,7 @@
         ]
     },
     "Genesect-Shock": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Steel"
@@ -17656,6 +18665,7 @@
         ]
     },
     "Genesect-Burn": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Steel"
@@ -17679,6 +18689,7 @@
         ]
     },
     "Genesect-Chill": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Steel"
@@ -17702,6 +18713,7 @@
         ]
     },
     "Chespin": {
+        "evoTypes": [],
         "types": [
             "Grass"
         ],
@@ -17723,6 +18735,7 @@
         ]
     },
     "Quilladin": {
+        "evoTypes": [],
         "types": [
             "Grass"
         ],
@@ -17744,6 +18757,7 @@
         ]
     },
     "Chesnaught": {
+        "evoTypes": [],
         "types": [
             "Grass",
             "Fighting"
@@ -17763,6 +18777,7 @@
         ]
     },
     "Fennekin": {
+        "evoTypes": [],
         "types": [
             "Fire"
         ],
@@ -17784,6 +18799,7 @@
         ]
     },
     "Braixen": {
+        "evoTypes": [],
         "types": [
             "Fire"
         ],
@@ -17805,6 +18821,7 @@
         ]
     },
     "Delphox": {
+        "evoTypes": [],
         "types": [
             "Fire",
             "Psychic"
@@ -17824,6 +18841,7 @@
         ]
     },
     "Froakie": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -17845,6 +18863,7 @@
         ]
     },
     "Frogadier": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -17866,6 +18885,7 @@
         ]
     },
     "Greninja": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Dark"
@@ -17886,6 +18906,7 @@
         ]
     },
     "Greninja-Bond": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Dark"
@@ -17906,6 +18927,7 @@
         ]
     },
     "Greninja-Ash": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Dark"
@@ -17926,6 +18948,7 @@
         ]
     },
     "Bunnelby": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -17948,6 +18971,7 @@
         ]
     },
     "Diggersby": {
+        "evoTypes": [],
         "types": [
             "Normal",
             "Ground"
@@ -17968,6 +18992,7 @@
         ]
     },
     "Fletchling": {
+        "evoTypes": [],
         "types": [
             "Normal",
             "Flying"
@@ -17987,6 +19012,7 @@
         ]
     },
     "Fletchinder": {
+        "evoTypes": [],
         "types": [
             "Fire",
             "Flying"
@@ -18006,6 +19032,7 @@
         ]
     },
     "Talonflame": {
+        "evoTypes": [],
         "types": [
             "Fire",
             "Flying"
@@ -18025,6 +19052,7 @@
         ]
     },
     "Scatterbug": {
+        "evoTypes": [],
         "types": [
             "Bug"
         ],
@@ -18047,6 +19075,7 @@
         ]
     },
     "Spewpa": {
+        "evoTypes": [],
         "types": [
             "Bug"
         ],
@@ -18068,6 +19097,7 @@
         ]
     },
     "Vivillon": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Flying"
@@ -18088,6 +19118,7 @@
         ]
     },
     "Vivillon-Fancy": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Flying"
@@ -18110,6 +19141,7 @@
         ]
     },
     "Vivillon-Pokeball": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Flying"
@@ -18132,6 +19164,7 @@
         ]
     },
     "Litleo": {
+        "evoTypes": [],
         "types": [
             "Fire",
             "Normal"
@@ -18152,6 +19185,7 @@
         ]
     },
     "Pyroar": {
+        "evoTypes": [],
         "types": [
             "Fire",
             "Normal"
@@ -18172,6 +19206,7 @@
         ]
     },
     "Flabe\u0301be\u0301": {
+        "evoTypes": [],
         "types": [
             "Fairy"
         ],
@@ -18193,6 +19228,7 @@
         ]
     },
     "Floette": {
+        "evoTypes": [],
         "types": [
             "Fairy"
         ],
@@ -18214,6 +19250,7 @@
         ]
     },
     "Floette-Eternal": {
+        "evoTypes": [],
         "types": [
             "Fairy"
         ],
@@ -18236,6 +19273,9 @@
         ]
     },
     "Florges": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Fairy"
         ],
@@ -18257,6 +19297,7 @@
         ]
     },
     "Skiddo": {
+        "evoTypes": [],
         "types": [
             "Grass"
         ],
@@ -18278,6 +19319,7 @@
         ]
     },
     "Gogoat": {
+        "evoTypes": [],
         "types": [
             "Grass"
         ],
@@ -18299,6 +19341,7 @@
         ]
     },
     "Pancham": {
+        "evoTypes": [],
         "types": [
             "Fighting"
         ],
@@ -18322,6 +19365,7 @@
         ]
     },
     "Pangoro": {
+        "evoTypes": [],
         "types": [
             "Fighting",
             "Dark"
@@ -18343,6 +19387,7 @@
         ]
     },
     "Furfrou": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -18363,6 +19408,7 @@
         ]
     },
     "Espurr": {
+        "evoTypes": [],
         "types": [
             "Psychic"
         ],
@@ -18385,6 +19431,7 @@
         ]
     },
     "Meowstic": {
+        "evoTypes": [],
         "types": [
             "Psychic"
         ],
@@ -18407,6 +19454,7 @@
         ]
     },
     "Meowstic-F": {
+        "evoTypes": [],
         "types": [
             "Psychic"
         ],
@@ -18431,6 +19479,7 @@
         ]
     },
     "Honedge": {
+        "evoTypes": [],
         "types": [
             "Steel",
             "Ghost"
@@ -18449,6 +19498,7 @@
         ]
     },
     "Doublade": {
+        "evoTypes": [],
         "types": [
             "Steel",
             "Ghost"
@@ -18467,6 +19517,9 @@
         ]
     },
     "Aegislash": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Steel",
             "Ghost"
@@ -18485,6 +19538,7 @@
         ]
     },
     "Aegislash-Blade": {
+        "evoTypes": [],
         "types": [
             "Steel",
             "Ghost"
@@ -18505,6 +19559,7 @@
         ]
     },
     "Spritzee": {
+        "evoTypes": [],
         "types": [
             "Fairy"
         ],
@@ -18526,6 +19581,9 @@
         ]
     },
     "Aromatisse": {
+        "evoTypes": [
+            "Evolved by Trade"
+        ],
         "types": [
             "Fairy"
         ],
@@ -18547,6 +19605,7 @@
         ]
     },
     "Swirlix": {
+        "evoTypes": [],
         "types": [
             "Fairy"
         ],
@@ -18568,6 +19627,9 @@
         ]
     },
     "Slurpuff": {
+        "evoTypes": [
+            "Evolved by Trade"
+        ],
         "types": [
             "Fairy"
         ],
@@ -18589,6 +19651,7 @@
         ]
     },
     "Inkay": {
+        "evoTypes": [],
         "types": [
             "Dark",
             "Psychic"
@@ -18610,6 +19673,7 @@
         ]
     },
     "Malamar": {
+        "evoTypes": [],
         "types": [
             "Dark",
             "Psychic"
@@ -18631,6 +19695,7 @@
         ]
     },
     "Binacle": {
+        "evoTypes": [],
         "types": [
             "Rock",
             "Water"
@@ -18651,6 +19716,7 @@
         ]
     },
     "Barbaracle": {
+        "evoTypes": [],
         "types": [
             "Rock",
             "Water"
@@ -18671,6 +19737,7 @@
         ]
     },
     "Skrelp": {
+        "evoTypes": [],
         "types": [
             "Poison",
             "Water"
@@ -18692,6 +19759,7 @@
         ]
     },
     "Dragalge": {
+        "evoTypes": [],
         "types": [
             "Poison",
             "Dragon"
@@ -18713,6 +19781,7 @@
         ]
     },
     "Clauncher": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -18734,6 +19803,7 @@
         ]
     },
     "Clawitzer": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -18755,6 +19825,7 @@
         ]
     },
     "Helioptile": {
+        "evoTypes": [],
         "types": [
             "Electric",
             "Normal"
@@ -18776,6 +19847,9 @@
         ]
     },
     "Heliolisk": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Electric",
             "Normal"
@@ -18797,6 +19871,7 @@
         ]
     },
     "Tyrunt": {
+        "evoTypes": [],
         "types": [
             "Rock",
             "Dragon"
@@ -18817,6 +19892,7 @@
         ]
     },
     "Tyrantrum": {
+        "evoTypes": [],
         "types": [
             "Rock",
             "Dragon"
@@ -18837,6 +19913,7 @@
         ]
     },
     "Amaura": {
+        "evoTypes": [],
         "types": [
             "Rock",
             "Ice"
@@ -18856,6 +19933,7 @@
         ]
     },
     "Aurorus": {
+        "evoTypes": [],
         "types": [
             "Rock",
             "Ice"
@@ -18875,6 +19953,7 @@
         ]
     },
     "Sylveon": {
+        "evoTypes": [],
         "types": [
             "Fairy"
         ],
@@ -18896,6 +19975,7 @@
         ]
     },
     "Hawlucha": {
+        "evoTypes": [],
         "types": [
             "Fighting",
             "Flying"
@@ -18917,6 +19997,7 @@
         ]
     },
     "Dedenne": {
+        "evoTypes": [],
         "types": [
             "Electric",
             "Fairy"
@@ -18938,6 +20019,7 @@
         ]
     },
     "Carbink": {
+        "evoTypes": [],
         "types": [
             "Rock",
             "Fairy"
@@ -18958,6 +20040,7 @@
         ]
     },
     "Goomy": {
+        "evoTypes": [],
         "types": [
             "Dragon"
         ],
@@ -18980,6 +20063,7 @@
         ]
     },
     "Sliggoo": {
+        "evoTypes": [],
         "types": [
             "Dragon"
         ],
@@ -19002,6 +20086,7 @@
         ]
     },
     "Sliggoo-Hisui": {
+        "evoTypes": [],
         "types": [
             "Steel",
             "Dragon"
@@ -19024,6 +20109,7 @@
         ]
     },
     "Goodra": {
+        "evoTypes": [],
         "types": [
             "Dragon"
         ],
@@ -19046,6 +20132,7 @@
         ]
     },
     "Goodra-Hisui": {
+        "evoTypes": [],
         "types": [
             "Steel",
             "Dragon"
@@ -19068,6 +20155,7 @@
         ]
     },
     "Klefki": {
+        "evoTypes": [],
         "types": [
             "Steel",
             "Fairy"
@@ -19087,6 +20175,7 @@
         ]
     },
     "Phantump": {
+        "evoTypes": [],
         "types": [
             "Ghost",
             "Grass"
@@ -19108,6 +20197,9 @@
         ]
     },
     "Trevenant": {
+        "evoTypes": [
+            "Evolved by Trade"
+        ],
         "types": [
             "Ghost",
             "Grass"
@@ -19129,6 +20221,7 @@
         ]
     },
     "Pumpkaboo": {
+        "evoTypes": [],
         "types": [
             "Ghost",
             "Grass"
@@ -19149,6 +20242,7 @@
         ]
     },
     "Pumpkaboo-Small": {
+        "evoTypes": [],
         "types": [
             "Ghost",
             "Grass"
@@ -19171,6 +20265,7 @@
         ]
     },
     "Pumpkaboo-Large": {
+        "evoTypes": [],
         "types": [
             "Ghost",
             "Grass"
@@ -19193,6 +20288,7 @@
         ]
     },
     "Pumpkaboo-Super": {
+        "evoTypes": [],
         "types": [
             "Ghost",
             "Grass"
@@ -19215,6 +20311,9 @@
         ]
     },
     "Gourgeist": {
+        "evoTypes": [
+            "Evolved by Trade"
+        ],
         "types": [
             "Ghost",
             "Grass"
@@ -19235,6 +20334,9 @@
         ]
     },
     "Gourgeist-Small": {
+        "evoTypes": [
+            "Evolved by Trade"
+        ],
         "types": [
             "Ghost",
             "Grass"
@@ -19257,6 +20359,9 @@
         ]
     },
     "Gourgeist-Large": {
+        "evoTypes": [
+            "Evolved by Trade"
+        ],
         "types": [
             "Ghost",
             "Grass"
@@ -19279,6 +20384,9 @@
         ]
     },
     "Gourgeist-Super": {
+        "evoTypes": [
+            "Evolved by Trade"
+        ],
         "types": [
             "Ghost",
             "Grass"
@@ -19301,6 +20409,7 @@
         ]
     },
     "Bergmite": {
+        "evoTypes": [],
         "types": [
             "Ice"
         ],
@@ -19324,6 +20433,7 @@
         ]
     },
     "Avalugg": {
+        "evoTypes": [],
         "types": [
             "Ice"
         ],
@@ -19347,6 +20457,7 @@
         ]
     },
     "Avalugg-Hisui": {
+        "evoTypes": [],
         "types": [
             "Ice",
             "Rock"
@@ -19370,6 +20481,7 @@
         ]
     },
     "Noibat": {
+        "evoTypes": [],
         "types": [
             "Flying",
             "Dragon"
@@ -19391,6 +20503,7 @@
         ]
     },
     "Noivern": {
+        "evoTypes": [],
         "types": [
             "Flying",
             "Dragon"
@@ -19412,6 +20525,7 @@
         ]
     },
     "Xerneas": {
+        "evoTypes": [],
         "types": [
             "Fairy"
         ],
@@ -19434,6 +20548,7 @@
         ]
     },
     "Xerneas-Neutral": {
+        "evoTypes": [],
         "types": [
             "Fairy"
         ],
@@ -19458,6 +20573,7 @@
         ]
     },
     "Yveltal": {
+        "evoTypes": [],
         "types": [
             "Dark",
             "Flying"
@@ -19478,6 +20594,7 @@
         ]
     },
     "Zygarde": {
+        "evoTypes": [],
         "types": [
             "Dragon",
             "Ground"
@@ -19499,6 +20616,7 @@
         ]
     },
     "Zygarde-10%": {
+        "evoTypes": [],
         "types": [
             "Dragon",
             "Ground"
@@ -19522,6 +20640,7 @@
         ]
     },
     "Zygarde-Complete": {
+        "evoTypes": [],
         "types": [
             "Dragon",
             "Ground"
@@ -19544,6 +20663,7 @@
         ]
     },
     "Diancie": {
+        "evoTypes": [],
         "types": [
             "Rock",
             "Fairy"
@@ -19565,6 +20685,7 @@
         ]
     },
     "Diancie-Mega": {
+        "evoTypes": [],
         "types": [
             "Rock",
             "Fairy"
@@ -19588,6 +20709,7 @@
         ]
     },
     "Hoopa": {
+        "evoTypes": [],
         "types": [
             "Psychic",
             "Ghost"
@@ -19609,6 +20731,7 @@
         ]
     },
     "Hoopa-Unbound": {
+        "evoTypes": [],
         "types": [
             "Psychic",
             "Dark"
@@ -19632,6 +20755,7 @@
         ]
     },
     "Volcanion": {
+        "evoTypes": [],
         "types": [
             "Fire",
             "Water"
@@ -19653,6 +20777,7 @@
         ]
     },
     "Rowlet": {
+        "evoTypes": [],
         "types": [
             "Grass",
             "Flying"
@@ -19672,6 +20797,7 @@
         ]
     },
     "Dartrix": {
+        "evoTypes": [],
         "types": [
             "Grass",
             "Flying"
@@ -19691,6 +20817,7 @@
         ]
     },
     "Decidueye": {
+        "evoTypes": [],
         "types": [
             "Grass",
             "Ghost"
@@ -19710,6 +20837,7 @@
         ]
     },
     "Decidueye-Hisui": {
+        "evoTypes": [],
         "types": [
             "Grass",
             "Fighting"
@@ -19731,6 +20859,7 @@
         ]
     },
     "Litten": {
+        "evoTypes": [],
         "types": [
             "Fire"
         ],
@@ -19752,6 +20881,7 @@
         ]
     },
     "Torracat": {
+        "evoTypes": [],
         "types": [
             "Fire"
         ],
@@ -19773,6 +20903,7 @@
         ]
     },
     "Incineroar": {
+        "evoTypes": [],
         "types": [
             "Fire",
             "Dark"
@@ -19792,6 +20923,7 @@
         ]
     },
     "Popplio": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -19814,6 +20946,7 @@
         ]
     },
     "Brionne": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -19836,6 +20969,7 @@
         ]
     },
     "Primarina": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Fairy"
@@ -19856,6 +20990,7 @@
         ]
     },
     "Pikipek": {
+        "evoTypes": [],
         "types": [
             "Normal",
             "Flying"
@@ -19876,6 +21011,7 @@
         ]
     },
     "Trumbeak": {
+        "evoTypes": [],
         "types": [
             "Normal",
             "Flying"
@@ -19896,6 +21032,7 @@
         ]
     },
     "Toucannon": {
+        "evoTypes": [],
         "types": [
             "Normal",
             "Flying"
@@ -19916,6 +21053,7 @@
         ]
     },
     "Yungoos": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -19938,6 +21076,7 @@
         ]
     },
     "Gumshoos": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -19960,6 +21099,7 @@
         ]
     },
     "Gumshoos-Totem": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -19982,6 +21122,7 @@
         ]
     },
     "Grubbin": {
+        "evoTypes": [],
         "types": [
             "Bug"
         ],
@@ -20002,6 +21143,7 @@
         ]
     },
     "Charjabug": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Electric"
@@ -20020,6 +21162,9 @@
         ]
     },
     "Vikavolt": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Bug",
             "Electric"
@@ -20038,6 +21183,7 @@
         ]
     },
     "Vikavolt-Totem": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Electric"
@@ -20058,6 +21204,7 @@
         ]
     },
     "Crabrawler": {
+        "evoTypes": [],
         "types": [
             "Fighting"
         ],
@@ -20080,6 +21227,9 @@
         ]
     },
     "Crabominable": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Fighting",
             "Ice"
@@ -20100,6 +21250,7 @@
         ]
     },
     "Oricorio": {
+        "evoTypes": [],
         "types": [
             "Fire",
             "Flying"
@@ -20118,6 +21269,7 @@
         ]
     },
     "Oricorio-Pom-Pom": {
+        "evoTypes": [],
         "types": [
             "Electric",
             "Flying"
@@ -20138,6 +21290,7 @@
         ]
     },
     "Oricorio-Pa'u": {
+        "evoTypes": [],
         "types": [
             "Psychic",
             "Flying"
@@ -20158,6 +21311,7 @@
         ]
     },
     "Oricorio-Sensu": {
+        "evoTypes": [],
         "types": [
             "Ghost",
             "Flying"
@@ -20178,6 +21332,7 @@
         ]
     },
     "Cutiefly": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Fairy"
@@ -20199,6 +21354,7 @@
         ]
     },
     "Ribombee": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Fairy"
@@ -20220,6 +21376,7 @@
         ]
     },
     "Ribombee-Totem": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Fairy"
@@ -20241,6 +21398,7 @@
         ]
     },
     "Rockruff": {
+        "evoTypes": [],
         "types": [
             "Rock"
         ],
@@ -20264,6 +21422,7 @@
         ]
     },
     "Lycanroc": {
+        "evoTypes": [],
         "types": [
             "Rock"
         ],
@@ -20286,6 +21445,7 @@
         ]
     },
     "Lycanroc-Midnight": {
+        "evoTypes": [],
         "types": [
             "Rock"
         ],
@@ -20310,6 +21470,7 @@
         ]
     },
     "Lycanroc-Dusk": {
+        "evoTypes": [],
         "types": [
             "Rock"
         ],
@@ -20332,6 +21493,7 @@
         ]
     },
     "Wishiwashi": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -20352,6 +21514,7 @@
         ]
     },
     "Wishiwashi-School": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -20374,6 +21537,7 @@
         ]
     },
     "Mareanie": {
+        "evoTypes": [],
         "types": [
             "Poison",
             "Water"
@@ -20394,6 +21558,7 @@
         ]
     },
     "Toxapex": {
+        "evoTypes": [],
         "types": [
             "Poison",
             "Water"
@@ -20414,6 +21579,7 @@
         ]
     },
     "Mudbray": {
+        "evoTypes": [],
         "types": [
             "Ground"
         ],
@@ -20436,6 +21602,7 @@
         ]
     },
     "Mudsdale": {
+        "evoTypes": [],
         "types": [
             "Ground"
         ],
@@ -20458,6 +21625,7 @@
         ]
     },
     "Dewpider": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Bug"
@@ -20478,6 +21646,7 @@
         ]
     },
     "Araquanid": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Bug"
@@ -20498,6 +21667,7 @@
         ]
     },
     "Araquanid-Totem": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Bug"
@@ -20519,6 +21689,7 @@
         ]
     },
     "Fomantis": {
+        "evoTypes": [],
         "types": [
             "Grass"
         ],
@@ -20540,6 +21711,7 @@
         ]
     },
     "Lurantis": {
+        "evoTypes": [],
         "types": [
             "Grass"
         ],
@@ -20561,6 +21733,7 @@
         ]
     },
     "Lurantis-Totem": {
+        "evoTypes": [],
         "types": [
             "Grass"
         ],
@@ -20583,6 +21756,7 @@
         ]
     },
     "Morelull": {
+        "evoTypes": [],
         "types": [
             "Grass",
             "Fairy"
@@ -20603,6 +21777,7 @@
         ]
     },
     "Shiinotic": {
+        "evoTypes": [],
         "types": [
             "Grass",
             "Fairy"
@@ -20623,6 +21798,7 @@
         ]
     },
     "Salandit": {
+        "evoTypes": [],
         "types": [
             "Poison",
             "Fire"
@@ -20643,6 +21819,7 @@
         ]
     },
     "Salazzle": {
+        "evoTypes": [],
         "types": [
             "Poison",
             "Fire"
@@ -20663,6 +21840,7 @@
         ]
     },
     "Salazzle-Totem": {
+        "evoTypes": [],
         "types": [
             "Poison",
             "Fire"
@@ -20684,6 +21862,7 @@
         ]
     },
     "Stufful": {
+        "evoTypes": [],
         "types": [
             "Normal",
             "Fighting"
@@ -20704,6 +21883,7 @@
         ]
     },
     "Bewear": {
+        "evoTypes": [],
         "types": [
             "Normal",
             "Fighting"
@@ -20724,6 +21904,7 @@
         ]
     },
     "Bounsweet": {
+        "evoTypes": [],
         "types": [
             "Grass"
         ],
@@ -20746,6 +21927,7 @@
         ]
     },
     "Steenee": {
+        "evoTypes": [],
         "types": [
             "Grass"
         ],
@@ -20768,6 +21950,7 @@
         ]
     },
     "Tsareena": {
+        "evoTypes": [],
         "types": [
             "Grass"
         ],
@@ -20790,6 +21973,7 @@
         ]
     },
     "Comfey": {
+        "evoTypes": [],
         "types": [
             "Fairy"
         ],
@@ -20812,6 +21996,7 @@
         ]
     },
     "Oranguru": {
+        "evoTypes": [],
         "types": [
             "Normal",
             "Psychic"
@@ -20832,6 +22017,7 @@
         ]
     },
     "Passimian": {
+        "evoTypes": [],
         "types": [
             "Fighting"
         ],
@@ -20853,6 +22039,7 @@
         ]
     },
     "Wimpod": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Water"
@@ -20872,6 +22059,7 @@
         ]
     },
     "Golisopod": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Water"
@@ -20891,6 +22079,7 @@
         ]
     },
     "Sandygast": {
+        "evoTypes": [],
         "types": [
             "Ghost",
             "Ground"
@@ -20910,6 +22099,7 @@
         ]
     },
     "Palossand": {
+        "evoTypes": [],
         "types": [
             "Ghost",
             "Ground"
@@ -20929,6 +22119,7 @@
         ]
     },
     "Pyukumuku": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -20950,6 +22141,7 @@
         ]
     },
     "Type: Null": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -20972,6 +22164,9 @@
         ]
     },
     "Silvally": {
+        "evoTypes": [
+            "Evolved by Friendship"
+        ],
         "types": [
             "Normal"
         ],
@@ -20994,6 +22189,7 @@
         ]
     },
     "Silvally-Bug": {
+        "evoTypes": [],
         "types": [
             "Bug"
         ],
@@ -21018,6 +22214,7 @@
         ]
     },
     "Silvally-Dark": {
+        "evoTypes": [],
         "types": [
             "Dark"
         ],
@@ -21042,6 +22239,7 @@
         ]
     },
     "Silvally-Dragon": {
+        "evoTypes": [],
         "types": [
             "Dragon"
         ],
@@ -21066,6 +22264,7 @@
         ]
     },
     "Silvally-Electric": {
+        "evoTypes": [],
         "types": [
             "Electric"
         ],
@@ -21090,6 +22289,7 @@
         ]
     },
     "Silvally-Fairy": {
+        "evoTypes": [],
         "types": [
             "Fairy"
         ],
@@ -21114,6 +22314,7 @@
         ]
     },
     "Silvally-Fighting": {
+        "evoTypes": [],
         "types": [
             "Fighting"
         ],
@@ -21138,6 +22339,7 @@
         ]
     },
     "Silvally-Fire": {
+        "evoTypes": [],
         "types": [
             "Fire"
         ],
@@ -21162,6 +22364,7 @@
         ]
     },
     "Silvally-Flying": {
+        "evoTypes": [],
         "types": [
             "Flying"
         ],
@@ -21186,6 +22389,7 @@
         ]
     },
     "Silvally-Ghost": {
+        "evoTypes": [],
         "types": [
             "Ghost"
         ],
@@ -21210,6 +22414,7 @@
         ]
     },
     "Silvally-Grass": {
+        "evoTypes": [],
         "types": [
             "Grass"
         ],
@@ -21234,6 +22439,7 @@
         ]
     },
     "Silvally-Ground": {
+        "evoTypes": [],
         "types": [
             "Ground"
         ],
@@ -21258,6 +22464,7 @@
         ]
     },
     "Silvally-Ice": {
+        "evoTypes": [],
         "types": [
             "Ice"
         ],
@@ -21282,6 +22489,7 @@
         ]
     },
     "Silvally-Poison": {
+        "evoTypes": [],
         "types": [
             "Poison"
         ],
@@ -21306,6 +22514,7 @@
         ]
     },
     "Silvally-Psychic": {
+        "evoTypes": [],
         "types": [
             "Psychic"
         ],
@@ -21330,6 +22539,7 @@
         ]
     },
     "Silvally-Rock": {
+        "evoTypes": [],
         "types": [
             "Rock"
         ],
@@ -21354,6 +22564,7 @@
         ]
     },
     "Silvally-Steel": {
+        "evoTypes": [],
         "types": [
             "Steel"
         ],
@@ -21378,6 +22589,7 @@
         ]
     },
     "Silvally-Water": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -21402,6 +22614,7 @@
         ]
     },
     "Minior": {
+        "evoTypes": [],
         "types": [
             "Rock",
             "Flying"
@@ -21420,6 +22633,7 @@
         ]
     },
     "Minior-Meteor": {
+        "evoTypes": [],
         "types": [
             "Rock",
             "Flying"
@@ -21440,6 +22654,7 @@
         ]
     },
     "Komala": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -21460,6 +22675,7 @@
         ]
     },
     "Turtonator": {
+        "evoTypes": [],
         "types": [
             "Fire",
             "Dragon"
@@ -21479,6 +22695,7 @@
         ]
     },
     "Togedemaru": {
+        "evoTypes": [],
         "types": [
             "Electric",
             "Steel"
@@ -21500,6 +22717,7 @@
         ]
     },
     "Togedemaru-Totem": {
+        "evoTypes": [],
         "types": [
             "Electric",
             "Steel"
@@ -21521,6 +22739,7 @@
         ]
     },
     "Mimikyu": {
+        "evoTypes": [],
         "types": [
             "Ghost",
             "Fairy"
@@ -21539,6 +22758,7 @@
         ]
     },
     "Mimikyu-Busted": {
+        "evoTypes": [],
         "types": [
             "Ghost",
             "Fairy"
@@ -21559,6 +22779,7 @@
         ]
     },
     "Mimikyu-Totem": {
+        "evoTypes": [],
         "types": [
             "Ghost",
             "Fairy"
@@ -21579,6 +22800,7 @@
         ]
     },
     "Mimikyu-Busted-Totem": {
+        "evoTypes": [],
         "types": [
             "Ghost",
             "Fairy"
@@ -21599,6 +22821,7 @@
         ]
     },
     "Bruxish": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Psychic"
@@ -21619,6 +22842,7 @@
         ]
     },
     "Drampa": {
+        "evoTypes": [],
         "types": [
             "Normal",
             "Dragon"
@@ -21640,6 +22864,7 @@
         ]
     },
     "Dhelmise": {
+        "evoTypes": [],
         "types": [
             "Ghost",
             "Grass"
@@ -21658,6 +22883,7 @@
         ]
     },
     "Jangmo-o": {
+        "evoTypes": [],
         "types": [
             "Dragon"
         ],
@@ -21680,6 +22906,7 @@
         ]
     },
     "Hakamo-o": {
+        "evoTypes": [],
         "types": [
             "Dragon",
             "Fighting"
@@ -21700,6 +22927,7 @@
         ]
     },
     "Kommo-o": {
+        "evoTypes": [],
         "types": [
             "Dragon",
             "Fighting"
@@ -21720,6 +22948,7 @@
         ]
     },
     "Kommo-o-Totem": {
+        "evoTypes": [],
         "types": [
             "Dragon",
             "Fighting"
@@ -21740,6 +22969,7 @@
         ]
     },
     "Tapu Koko": {
+        "evoTypes": [],
         "types": [
             "Electric",
             "Fairy"
@@ -21761,6 +22991,7 @@
         ]
     },
     "Tapu Lele": {
+        "evoTypes": [],
         "types": [
             "Psychic",
             "Fairy"
@@ -21782,6 +23013,7 @@
         ]
     },
     "Tapu Bulu": {
+        "evoTypes": [],
         "types": [
             "Grass",
             "Fairy"
@@ -21803,6 +23035,7 @@
         ]
     },
     "Tapu Fini": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Fairy"
@@ -21824,6 +23057,7 @@
         ]
     },
     "Cosmog": {
+        "evoTypes": [],
         "types": [
             "Psychic"
         ],
@@ -21846,6 +23080,7 @@
         ]
     },
     "Cosmoem": {
+        "evoTypes": [],
         "types": [
             "Psychic"
         ],
@@ -21868,6 +23103,7 @@
         ]
     },
     "Solgaleo": {
+        "evoTypes": [],
         "types": [
             "Psychic",
             "Steel"
@@ -21888,6 +23124,7 @@
         ]
     },
     "Lunala": {
+        "evoTypes": [],
         "types": [
             "Psychic",
             "Ghost"
@@ -21908,6 +23145,7 @@
         ]
     },
     "Nihilego": {
+        "evoTypes": [],
         "types": [
             "Rock",
             "Poison"
@@ -21928,6 +23166,7 @@
         ]
     },
     "Buzzwole": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Fighting"
@@ -21948,6 +23187,7 @@
         ]
     },
     "Pheromosa": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Fighting"
@@ -21968,6 +23208,7 @@
         ]
     },
     "Xurkitree": {
+        "evoTypes": [],
         "types": [
             "Electric"
         ],
@@ -21990,6 +23231,7 @@
         ]
     },
     "Celesteela": {
+        "evoTypes": [],
         "types": [
             "Steel",
             "Flying"
@@ -22010,6 +23252,7 @@
         ]
     },
     "Kartana": {
+        "evoTypes": [],
         "types": [
             "Grass",
             "Steel"
@@ -22030,6 +23273,7 @@
         ]
     },
     "Guzzlord": {
+        "evoTypes": [],
         "types": [
             "Dark",
             "Dragon"
@@ -22050,6 +23294,7 @@
         ]
     },
     "Necrozma": {
+        "evoTypes": [],
         "types": [
             "Psychic"
         ],
@@ -22072,6 +23317,7 @@
         ]
     },
     "Necrozma-Dusk-Mane": {
+        "evoTypes": [],
         "types": [
             "Psychic",
             "Steel"
@@ -22094,6 +23340,7 @@
         ]
     },
     "Necrozma-Dawn-Wings": {
+        "evoTypes": [],
         "types": [
             "Psychic",
             "Ghost"
@@ -22116,6 +23363,7 @@
         ]
     },
     "Necrozma-Ultra": {
+        "evoTypes": [],
         "types": [
             "Psychic",
             "Dragon"
@@ -22138,6 +23386,7 @@
         ]
     },
     "Magearna": {
+        "evoTypes": [],
         "types": [
             "Steel",
             "Fairy"
@@ -22159,6 +23408,7 @@
         ]
     },
     "Magearna-Original": {
+        "evoTypes": [],
         "types": [
             "Steel",
             "Fairy"
@@ -22182,6 +23432,7 @@
         ]
     },
     "Marshadow": {
+        "evoTypes": [],
         "types": [
             "Fighting",
             "Ghost"
@@ -22203,6 +23454,7 @@
         ]
     },
     "Poipole": {
+        "evoTypes": [],
         "types": [
             "Poison"
         ],
@@ -22225,6 +23477,7 @@
         ]
     },
     "Naganadel": {
+        "evoTypes": [],
         "types": [
             "Poison",
             "Dragon"
@@ -22245,6 +23498,7 @@
         ]
     },
     "Stakataka": {
+        "evoTypes": [],
         "types": [
             "Rock",
             "Steel"
@@ -22265,6 +23519,7 @@
         ]
     },
     "Blacephalon": {
+        "evoTypes": [],
         "types": [
             "Fire",
             "Ghost"
@@ -22285,6 +23540,7 @@
         ]
     },
     "Zeraora": {
+        "evoTypes": [],
         "types": [
             "Electric"
         ],
@@ -22308,6 +23564,7 @@
         ]
     },
     "Meltan": {
+        "evoTypes": [],
         "types": [
             "Steel"
         ],
@@ -22331,6 +23588,7 @@
         ]
     },
     "Melmetal": {
+        "evoTypes": [],
         "types": [
             "Steel"
         ],
@@ -22354,6 +23612,7 @@
         ]
     },
     "Melmetal-Gmax": {
+        "evoTypes": [],
         "types": [
             "Steel"
         ],
@@ -22379,6 +23638,7 @@
         ]
     },
     "Grookey": {
+        "evoTypes": [],
         "types": [
             "Grass"
         ],
@@ -22401,6 +23661,7 @@
         ]
     },
     "Thwackey": {
+        "evoTypes": [],
         "types": [
             "Grass"
         ],
@@ -22423,6 +23684,7 @@
         ]
     },
     "Rillaboom": {
+        "evoTypes": [],
         "types": [
             "Grass"
         ],
@@ -22445,6 +23707,7 @@
         ]
     },
     "Rillaboom-Gmax": {
+        "evoTypes": [],
         "types": [
             "Grass"
         ],
@@ -22469,6 +23732,7 @@
         ]
     },
     "Scorbunny": {
+        "evoTypes": [],
         "types": [
             "Fire"
         ],
@@ -22491,6 +23755,7 @@
         ]
     },
     "Raboot": {
+        "evoTypes": [],
         "types": [
             "Fire"
         ],
@@ -22513,6 +23778,7 @@
         ]
     },
     "Cinderace": {
+        "evoTypes": [],
         "types": [
             "Fire"
         ],
@@ -22535,6 +23801,7 @@
         ]
     },
     "Cinderace-Gmax": {
+        "evoTypes": [],
         "types": [
             "Fire"
         ],
@@ -22559,6 +23826,7 @@
         ]
     },
     "Sobble": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -22581,6 +23849,7 @@
         ]
     },
     "Drizzile": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -22603,6 +23872,7 @@
         ]
     },
     "Inteleon": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -22625,6 +23895,7 @@
         ]
     },
     "Inteleon-Gmax": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -22649,6 +23920,7 @@
         ]
     },
     "Skwovet": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -22670,6 +23942,7 @@
         ]
     },
     "Greedent": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -22691,6 +23964,7 @@
         ]
     },
     "Rookidee": {
+        "evoTypes": [],
         "types": [
             "Flying"
         ],
@@ -22713,6 +23987,7 @@
         ]
     },
     "Corvisquire": {
+        "evoTypes": [],
         "types": [
             "Flying"
         ],
@@ -22735,6 +24010,7 @@
         ]
     },
     "Corviknight": {
+        "evoTypes": [],
         "types": [
             "Flying",
             "Steel"
@@ -22755,6 +24031,7 @@
         ]
     },
     "Corviknight-Gmax": {
+        "evoTypes": [],
         "types": [
             "Flying",
             "Steel"
@@ -22777,6 +24054,7 @@
         ]
     },
     "Blipbug": {
+        "evoTypes": [],
         "types": [
             "Bug"
         ],
@@ -22799,6 +24077,7 @@
         ]
     },
     "Dottler": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Psychic"
@@ -22819,6 +24098,7 @@
         ]
     },
     "Orbeetle": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Psychic"
@@ -22839,6 +24119,7 @@
         ]
     },
     "Orbeetle-Gmax": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Psychic"
@@ -22861,6 +24142,7 @@
         ]
     },
     "Nickit": {
+        "evoTypes": [],
         "types": [
             "Dark"
         ],
@@ -22883,6 +24165,7 @@
         ]
     },
     "Thievul": {
+        "evoTypes": [],
         "types": [
             "Dark"
         ],
@@ -22905,6 +24188,7 @@
         ]
     },
     "Gossifleur": {
+        "evoTypes": [],
         "types": [
             "Grass"
         ],
@@ -22927,6 +24211,7 @@
         ]
     },
     "Eldegoss": {
+        "evoTypes": [],
         "types": [
             "Grass"
         ],
@@ -22949,6 +24234,7 @@
         ]
     },
     "Wooloo": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -22971,6 +24257,7 @@
         ]
     },
     "Dubwool": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -22993,6 +24280,7 @@
         ]
     },
     "Chewtle": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -23016,6 +24304,7 @@
         ]
     },
     "Drednaw": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Rock"
@@ -23037,6 +24326,7 @@
         ]
     },
     "Drednaw-Gmax": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Rock"
@@ -23060,6 +24350,7 @@
         ]
     },
     "Yamper": {
+        "evoTypes": [],
         "types": [
             "Electric"
         ],
@@ -23081,6 +24372,7 @@
         ]
     },
     "Boltund": {
+        "evoTypes": [],
         "types": [
             "Electric"
         ],
@@ -23102,6 +24394,7 @@
         ]
     },
     "Rolycoly": {
+        "evoTypes": [],
         "types": [
             "Rock"
         ],
@@ -23124,6 +24417,7 @@
         ]
     },
     "Carkol": {
+        "evoTypes": [],
         "types": [
             "Rock",
             "Fire"
@@ -23144,6 +24438,7 @@
         ]
     },
     "Coalossal": {
+        "evoTypes": [],
         "types": [
             "Rock",
             "Fire"
@@ -23164,6 +24459,7 @@
         ]
     },
     "Coalossal-Gmax": {
+        "evoTypes": [],
         "types": [
             "Rock",
             "Fire"
@@ -23186,6 +24482,7 @@
         ]
     },
     "Applin": {
+        "evoTypes": [],
         "types": [
             "Grass",
             "Dragon"
@@ -23207,6 +24504,9 @@
         ]
     },
     "Flapple": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Grass",
             "Dragon"
@@ -23228,6 +24528,7 @@
         ]
     },
     "Flapple-Gmax": {
+        "evoTypes": [],
         "types": [
             "Grass",
             "Dragon"
@@ -23251,6 +24552,9 @@
         ]
     },
     "Appletun": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Grass",
             "Dragon"
@@ -23272,6 +24576,7 @@
         ]
     },
     "Appletun-Gmax": {
+        "evoTypes": [],
         "types": [
             "Grass",
             "Dragon"
@@ -23295,6 +24600,7 @@
         ]
     },
     "Silicobra": {
+        "evoTypes": [],
         "types": [
             "Ground"
         ],
@@ -23318,6 +24624,7 @@
         ]
     },
     "Sandaconda": {
+        "evoTypes": [],
         "types": [
             "Ground"
         ],
@@ -23341,6 +24648,7 @@
         ]
     },
     "Sandaconda-Gmax": {
+        "evoTypes": [],
         "types": [
             "Ground"
         ],
@@ -23366,6 +24674,7 @@
         ]
     },
     "Cramorant": {
+        "evoTypes": [],
         "types": [
             "Flying",
             "Water"
@@ -23385,6 +24694,7 @@
         ]
     },
     "Cramorant-Gulping": {
+        "evoTypes": [],
         "types": [
             "Flying",
             "Water"
@@ -23406,6 +24716,7 @@
         ]
     },
     "Cramorant-Gorging": {
+        "evoTypes": [],
         "types": [
             "Flying",
             "Water"
@@ -23427,6 +24738,7 @@
         ]
     },
     "Arrokuda": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -23448,6 +24760,7 @@
         ]
     },
     "Barraskewda": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -23469,6 +24782,7 @@
         ]
     },
     "Toxel": {
+        "evoTypes": [],
         "types": [
             "Electric",
             "Poison"
@@ -23489,6 +24803,7 @@
         ]
     },
     "Toxtricity": {
+        "evoTypes": [],
         "types": [
             "Electric",
             "Poison"
@@ -23509,6 +24824,7 @@
         ]
     },
     "Toxtricity-Low-Key": {
+        "evoTypes": [],
         "types": [
             "Electric",
             "Poison"
@@ -23531,6 +24847,7 @@
         ]
     },
     "Toxtricity-Gmax": {
+        "evoTypes": [],
         "types": [
             "Electric",
             "Poison"
@@ -23553,6 +24870,7 @@
         ]
     },
     "Toxtricity-Low-Key-Gmax": {
+        "evoTypes": [],
         "types": [
             "Electric",
             "Poison"
@@ -23575,6 +24893,7 @@
         ]
     },
     "Sizzlipede": {
+        "evoTypes": [],
         "types": [
             "Fire",
             "Bug"
@@ -23595,6 +24914,7 @@
         ]
     },
     "Centiskorch": {
+        "evoTypes": [],
         "types": [
             "Fire",
             "Bug"
@@ -23615,6 +24935,7 @@
         ]
     },
     "Centiskorch-Gmax": {
+        "evoTypes": [],
         "types": [
             "Fire",
             "Bug"
@@ -23637,6 +24958,7 @@
         ]
     },
     "Clobbopus": {
+        "evoTypes": [],
         "types": [
             "Fighting"
         ],
@@ -23659,6 +24981,7 @@
         ]
     },
     "Grapploct": {
+        "evoTypes": [],
         "types": [
             "Fighting"
         ],
@@ -23681,6 +25004,7 @@
         ]
     },
     "Sinistea": {
+        "evoTypes": [],
         "types": [
             "Ghost"
         ],
@@ -23703,6 +25027,7 @@
         ]
     },
     "Sinistea-Antique": {
+        "evoTypes": [],
         "types": [
             "Ghost"
         ],
@@ -23726,6 +25051,9 @@
         ]
     },
     "Polteageist": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Ghost"
         ],
@@ -23748,6 +25076,9 @@
         ]
     },
     "Polteageist-Antique": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Ghost"
         ],
@@ -23771,6 +25102,7 @@
         ]
     },
     "Hatenna": {
+        "evoTypes": [],
         "types": [
             "Psychic"
         ],
@@ -23793,6 +25125,7 @@
         ]
     },
     "Hattrem": {
+        "evoTypes": [],
         "types": [
             "Psychic"
         ],
@@ -23815,6 +25148,7 @@
         ]
     },
     "Hatterene": {
+        "evoTypes": [],
         "types": [
             "Psychic",
             "Fairy"
@@ -23835,6 +25169,7 @@
         ]
     },
     "Hatterene-Gmax": {
+        "evoTypes": [],
         "types": [
             "Psychic",
             "Fairy"
@@ -23857,6 +25192,7 @@
         ]
     },
     "Impidimp": {
+        "evoTypes": [],
         "types": [
             "Dark",
             "Fairy"
@@ -23878,6 +25214,7 @@
         ]
     },
     "Morgrem": {
+        "evoTypes": [],
         "types": [
             "Dark",
             "Fairy"
@@ -23899,6 +25236,7 @@
         ]
     },
     "Grimmsnarl": {
+        "evoTypes": [],
         "types": [
             "Dark",
             "Fairy"
@@ -23920,6 +25258,7 @@
         ]
     },
     "Grimmsnarl-Gmax": {
+        "evoTypes": [],
         "types": [
             "Dark",
             "Fairy"
@@ -23943,6 +25282,7 @@
         ]
     },
     "Obstagoon": {
+        "evoTypes": [],
         "types": [
             "Dark",
             "Normal"
@@ -23963,6 +25303,7 @@
         ]
     },
     "Perrserker": {
+        "evoTypes": [],
         "types": [
             "Steel"
         ],
@@ -23985,6 +25326,7 @@
         ]
     },
     "Cursola": {
+        "evoTypes": [],
         "types": [
             "Ghost"
         ],
@@ -24007,6 +25349,7 @@
         ]
     },
     "Sirfetch\u2019d": {
+        "evoTypes": [],
         "types": [
             "Fighting"
         ],
@@ -24029,6 +25372,7 @@
         ]
     },
     "Mr. Rime": {
+        "evoTypes": [],
         "types": [
             "Ice",
             "Psychic"
@@ -24049,6 +25393,7 @@
         ]
     },
     "Runerigus": {
+        "evoTypes": [],
         "types": [
             "Ground",
             "Ghost"
@@ -24068,6 +25413,7 @@
         ]
     },
     "Milcery": {
+        "evoTypes": [],
         "types": [
             "Fairy"
         ],
@@ -24090,6 +25436,7 @@
         ]
     },
     "Alcremie": {
+        "evoTypes": [],
         "types": [
             "Fairy"
         ],
@@ -24112,6 +25459,7 @@
         ]
     },
     "Alcremie-Gmax": {
+        "evoTypes": [],
         "types": [
             "Fairy"
         ],
@@ -24136,6 +25484,7 @@
         ]
     },
     "Falinks": {
+        "evoTypes": [],
         "types": [
             "Fighting"
         ],
@@ -24158,6 +25507,7 @@
         ]
     },
     "Pincurchin": {
+        "evoTypes": [],
         "types": [
             "Electric"
         ],
@@ -24180,6 +25530,7 @@
         ]
     },
     "Snom": {
+        "evoTypes": [],
         "types": [
             "Ice",
             "Bug"
@@ -24199,6 +25550,9 @@
         ]
     },
     "Frosmoth": {
+        "evoTypes": [
+            "Evolved by Friendship"
+        ],
         "types": [
             "Ice",
             "Bug"
@@ -24218,6 +25572,7 @@
         ]
     },
     "Stonjourner": {
+        "evoTypes": [],
         "types": [
             "Rock"
         ],
@@ -24238,6 +25593,7 @@
         ]
     },
     "Eiscue": {
+        "evoTypes": [],
         "types": [
             "Ice"
         ],
@@ -24259,6 +25615,7 @@
         ]
     },
     "Eiscue-Noice": {
+        "evoTypes": [],
         "types": [
             "Ice"
         ],
@@ -24282,6 +25639,7 @@
         ]
     },
     "Indeedee": {
+        "evoTypes": [],
         "types": [
             "Psychic",
             "Normal"
@@ -24302,6 +25660,7 @@
         ]
     },
     "Indeedee-F": {
+        "evoTypes": [],
         "types": [
             "Psychic",
             "Normal"
@@ -24324,6 +25683,7 @@
         ]
     },
     "Morpeko": {
+        "evoTypes": [],
         "types": [
             "Electric",
             "Dark"
@@ -24343,6 +25703,7 @@
         ]
     },
     "Morpeko-Hangry": {
+        "evoTypes": [],
         "types": [
             "Electric",
             "Dark"
@@ -24364,6 +25725,7 @@
         ]
     },
     "Cufant": {
+        "evoTypes": [],
         "types": [
             "Steel"
         ],
@@ -24386,6 +25748,7 @@
         ]
     },
     "Copperajah": {
+        "evoTypes": [],
         "types": [
             "Steel"
         ],
@@ -24408,6 +25771,7 @@
         ]
     },
     "Copperajah-Gmax": {
+        "evoTypes": [],
         "types": [
             "Steel"
         ],
@@ -24432,6 +25796,7 @@
         ]
     },
     "Dracozolt": {
+        "evoTypes": [],
         "types": [
             "Electric",
             "Dragon"
@@ -24452,6 +25817,7 @@
         ]
     },
     "Arctozolt": {
+        "evoTypes": [],
         "types": [
             "Electric",
             "Ice"
@@ -24472,6 +25838,7 @@
         ]
     },
     "Dracovish": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Dragon"
@@ -24492,6 +25859,7 @@
         ]
     },
     "Arctovish": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Ice"
@@ -24512,6 +25880,7 @@
         ]
     },
     "Duraludon": {
+        "evoTypes": [],
         "types": [
             "Steel",
             "Dragon"
@@ -24533,6 +25902,7 @@
         ]
     },
     "Duraludon-Gmax": {
+        "evoTypes": [],
         "types": [
             "Steel",
             "Dragon"
@@ -24556,6 +25926,7 @@
         ]
     },
     "Dreepy": {
+        "evoTypes": [],
         "types": [
             "Dragon",
             "Ghost"
@@ -24577,6 +25948,7 @@
         ]
     },
     "Drakloak": {
+        "evoTypes": [],
         "types": [
             "Dragon",
             "Ghost"
@@ -24598,6 +25970,7 @@
         ]
     },
     "Dragapult": {
+        "evoTypes": [],
         "types": [
             "Dragon",
             "Ghost"
@@ -24619,6 +25992,7 @@
         ]
     },
     "Zacian": {
+        "evoTypes": [],
         "types": [
             "Fairy"
         ],
@@ -24641,6 +26015,7 @@
         ]
     },
     "Zacian-Crowned": {
+        "evoTypes": [],
         "types": [
             "Fairy",
             "Steel"
@@ -24663,6 +26038,7 @@
         ]
     },
     "Zamazenta": {
+        "evoTypes": [],
         "types": [
             "Fighting"
         ],
@@ -24685,6 +26061,7 @@
         ]
     },
     "Zamazenta-Crowned": {
+        "evoTypes": [],
         "types": [
             "Fighting",
             "Steel"
@@ -24707,6 +26084,7 @@
         ]
     },
     "Eternatus": {
+        "evoTypes": [],
         "types": [
             "Poison",
             "Dragon"
@@ -24727,6 +26105,7 @@
         ]
     },
     "Eternatus-Eternamax": {
+        "evoTypes": [],
         "types": [
             "Poison",
             "Dragon"
@@ -24749,6 +26128,7 @@
         ]
     },
     "Kubfu": {
+        "evoTypes": [],
         "types": [
             "Fighting"
         ],
@@ -24771,6 +26151,7 @@
         ]
     },
     "Urshifu": {
+        "evoTypes": [],
         "types": [
             "Fighting",
             "Dark"
@@ -24791,6 +26172,7 @@
         ]
     },
     "Urshifu-Rapid-Strike": {
+        "evoTypes": [],
         "types": [
             "Fighting",
             "Water"
@@ -24813,6 +26195,7 @@
         ]
     },
     "Urshifu-Gmax": {
+        "evoTypes": [],
         "types": [
             "Fighting",
             "Dark"
@@ -24835,6 +26218,7 @@
         ]
     },
     "Urshifu-Rapid-Strike-Gmax": {
+        "evoTypes": [],
         "types": [
             "Fighting",
             "Water"
@@ -24857,6 +26241,7 @@
         ]
     },
     "Zarude": {
+        "evoTypes": [],
         "types": [
             "Dark",
             "Grass"
@@ -24878,6 +26263,7 @@
         ]
     },
     "Zarude-Dada": {
+        "evoTypes": [],
         "types": [
             "Dark",
             "Grass"
@@ -24901,6 +26287,7 @@
         ]
     },
     "Regieleki": {
+        "evoTypes": [],
         "types": [
             "Electric"
         ],
@@ -24923,6 +26310,7 @@
         ]
     },
     "Regidrago": {
+        "evoTypes": [],
         "types": [
             "Dragon"
         ],
@@ -24945,6 +26333,7 @@
         ]
     },
     "Glastrier": {
+        "evoTypes": [],
         "types": [
             "Ice"
         ],
@@ -24967,6 +26356,7 @@
         ]
     },
     "Spectrier": {
+        "evoTypes": [],
         "types": [
             "Ghost"
         ],
@@ -24989,6 +26379,7 @@
         ]
     },
     "Calyrex": {
+        "evoTypes": [],
         "types": [
             "Psychic",
             "Grass"
@@ -25009,6 +26400,7 @@
         ]
     },
     "Calyrex-Ice": {
+        "evoTypes": [],
         "types": [
             "Psychic",
             "Ice"
@@ -25031,6 +26423,7 @@
         ]
     },
     "Calyrex-Shadow": {
+        "evoTypes": [],
         "types": [
             "Psychic",
             "Ghost"
@@ -25053,6 +26446,7 @@
         ]
     },
     "Wyrdeer": {
+        "evoTypes": [],
         "types": [
             "Normal",
             "Psychic"
@@ -25073,6 +26467,7 @@
         ]
     },
     "Kleavor": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Rock"
@@ -25093,6 +26488,7 @@
         ]
     },
     "Ursaluna": {
+        "evoTypes": [],
         "types": [
             "Ground",
             "Normal"
@@ -25113,6 +26509,7 @@
         ]
     },
     "Ursaluna-Bloodmoon": {
+        "evoTypes": [],
         "types": [
             "Ground",
             "Normal"
@@ -25133,6 +26530,7 @@
         ]
     },
     "Basculegion": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Ghost"
@@ -25153,6 +26551,7 @@
         ]
     },
     "Basculegion-F": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Ghost"
@@ -25175,6 +26574,7 @@
         ]
     },
     "Sneasler": {
+        "evoTypes": [],
         "types": [
             "Fighting",
             "Poison"
@@ -25195,6 +26595,7 @@
         ]
     },
     "Overqwil": {
+        "evoTypes": [],
         "types": [
             "Dark",
             "Poison"
@@ -25215,6 +26616,7 @@
         ]
     },
     "Enamorus": {
+        "evoTypes": [],
         "types": [
             "Fairy",
             "Flying"
@@ -25236,6 +26638,7 @@
         ]
     },
     "Enamorus-Therian": {
+        "evoTypes": [],
         "types": [
             "Fairy",
             "Flying"
@@ -25258,6 +26661,7 @@
         ]
     },
     "Sprigatito": {
+        "evoTypes": [],
         "types": [
             "Grass"
         ],
@@ -25280,6 +26684,7 @@
         ]
     },
     "Floragato": {
+        "evoTypes": [],
         "types": [
             "Grass"
         ],
@@ -25302,6 +26707,7 @@
         ]
     },
     "Meowscarada": {
+        "evoTypes": [],
         "types": [
             "Grass",
             "Dark"
@@ -25322,6 +26728,7 @@
         ]
     },
     "Fuecoco": {
+        "evoTypes": [],
         "types": [
             "Fire"
         ],
@@ -25343,6 +26750,7 @@
         ]
     },
     "Crocalor": {
+        "evoTypes": [],
         "types": [
             "Fire"
         ],
@@ -25364,6 +26772,7 @@
         ]
     },
     "Skeledirge": {
+        "evoTypes": [],
         "types": [
             "Fire",
             "Ghost"
@@ -25383,6 +26792,7 @@
         ]
     },
     "Quaxly": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -25405,6 +26815,7 @@
         ]
     },
     "Quaxwell": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -25427,6 +26838,7 @@
         ]
     },
     "Quaquaval": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Fighting"
@@ -25447,6 +26859,7 @@
         ]
     },
     "Lechonk": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -25469,6 +26882,7 @@
         ]
     },
     "Oinkologne": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -25491,6 +26905,7 @@
         ]
     },
     "Oinkologne-F": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -25515,6 +26930,7 @@
         ]
     },
     "Tarountula": {
+        "evoTypes": [],
         "types": [
             "Bug"
         ],
@@ -25536,6 +26952,7 @@
         ]
     },
     "Spidops": {
+        "evoTypes": [],
         "types": [
             "Bug"
         ],
@@ -25557,6 +26974,7 @@
         ]
     },
     "Nymble": {
+        "evoTypes": [],
         "types": [
             "Bug"
         ],
@@ -25578,6 +26996,7 @@
         ]
     },
     "Lokix": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Dark"
@@ -25597,6 +27016,7 @@
         ]
     },
     "Pawmi": {
+        "evoTypes": [],
         "types": [
             "Electric"
         ],
@@ -25619,6 +27039,7 @@
         ]
     },
     "Pawmo": {
+        "evoTypes": [],
         "types": [
             "Electric",
             "Fighting"
@@ -25639,6 +27060,7 @@
         ]
     },
     "Pawmot": {
+        "evoTypes": [],
         "types": [
             "Electric",
             "Fighting"
@@ -25659,6 +27081,7 @@
         ]
     },
     "Tandemaus": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -25682,6 +27105,7 @@
         ]
     },
     "Maushold": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -25705,6 +27129,7 @@
         ]
     },
     "Maushold-Four": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -25730,6 +27155,7 @@
         ]
     },
     "Fidough": {
+        "evoTypes": [],
         "types": [
             "Fairy"
         ],
@@ -25752,6 +27178,7 @@
         ]
     },
     "Dachsbun": {
+        "evoTypes": [],
         "types": [
             "Fairy"
         ],
@@ -25774,6 +27201,7 @@
         ]
     },
     "Smoliv": {
+        "evoTypes": [],
         "types": [
             "Grass",
             "Normal"
@@ -25793,6 +27221,7 @@
         ]
     },
     "Dolliv": {
+        "evoTypes": [],
         "types": [
             "Grass",
             "Normal"
@@ -25812,6 +27241,7 @@
         ]
     },
     "Arboliva": {
+        "evoTypes": [],
         "types": [
             "Grass",
             "Normal"
@@ -25831,6 +27261,7 @@
         ]
     },
     "Squawkabilly": {
+        "evoTypes": [],
         "types": [
             "Normal",
             "Flying"
@@ -25851,6 +27282,7 @@
         ]
     },
     "Squawkabilly-Blue": {
+        "evoTypes": [],
         "types": [
             "Normal",
             "Flying"
@@ -25873,6 +27305,7 @@
         ]
     },
     "Squawkabilly-Yellow": {
+        "evoTypes": [],
         "types": [
             "Normal",
             "Flying"
@@ -25895,6 +27328,7 @@
         ]
     },
     "Squawkabilly-White": {
+        "evoTypes": [],
         "types": [
             "Normal",
             "Flying"
@@ -25917,6 +27351,7 @@
         ]
     },
     "Nacli": {
+        "evoTypes": [],
         "types": [
             "Rock"
         ],
@@ -25939,6 +27374,7 @@
         ]
     },
     "Naclstack": {
+        "evoTypes": [],
         "types": [
             "Rock"
         ],
@@ -25961,6 +27397,7 @@
         ]
     },
     "Garganacl": {
+        "evoTypes": [],
         "types": [
             "Rock"
         ],
@@ -25983,6 +27420,7 @@
         ]
     },
     "Charcadet": {
+        "evoTypes": [],
         "types": [
             "Fire"
         ],
@@ -26004,6 +27442,9 @@
         ]
     },
     "Armarouge": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Fire",
             "Psychic"
@@ -26023,6 +27464,9 @@
         ]
     },
     "Ceruledge": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Fire",
             "Ghost"
@@ -26042,6 +27486,7 @@
         ]
     },
     "Tadbulb": {
+        "evoTypes": [],
         "types": [
             "Electric"
         ],
@@ -26064,6 +27509,9 @@
         ]
     },
     "Bellibolt": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Electric"
         ],
@@ -26086,6 +27534,7 @@
         ]
     },
     "Wattrel": {
+        "evoTypes": [],
         "types": [
             "Electric",
             "Flying"
@@ -26107,6 +27556,7 @@
         ]
     },
     "Kilowattrel": {
+        "evoTypes": [],
         "types": [
             "Electric",
             "Flying"
@@ -26128,6 +27578,7 @@
         ]
     },
     "Maschiff": {
+        "evoTypes": [],
         "types": [
             "Dark"
         ],
@@ -26150,6 +27601,7 @@
         ]
     },
     "Mabosstiff": {
+        "evoTypes": [],
         "types": [
             "Dark"
         ],
@@ -26172,6 +27624,7 @@
         ]
     },
     "Shroodle": {
+        "evoTypes": [],
         "types": [
             "Poison",
             "Normal"
@@ -26192,6 +27645,7 @@
         ]
     },
     "Grafaiai": {
+        "evoTypes": [],
         "types": [
             "Poison",
             "Normal"
@@ -26212,6 +27666,7 @@
         ]
     },
     "Bramblin": {
+        "evoTypes": [],
         "types": [
             "Grass",
             "Ghost"
@@ -26231,6 +27686,7 @@
         ]
     },
     "Brambleghast": {
+        "evoTypes": [],
         "types": [
             "Grass",
             "Ghost"
@@ -26250,6 +27706,7 @@
         ]
     },
     "Toedscool": {
+        "evoTypes": [],
         "types": [
             "Ground",
             "Grass"
@@ -26268,6 +27725,7 @@
         ]
     },
     "Toedscruel": {
+        "evoTypes": [],
         "types": [
             "Ground",
             "Grass"
@@ -26286,6 +27744,7 @@
         ]
     },
     "Klawf": {
+        "evoTypes": [],
         "types": [
             "Rock"
         ],
@@ -26308,6 +27767,7 @@
         ]
     },
     "Capsakid": {
+        "evoTypes": [],
         "types": [
             "Grass"
         ],
@@ -26330,6 +27790,9 @@
         ]
     },
     "Scovillain": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Grass",
             "Fire"
@@ -26350,6 +27813,7 @@
         ]
     },
     "Rellor": {
+        "evoTypes": [],
         "types": [
             "Bug"
         ],
@@ -26371,6 +27835,7 @@
         ]
     },
     "Rabsca": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Psychic"
@@ -26390,6 +27855,7 @@
         ]
     },
     "Flittle": {
+        "evoTypes": [],
         "types": [
             "Psychic"
         ],
@@ -26412,6 +27878,7 @@
         ]
     },
     "Espathra": {
+        "evoTypes": [],
         "types": [
             "Psychic"
         ],
@@ -26434,6 +27901,7 @@
         ]
     },
     "Tinkatink": {
+        "evoTypes": [],
         "types": [
             "Fairy",
             "Steel"
@@ -26454,6 +27922,7 @@
         ]
     },
     "Tinkatuff": {
+        "evoTypes": [],
         "types": [
             "Fairy",
             "Steel"
@@ -26474,6 +27943,7 @@
         ]
     },
     "Tinkaton": {
+        "evoTypes": [],
         "types": [
             "Fairy",
             "Steel"
@@ -26494,6 +27964,7 @@
         ]
     },
     "Wiglett": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -26516,6 +27987,7 @@
         ]
     },
     "Wugtrio": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -26538,6 +28010,7 @@
         ]
     },
     "Bombirdier": {
+        "evoTypes": [],
         "types": [
             "Flying",
             "Dark"
@@ -26558,6 +28031,7 @@
         ]
     },
     "Finizen": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -26579,6 +28053,7 @@
         ]
     },
     "Palafin": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -26600,6 +28075,7 @@
         ]
     },
     "Palafin-Hero": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -26623,6 +28099,7 @@
         ]
     },
     "Varoom": {
+        "evoTypes": [],
         "types": [
             "Steel",
             "Poison"
@@ -26642,6 +28119,7 @@
         ]
     },
     "Revavroom": {
+        "evoTypes": [],
         "types": [
             "Steel",
             "Poison"
@@ -26661,6 +28139,7 @@
         ]
     },
     "Cyclizar": {
+        "evoTypes": [],
         "types": [
             "Dragon",
             "Normal"
@@ -26680,6 +28159,7 @@
         ]
     },
     "Orthworm": {
+        "evoTypes": [],
         "types": [
             "Steel"
         ],
@@ -26701,6 +28181,7 @@
         ]
     },
     "Glimmet": {
+        "evoTypes": [],
         "types": [
             "Rock",
             "Poison"
@@ -26720,6 +28201,7 @@
         ]
     },
     "Glimmora": {
+        "evoTypes": [],
         "types": [
             "Rock",
             "Poison"
@@ -26739,6 +28221,7 @@
         ]
     },
     "Greavard": {
+        "evoTypes": [],
         "types": [
             "Ghost"
         ],
@@ -26760,6 +28243,7 @@
         ]
     },
     "Houndstone": {
+        "evoTypes": [],
         "types": [
             "Ghost"
         ],
@@ -26781,6 +28265,7 @@
         ]
     },
     "Flamigo": {
+        "evoTypes": [],
         "types": [
             "Flying",
             "Fighting"
@@ -26801,6 +28286,7 @@
         ]
     },
     "Cetoddle": {
+        "evoTypes": [],
         "types": [
             "Ice"
         ],
@@ -26823,6 +28309,9 @@
         ]
     },
     "Cetitan": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Ice"
         ],
@@ -26845,6 +28334,7 @@
         ]
     },
     "Veluza": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Psychic"
@@ -26864,6 +28354,7 @@
         ]
     },
     "Dondozo": {
+        "evoTypes": [],
         "types": [
             "Water"
         ],
@@ -26886,6 +28377,7 @@
         ]
     },
     "Tatsugiri": {
+        "evoTypes": [],
         "types": [
             "Dragon",
             "Water"
@@ -26905,6 +28397,7 @@
         ]
     },
     "Annihilape": {
+        "evoTypes": [],
         "types": [
             "Fighting",
             "Ghost"
@@ -26925,6 +28418,7 @@
         ]
     },
     "Clodsire": {
+        "evoTypes": [],
         "types": [
             "Poison",
             "Ground"
@@ -26946,6 +28440,7 @@
         ]
     },
     "Farigiraf": {
+        "evoTypes": [],
         "types": [
             "Normal",
             "Psychic"
@@ -26966,6 +28461,7 @@
         ]
     },
     "Dudunsparce": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -26988,6 +28484,7 @@
         ]
     },
     "Dudunsparce-Three-Segment": {
+        "evoTypes": [],
         "types": [
             "Normal"
         ],
@@ -27012,6 +28509,7 @@
         ]
     },
     "Kingambit": {
+        "evoTypes": [],
         "types": [
             "Dark",
             "Steel"
@@ -27032,6 +28530,7 @@
         ]
     },
     "Great Tusk": {
+        "evoTypes": [],
         "types": [
             "Ground",
             "Fighting"
@@ -27052,6 +28551,7 @@
         ]
     },
     "Scream Tail": {
+        "evoTypes": [],
         "types": [
             "Fairy",
             "Psychic"
@@ -27072,6 +28572,7 @@
         ]
     },
     "Brute Bonnet": {
+        "evoTypes": [],
         "types": [
             "Grass",
             "Dark"
@@ -27092,6 +28593,7 @@
         ]
     },
     "Flutter Mane": {
+        "evoTypes": [],
         "types": [
             "Ghost",
             "Fairy"
@@ -27112,6 +28614,7 @@
         ]
     },
     "Slither Wing": {
+        "evoTypes": [],
         "types": [
             "Bug",
             "Fighting"
@@ -27132,6 +28635,7 @@
         ]
     },
     "Sandy Shocks": {
+        "evoTypes": [],
         "types": [
             "Electric",
             "Ground"
@@ -27152,6 +28656,7 @@
         ]
     },
     "Iron Treads": {
+        "evoTypes": [],
         "types": [
             "Ground",
             "Steel"
@@ -27172,6 +28677,7 @@
         ]
     },
     "Iron Bundle": {
+        "evoTypes": [],
         "types": [
             "Ice",
             "Water"
@@ -27192,6 +28698,7 @@
         ]
     },
     "Iron Hands": {
+        "evoTypes": [],
         "types": [
             "Fighting",
             "Electric"
@@ -27212,6 +28719,7 @@
         ]
     },
     "Iron Jugulis": {
+        "evoTypes": [],
         "types": [
             "Dark",
             "Flying"
@@ -27232,6 +28740,7 @@
         ]
     },
     "Iron Moth": {
+        "evoTypes": [],
         "types": [
             "Fire",
             "Poison"
@@ -27252,6 +28761,7 @@
         ]
     },
     "Iron Thorns": {
+        "evoTypes": [],
         "types": [
             "Rock",
             "Electric"
@@ -27272,6 +28782,7 @@
         ]
     },
     "Frigibax": {
+        "evoTypes": [],
         "types": [
             "Dragon",
             "Ice"
@@ -27292,6 +28803,7 @@
         ]
     },
     "Arctibax": {
+        "evoTypes": [],
         "types": [
             "Dragon",
             "Ice"
@@ -27312,6 +28824,7 @@
         ]
     },
     "Baxcalibur": {
+        "evoTypes": [],
         "types": [
             "Dragon",
             "Ice"
@@ -27332,6 +28845,7 @@
         ]
     },
     "Gimmighoul": {
+        "evoTypes": [],
         "types": [
             "Ghost"
         ],
@@ -27352,6 +28866,7 @@
         ]
     },
     "Gimmighoul-Roaming": {
+        "evoTypes": [],
         "types": [
             "Ghost"
         ],
@@ -27374,6 +28889,7 @@
         ]
     },
     "Gholdengo": {
+        "evoTypes": [],
         "types": [
             "Steel",
             "Ghost"
@@ -27392,6 +28908,7 @@
         ]
     },
     "Wo-Chien": {
+        "evoTypes": [],
         "types": [
             "Dark",
             "Grass"
@@ -27412,6 +28929,7 @@
         ]
     },
     "Chien-Pao": {
+        "evoTypes": [],
         "types": [
             "Dark",
             "Ice"
@@ -27432,6 +28950,7 @@
         ]
     },
     "Ting-Lu": {
+        "evoTypes": [],
         "types": [
             "Dark",
             "Ground"
@@ -27452,6 +28971,7 @@
         ]
     },
     "Chi-Yu": {
+        "evoTypes": [],
         "types": [
             "Dark",
             "Fire"
@@ -27472,6 +28992,7 @@
         ]
     },
     "Roaring Moon": {
+        "evoTypes": [],
         "types": [
             "Dragon",
             "Dark"
@@ -27492,6 +29013,7 @@
         ]
     },
     "Iron Valiant": {
+        "evoTypes": [],
         "types": [
             "Fairy",
             "Fighting"
@@ -27512,6 +29034,7 @@
         ]
     },
     "Koraidon": {
+        "evoTypes": [],
         "types": [
             "Fighting",
             "Dragon"
@@ -27532,6 +29055,7 @@
         ]
     },
     "Miraidon": {
+        "evoTypes": [],
         "types": [
             "Electric",
             "Dragon"
@@ -27552,6 +29076,7 @@
         ]
     },
     "Walking Wake": {
+        "evoTypes": [],
         "types": [
             "Water",
             "Dragon"
@@ -27572,6 +29097,7 @@
         ]
     },
     "Iron Leaves": {
+        "evoTypes": [],
         "types": [
             "Grass",
             "Psychic"
@@ -27592,6 +29118,9 @@
         ]
     },
     "Dipplin": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Grass",
             "Dragon"
@@ -27613,6 +29142,7 @@
         ]
     },
     "Poltchageist": {
+        "evoTypes": [],
         "types": [
             "Grass",
             "Ghost"
@@ -27633,6 +29163,7 @@
         ]
     },
     "Poltchageist-Artisan": {
+        "evoTypes": [],
         "types": [
             "Grass",
             "Ghost"
@@ -27654,6 +29185,9 @@
         ]
     },
     "Sinistcha": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Grass",
             "Ghost"
@@ -27674,6 +29208,9 @@
         ]
     },
     "Sinistcha-Masterpiece": {
+        "evoTypes": [
+            "Evolved by Item"
+        ],
         "types": [
             "Grass",
             "Ghost"
@@ -27695,6 +29232,7 @@
         ]
     },
     "Okidogi": {
+        "evoTypes": [],
         "types": [
             "Poison",
             "Fighting"
@@ -27714,6 +29252,7 @@
         ]
     },
     "Munkidori": {
+        "evoTypes": [],
         "types": [
             "Poison",
             "Psychic"
@@ -27733,6 +29272,7 @@
         ]
     },
     "Fezandipiti": {
+        "evoTypes": [],
         "types": [
             "Poison",
             "Fairy"
@@ -27752,6 +29292,7 @@
         ]
     },
     "Ogerpon": {
+        "evoTypes": [],
         "types": [
             "Grass"
         ],
@@ -27772,6 +29313,7 @@
         ]
     },
     "Ogerpon-Wellspring": {
+        "evoTypes": [],
         "types": [
             "Grass",
             "Water"
@@ -27792,6 +29334,7 @@
         ]
     },
     "Ogerpon-Hearthflame": {
+        "evoTypes": [],
         "types": [
             "Grass",
             "Fire"
@@ -27812,6 +29355,7 @@
         ]
     },
     "Ogerpon-Cornerstone": {
+        "evoTypes": [],
         "types": [
             "Grass",
             "Rock"
@@ -27832,6 +29376,7 @@
         ]
     },
     "Ogerpon-Teal-Tera": {
+        "evoTypes": [],
         "types": [
             "Grass"
         ],
@@ -27854,6 +29399,7 @@
         ]
     },
     "Ogerpon-Wellspring-Tera": {
+        "evoTypes": [],
         "types": [
             "Grass",
             "Water"
@@ -27874,6 +29420,7 @@
         ]
     },
     "Ogerpon-Hearthflame-Tera": {
+        "evoTypes": [],
         "types": [
             "Grass",
             "Fire"
@@ -27894,6 +29441,7 @@
         ]
     },
     "Ogerpon-Cornerstone-Tera": {
+        "evoTypes": [],
         "types": [
             "Grass",
             "Rock"

@@ -105,10 +105,20 @@ def get_generation(name, num):
 def json_formatting(dict1):
     # Designed to change the formatting of the auto-generated json file from the ts file
     # into something that works better for PokeDoku
+    evo_format = {
+        "levelFriendship": "Evolved by Friendship",
+        "useItem": "Evolved by Item",
+        "trade": "Evolved by Trade"
+    }
     new_dict = dict()
     options = dict()
     for key in dict1:
         cName = dict1[key]["name"]
+
+        # Fix unicode characters for Farfetch'd and Flabebe
+        cName = cName.replace("u\2019", "'")
+        cName = cName.replace("u\0301", "")
+
         cTypes = dict1[key]["types"]
         cAbilities = list(dict1[key]["abilities"].values())
         cEggGroups = dict1[key]["eggGroups"]
@@ -118,7 +128,17 @@ def json_formatting(dict1):
         if cFormes[0] == "":
             cFormes = []
         cNum = dict1[key]["num"]
+
+        cEvoTypes = dict1[key].get("evoType", "")
+        cEvoTypes = [evo_format.get(cEvoTypes, "")]
+        if cEvoTypes[0] == "":
+            cEvoTypes = []
+        else:
+            options[cEvoTypes[0]] = "evoTypes"
+
         new_dict[cName] = dict()
+
+        new_dict[cName]["evoTypes"] = cEvoTypes
 
         new_dict[cName]["types"] = cTypes
         for t in cTypes:
@@ -161,6 +181,7 @@ def json_formatting(dict1):
             base_tags = new_dict[baseSpecies].get("tags", [])
             new_dict[cName]["tags"] = base_tags
             # print(f"{cName} has the same tags as {baseSpecies}")
+
         moreTags = []
         if len(cTypes) == 1:
             moreTags.append("Mono-Type")

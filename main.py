@@ -9,11 +9,12 @@ def update_files():
     print(json.dumps(options, indent=4), file=open("options.json", "w"))
 
 if __name__ == "__main__":
-    # update_files()
+    update_files()
     data = to_dict("pokedex.json")
     options = to_dict("options.json")
     # settings_gui()
-    generate_grid(list(data.keys()), data, options, invalid = [], cutoff = 2)
+    # print(search_database("Flying", "Mythical", data, options))
+    # generate_grid(list(data.keys()), data, options, invalid = [], cutoff = 2)
     
     
     
