@@ -20,23 +20,12 @@ def to_dict(json_name):
     poke_data = json.load(open(json_name, encoding="utf8"))
     return poke_data
 
-def generate_combos(options, types = True, abilities = True, tags = True, eggGroups = True, generation = True, 
-                    invalid = []):
+def generate_combos(options, combo_dict, invalid = []):
     possibilities = []
     for key in options:
-        #print(key, options[key])
-        if options[key] == "types" and types:
+        option_type = options[key]
+        if combo_dict.get(option_type, False):
             possibilities.append(key)
-        elif options[key] == "abilities" and abilities:
-            possibilities.append(key)
-        elif options[key] == "tags" and tags:
-            possibilities.append(key)
-        elif options[key] == "eggGroups" and eggGroups:
-            possibilities.append(key)
-        elif options[key] == "generation" and generation:
-            possibilities.append(key)
-        if (key in invalid) and (key in possibilities):
-            possibilities.remove(key)
 
     puzzle = random.sample(possibilities, 6)
     return puzzle
@@ -75,11 +64,10 @@ def write_answer(answer_key, f_name = "answer_key.txt"):
         answer_grid += "\n"
     print(answer_grid, file=open(f_name, "w"))
 
-def get_valid_labels(pokedict, stats, types = True, abilities = True, 
-                     tags = True, eggGroups = True, generation = True, invalid = [], cutoff = 1):
+def get_valid_labels(pokedict, stats, combo_dict, invalid = [], cutoff = 1):
     ready = False
     while not ready:
-        puzzle = generate_combos(stats, types, abilities, tags, eggGroups, generation, invalid)
+        puzzle = generate_combos(stats, combo_dict, invalid)
         rows = puzzle[:3]
         cols = puzzle[3:]
         ready = check_valid(rows, cols, pokedict, stats, cutoff = cutoff)

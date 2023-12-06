@@ -10,7 +10,7 @@ if __name__ == "__main__":
     data = to_dict("pokedex.json")
     options = to_dict("options.json")
     # settings_gui()
-    generate_grid(list(data.keys()), data, options, cutoff = 2)
+    generate_grid(list(data.keys()), data, options, invalid = [], cutoff = 2)
     
     
     

@@ -12,11 +12,18 @@ def is_valid(sub_dict, stats, row_label, col_label):
         return True
     return False
 
-def generate_grid(pokemon, pokedict, stats, types = True, abilities = False, 
-                  tags = True, eggGroups = False, generation = True, invalid = [], cutoff = 1):
+def generate_grid(pokemon, pokedict, stats, combo_dict=dict(), invalid = [], cutoff = 1):
+    
+    if combo_dict == dict():
+        combo_dict = { # Default combo_dict
+            "types": True,
+            "abilities": False,
+            "tags": True,
+            "eggGroups": False,
+            "generation": True
+        }
 
-    row_labels, col_labels = get_valid_labels(pokedict, stats, types, abilities, 
-                                              tags, eggGroups, generation, invalid, cutoff = cutoff)
+    row_labels, col_labels = get_valid_labels(pokedict, stats, combo_dict, invalid, cutoff = cutoff)
 
     options = pokemon
 
@@ -63,7 +70,7 @@ def generate_grid(pokemon, pokedict, stats, types = True, abilities = False,
 
         elif event == "-NEW PUZZLE-":
             window.close()
-            generate_grid(pokemon, pokedict, stats, cutoff = cutoff)
+            generate_grid(pokemon, pokedict, stats, combo_dict, invalid, cutoff = cutoff)
 
         for row in range(3):
             for col in range(3):
