@@ -17,7 +17,7 @@ def search_database(term1, term2, pokedict, stats):
 
 def to_dict(json_name):
     #pokedex.json to dict:
-    poke_data = json.load(open(json_name, encoding="utf8"))
+    poke_data = json.load(open(json_name, encoding="utf-8"))
     return poke_data
 
 def generate_combos(options, combo_dict, invalid = []):
@@ -115,9 +115,8 @@ def json_formatting(dict1):
     for key in dict1:
         cName = dict1[key]["name"]
 
-        # Fix unicode characters for Farfetch'd and Flabebe
-        cName = cName.replace("u\2019", "'")
-        cName = cName.replace("u\0301", "")
+        # Fix unicode characters for Farfetch'd, Sirfetch'd, and Flabebe
+        cName = cName.replace("’", "'").replace("é", "e")
 
         cTypes = dict1[key]["types"]
         cAbilities = list(dict1[key]["abilities"].values())
@@ -176,7 +175,7 @@ def json_formatting(dict1):
         options[get_generation(cName, cNum)] = "generation"
 
         # give alt forms the same tags of the previous form
-        baseSpecies = dict1[key].get("baseSpecies", False)
+        baseSpecies = dict1[key].get("baseSpecies", "").replace("’", "'")
         if baseSpecies:
             base_tags = new_dict[baseSpecies].get("tags", [])
             new_dict[cName]["tags"] = base_tags
