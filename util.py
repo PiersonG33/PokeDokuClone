@@ -43,7 +43,7 @@ def check_valid(row, col, dex, options, cutoff = 1):
                 c_key = options[c]#.lower()
                 # print(r_key, c_key)
                 # print(pokemon)
-                if r.lower() in [x.lower() for x in pokemon[r_key]] and c.lower() in [x.lower() for x in pokemon[c_key]]:
+                if r.lower() in [x.lower() for x in pokemon.get(r_key, [])] and c.lower() in [x.lower() for x in pokemon.get(c_key, [])]:
                     count += 1
                     # print(f"{p} is {r} and {c}")
                 if count >= cutoff:
@@ -161,5 +161,10 @@ def json_formatting(dict1):
             base_tags = new_dict[baseSpecies].get("tags", [])
             new_dict[cName]["tags"] = base_tags
             # print(f"{cName} has the same tags as {baseSpecies}")
+        moreTags = []
+        if len(cTypes) == 1:
+            moreTags.append("Mono-Type")
+            options["Mono-Type"] = "moreTags"
+            new_dict[cName]["moreTags"] = moreTags
 
     return new_dict, options

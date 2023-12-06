@@ -119,6 +119,9 @@
         "num": 4,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Charmeleon": {
@@ -138,6 +141,9 @@
         "num": 5,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Charizard": {
@@ -241,6 +247,9 @@
         "num": 7,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Wartortle": {
@@ -260,6 +269,9 @@
         "num": 8,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Blastoise": {
@@ -279,6 +291,9 @@
         "num": 9,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Blastoise-Mega": {
@@ -299,6 +314,9 @@
         "num": 9,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Blastoise-Gmax": {
@@ -320,6 +338,9 @@
         "num": 9,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Caterpie": {
@@ -338,6 +359,9 @@
         "num": 10,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Metapod": {
@@ -355,6 +379,9 @@
         "num": 11,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Butterfree": {
@@ -570,6 +597,9 @@
         "num": 19,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Rattata-Alola": {
@@ -611,6 +641,9 @@
         "num": 20,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Raticate-Alola": {
@@ -711,6 +744,9 @@
         "num": 23,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Arbok": {
@@ -731,6 +767,9 @@
         "num": 24,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Pikachu": {
@@ -750,6 +789,9 @@
         "num": 25,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Pikachu-Cosplay": {
@@ -769,6 +811,9 @@
         "num": 25,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Pikachu-Rock-Star": {
@@ -788,6 +833,9 @@
         "num": 25,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Pikachu-Belle": {
@@ -807,6 +855,9 @@
         "num": 25,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Pikachu-Pop-Star": {
@@ -826,6 +877,9 @@
         "num": 25,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Pikachu-PhD": {
@@ -845,6 +899,9 @@
         "num": 25,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Pikachu-Libre": {
@@ -864,6 +921,9 @@
         "num": 25,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Pikachu-Original": {
@@ -884,6 +944,9 @@
         "num": 25,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Pikachu-Hoenn": {
@@ -904,6 +967,9 @@
         "num": 25,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Pikachu-Sinnoh": {
@@ -924,6 +990,9 @@
         "num": 25,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Pikachu-Unova": {
@@ -944,6 +1013,9 @@
         "num": 25,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Pikachu-Kalos": {
@@ -964,6 +1036,9 @@
         "num": 25,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Pikachu-Alola": {
@@ -984,6 +1059,9 @@
         "num": 25,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Pikachu-Partner": {
@@ -1004,6 +1082,9 @@
         "num": 25,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Pikachu-Starter": {
@@ -1024,6 +1105,9 @@
         "num": 25,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Pikachu-Gmax": {
@@ -1045,6 +1129,9 @@
         "num": 25,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Pikachu-World": {
@@ -1065,6 +1152,9 @@
         "num": 25,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Raichu": {
@@ -1084,6 +1174,9 @@
         "num": 26,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Raichu-Alola": {
@@ -1123,6 +1216,9 @@
         "num": 27,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Sandshrew-Alola": {
@@ -1162,6 +1258,9 @@
         "num": 28,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Sandslash-Alola": {
@@ -1203,6 +1302,9 @@
         "num": 29,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Nidorina": {
@@ -1222,6 +1324,9 @@
         "num": 30,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Nidoqueen": {
@@ -1262,6 +1367,9 @@
         "num": 32,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Nidorino": {
@@ -1282,6 +1390,9 @@
         "num": 33,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Nidoking": {
@@ -1322,6 +1433,9 @@
         "num": 35,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Clefable": {
@@ -1341,6 +1455,9 @@
         "num": 36,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Vulpix": {
@@ -1359,6 +1476,9 @@
         "num": 37,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Vulpix-Alola": {
@@ -1379,6 +1499,9 @@
         "num": 37,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Ninetales": {
@@ -1397,6 +1520,9 @@
         "num": 38,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Ninetales-Alola": {
@@ -1654,6 +1780,9 @@
         "num": 50,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Diglett-Alola": {
@@ -1695,6 +1824,9 @@
         "num": 51,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Dugtrio-Alola": {
@@ -1736,6 +1868,9 @@
         "num": 52,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Meowth-Alola": {
@@ -1757,6 +1892,9 @@
         "num": 52,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Meowth-Galar": {
@@ -1778,6 +1916,9 @@
         "num": 52,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Meowth-Gmax": {
@@ -1799,6 +1940,9 @@
         "num": 52,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Persian": {
@@ -1818,6 +1962,9 @@
         "num": 53,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Persian-Alola": {
@@ -1839,6 +1986,9 @@
         "num": 53,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Psyduck": {
@@ -1859,6 +2009,9 @@
         "num": 54,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Golduck": {
@@ -1879,6 +2032,9 @@
         "num": 55,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Mankey": {
@@ -1898,6 +2054,9 @@
         "num": 56,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Primeape": {
@@ -1917,6 +2076,9 @@
         "num": 57,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Growlithe": {
@@ -1936,6 +2098,9 @@
         "num": 58,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Growlithe-Hisui": {
@@ -1977,6 +2142,9 @@
         "num": 59,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Arcanine-Hisui": {
@@ -2018,6 +2186,9 @@
         "num": 60,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Poliwhirl": {
@@ -2037,6 +2208,9 @@
         "num": 61,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Poliwrath": {
@@ -2076,6 +2250,9 @@
         "num": 63,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Kadabra": {
@@ -2095,6 +2272,9 @@
         "num": 64,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Alakazam": {
@@ -2114,6 +2294,9 @@
         "num": 65,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Alakazam-Mega": {
@@ -2133,6 +2316,9 @@
         "num": 65,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Machop": {
@@ -2152,6 +2338,9 @@
         "num": 66,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Machoke": {
@@ -2171,6 +2360,9 @@
         "num": 67,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Machamp": {
@@ -2190,6 +2382,9 @@
         "num": 68,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Machamp-Gmax": {
@@ -2211,6 +2406,9 @@
         "num": 68,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Bellsprout": {
@@ -2453,6 +2651,9 @@
         "num": 77,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Ponyta-Galar": {
@@ -2474,6 +2675,9 @@
         "num": 77,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Rapidash": {
@@ -2493,6 +2697,9 @@
         "num": 78,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Rapidash-Galar": {
@@ -2558,6 +2765,9 @@
         "num": 79,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Slowbro": {
@@ -2705,6 +2915,9 @@
         "num": 83,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Doduo": {
@@ -2765,6 +2978,9 @@
         "num": 86,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Dewgong": {
@@ -2805,6 +3021,9 @@
         "num": 88,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Grimer-Alola": {
@@ -2846,6 +3065,9 @@
         "num": 89,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Muk-Alola": {
@@ -2887,6 +3109,9 @@
         "num": 90,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Cloyster": {
@@ -3040,6 +3265,9 @@
         "num": 96,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Hypno": {
@@ -3059,6 +3287,9 @@
         "num": 97,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Krabby": {
@@ -3078,6 +3309,9 @@
         "num": 98,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Kingler": {
@@ -3097,6 +3331,9 @@
         "num": 99,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Kingler-Gmax": {
@@ -3118,6 +3355,9 @@
         "num": 99,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Voltorb": {
@@ -3137,6 +3377,9 @@
         "num": 100,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Voltorb-Hisui": {
@@ -3178,6 +3421,9 @@
         "num": 101,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Electrode-Hisui": {
@@ -3278,6 +3524,9 @@
         "num": 104,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Marowak": {
@@ -3297,6 +3546,9 @@
         "num": 105,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Marowak-Alola": {
@@ -3358,6 +3610,9 @@
         "num": 106,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Hitmonchan": {
@@ -3377,6 +3632,9 @@
         "num": 107,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Lickitung": {
@@ -3396,6 +3654,9 @@
         "num": 108,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Koffing": {
@@ -3415,6 +3676,9 @@
         "num": 109,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Weezing": {
@@ -3434,6 +3698,9 @@
         "num": 110,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Weezing-Galar": {
@@ -3517,6 +3784,9 @@
         "num": 113,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Tangela": {
@@ -3536,6 +3806,9 @@
         "num": 114,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Kangaskhan": {
@@ -3555,6 +3828,9 @@
         "num": 115,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Kangaskhan-Mega": {
@@ -3574,6 +3850,9 @@
         "num": 115,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Horsea": {
@@ -3594,6 +3873,9 @@
         "num": 116,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Seadra": {
@@ -3614,6 +3896,9 @@
         "num": 117,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Goldeen": {
@@ -3633,6 +3918,9 @@
         "num": 118,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Seaking": {
@@ -3652,6 +3940,9 @@
         "num": 119,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Staryu": {
@@ -3671,6 +3962,9 @@
         "num": 120,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Starmie": {
@@ -3791,6 +4085,9 @@
         "num": 125,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Magmar": {
@@ -3809,6 +4106,9 @@
         "num": 126,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Pinsir": {
@@ -3828,6 +4128,9 @@
         "num": 127,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Pinsir-Mega": {
@@ -3867,6 +4170,9 @@
         "num": 128,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Tauros-Paldea-Combat": {
@@ -3888,6 +4194,9 @@
         "num": 128,
         "generation": [
             "Paldea"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Tauros-Paldea-Blaze": {
@@ -3951,6 +4260,9 @@
         "num": 129,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Gyarados": {
@@ -4054,6 +4366,9 @@
         "num": 132,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Eevee": {
@@ -4073,6 +4388,9 @@
         "num": 133,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Eevee-Starter": {
@@ -4094,6 +4412,9 @@
         "num": 133,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Eevee-Gmax": {
@@ -4115,6 +4436,9 @@
         "num": 133,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Vaporeon": {
@@ -4133,6 +4457,9 @@
         "num": 134,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Jolteon": {
@@ -4151,6 +4478,9 @@
         "num": 135,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Flareon": {
@@ -4169,6 +4499,9 @@
         "num": 136,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Porygon": {
@@ -4188,6 +4521,9 @@
         "num": 137,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Omanyte": {
@@ -4331,6 +4667,9 @@
         "num": 143,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Snorlax-Gmax": {
@@ -4352,6 +4691,9 @@
         "num": 143,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Articuno": {
@@ -4500,6 +4842,9 @@
         "num": 147,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Dragonair": {
@@ -4519,6 +4864,9 @@
         "num": 148,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Dragonite": {
@@ -4559,6 +4907,9 @@
         "num": 150,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Mewtwo-Mega-X": {
@@ -4602,6 +4953,9 @@
         "num": 150,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Mew": {
@@ -4622,6 +4976,9 @@
         "num": 151,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Chikorita": {
@@ -4641,6 +4998,9 @@
         "num": 152,
         "generation": [
             "Kanto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Bayleef": {
@@ -4660,6 +5020,9 @@
         "num": 153,
         "generation": [
             "Johto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Meganium": {
@@ -4679,6 +5042,9 @@
         "num": 154,
         "generation": [
             "Johto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Cyndaquil": {
@@ -4697,6 +5063,9 @@
         "num": 155,
         "generation": [
             "Johto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Quilava": {
@@ -4715,6 +5084,9 @@
         "num": 156,
         "generation": [
             "Johto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Typhlosion": {
@@ -4733,6 +5105,9 @@
         "num": 157,
         "generation": [
             "Johto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Typhlosion-Hisui": {
@@ -4773,6 +5148,9 @@
         "num": 158,
         "generation": [
             "Johto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Croconaw": {
@@ -4792,6 +5170,9 @@
         "num": 159,
         "generation": [
             "Johto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Feraligatr": {
@@ -4811,6 +5192,9 @@
         "num": 160,
         "generation": [
             "Johto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Sentret": {
@@ -4830,6 +5214,9 @@
         "num": 161,
         "generation": [
             "Johto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Furret": {
@@ -4849,6 +5236,9 @@
         "num": 162,
         "generation": [
             "Johto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Hoothoot": {
@@ -5046,6 +5436,9 @@
         "num": 172,
         "generation": [
             "Johto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Pichu-Spiky-eared": {
@@ -5065,6 +5458,9 @@
         "num": 172,
         "generation": [
             "Johto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Cleffa": {
@@ -5084,6 +5480,9 @@
         "num": 173,
         "generation": [
             "Johto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Igglybuff": {
@@ -5123,6 +5522,9 @@
         "num": 175,
         "generation": [
             "Johto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Togetic": {
@@ -5203,6 +5605,9 @@
         "num": 179,
         "generation": [
             "Johto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Flaaffy": {
@@ -5222,6 +5627,9 @@
         "num": 180,
         "generation": [
             "Johto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Ampharos": {
@@ -5241,6 +5649,9 @@
         "num": 181,
         "generation": [
             "Johto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Ampharos-Mega": {
@@ -5280,6 +5691,9 @@
         "num": 182,
         "generation": [
             "Johto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Marill": {
@@ -5341,6 +5755,9 @@
         "num": 185,
         "generation": [
             "Johto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Politoed": {
@@ -5360,6 +5777,9 @@
         "num": 186,
         "generation": [
             "Johto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Hoppip": {
@@ -5442,6 +5862,9 @@
         "num": 190,
         "generation": [
             "Johto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Sunkern": {
@@ -5461,6 +5884,9 @@
         "num": 191,
         "generation": [
             "Johto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Sunflora": {
@@ -5480,6 +5906,9 @@
         "num": 192,
         "generation": [
             "Johto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Yanma": {
@@ -5583,6 +6012,9 @@
         "num": 196,
         "generation": [
             "Johto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Umbreon": {
@@ -5601,6 +6033,9 @@
         "num": 197,
         "generation": [
             "Johto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Murkrow": {
@@ -5682,6 +6117,9 @@
         "num": 200,
         "generation": [
             "Johto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Unown": {
@@ -5699,6 +6137,9 @@
         "num": 201,
         "generation": [
             "Johto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Wobbuffet": {
@@ -5717,6 +6158,9 @@
         "num": 202,
         "generation": [
             "Johto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Girafarig": {
@@ -5755,6 +6199,9 @@
         "num": 204,
         "generation": [
             "Johto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Forretress": {
@@ -5793,6 +6240,9 @@
         "num": 206,
         "generation": [
             "Johto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Gligar": {
@@ -5873,6 +6323,9 @@
         "num": 209,
         "generation": [
             "Johto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Granbull": {
@@ -5893,6 +6346,9 @@
         "num": 210,
         "generation": [
             "Johto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Qwilfish": {
@@ -6096,6 +6552,9 @@
         "num": 216,
         "generation": [
             "Johto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Ursaring": {
@@ -6115,6 +6574,9 @@
         "num": 217,
         "generation": [
             "Johto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Slugma": {
@@ -6134,6 +6596,9 @@
         "num": 218,
         "generation": [
             "Johto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Magcargo": {
@@ -6236,6 +6701,9 @@
         "num": 222,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Remoraid": {
@@ -6256,6 +6724,9 @@
         "num": 223,
         "generation": [
             "Johto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Octillery": {
@@ -6276,6 +6747,9 @@
         "num": 224,
         "generation": [
             "Johto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Delibird": {
@@ -6436,6 +6910,9 @@
         "num": 231,
         "generation": [
             "Johto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Donphan": {
@@ -6454,6 +6931,9 @@
         "num": 232,
         "generation": [
             "Johto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Porygon2": {
@@ -6473,6 +6953,9 @@
         "num": 233,
         "generation": [
             "Johto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Stantler": {
@@ -6492,6 +6975,9 @@
         "num": 234,
         "generation": [
             "Johto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Smeargle": {
@@ -6511,6 +6997,9 @@
         "num": 235,
         "generation": [
             "Johto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Tyrogue": {
@@ -6530,6 +7019,9 @@
         "num": 236,
         "generation": [
             "Johto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Hitmontop": {
@@ -6549,6 +7041,9 @@
         "num": 237,
         "generation": [
             "Johto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Smoochum": {
@@ -6587,6 +7082,9 @@
         "num": 239,
         "generation": [
             "Johto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Magby": {
@@ -6605,6 +7103,9 @@
         "num": 240,
         "generation": [
             "Johto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Miltank": {
@@ -6624,6 +7125,9 @@
         "num": 241,
         "generation": [
             "Johto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Blissey": {
@@ -6643,6 +7147,9 @@
         "num": 242,
         "generation": [
             "Johto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Raikou": {
@@ -6663,6 +7170,9 @@
         "num": 243,
         "generation": [
             "Johto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Entei": {
@@ -6683,6 +7193,9 @@
         "num": 244,
         "generation": [
             "Johto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Suicune": {
@@ -6703,6 +7216,9 @@
         "num": 245,
         "generation": [
             "Johto"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Larvitar": {
@@ -6861,6 +7377,9 @@
         "num": 252,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Grovyle": {
@@ -6880,6 +7399,9 @@
         "num": 253,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Sceptile": {
@@ -6899,6 +7421,9 @@
         "num": 254,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Sceptile-Mega": {
@@ -6938,6 +7463,9 @@
         "num": 255,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Combusken": {
@@ -7015,6 +7543,9 @@
         "num": 258,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Marshtomp": {
@@ -7095,6 +7626,9 @@
         "num": 261,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Mightyena": {
@@ -7114,6 +7648,9 @@
         "num": 262,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Zigzagoon": {
@@ -7133,6 +7670,9 @@
         "num": 263,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Zigzagoon-Galar": {
@@ -7174,6 +7714,9 @@
         "num": 264,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Linoone-Galar": {
@@ -7214,6 +7757,9 @@
         "num": 265,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Silcoon": {
@@ -7231,6 +7777,9 @@
         "num": 266,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Beautifly": {
@@ -7267,6 +7816,9 @@
         "num": 268,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Dustox": {
@@ -7369,6 +7921,9 @@
         "num": 273,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Nuzleaf": {
@@ -7634,6 +8189,9 @@
         "num": 285,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Breloom": {
@@ -7672,6 +8230,9 @@
         "num": 287,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Vigoroth": {
@@ -7689,6 +8250,9 @@
         "num": 288,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Slaking": {
@@ -7706,6 +8270,9 @@
         "num": 289,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Nincada": {
@@ -7781,6 +8348,9 @@
         "num": 293,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Loudred": {
@@ -7800,6 +8370,9 @@
         "num": 294,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Exploud": {
@@ -7819,6 +8392,9 @@
         "num": 295,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Makuhita": {
@@ -7838,6 +8414,9 @@
         "num": 296,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Hariyama": {
@@ -7857,6 +8436,9 @@
         "num": 297,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Azurill": {
@@ -7896,6 +8478,9 @@
         "num": 299,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Skitty": {
@@ -7916,6 +8501,9 @@
         "num": 300,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Delcatty": {
@@ -7936,6 +8524,9 @@
         "num": 301,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Sableye": {
@@ -8097,6 +8688,9 @@
         "num": 306,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Meditite": {
@@ -8174,6 +8768,9 @@
         "num": 309,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Manectric": {
@@ -8193,6 +8790,9 @@
         "num": 310,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Manectric-Mega": {
@@ -8212,6 +8812,9 @@
         "num": 310,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Plusle": {
@@ -8230,6 +8833,9 @@
         "num": 311,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Minun": {
@@ -8248,6 +8854,9 @@
         "num": 312,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Volbeat": {
@@ -8268,6 +8877,9 @@
         "num": 313,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Illumise": {
@@ -8288,6 +8900,9 @@
         "num": 314,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Roselia": {
@@ -8328,6 +8943,9 @@
         "num": 316,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Swalot": {
@@ -8347,6 +8965,9 @@
         "num": 317,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Carvanha": {
@@ -8425,6 +9046,9 @@
         "num": 320,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Wailord": {
@@ -8445,6 +9069,9 @@
         "num": 321,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Numel": {
@@ -8524,6 +9151,9 @@
         "num": 324,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Spoink": {
@@ -8543,6 +9173,9 @@
         "num": 325,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Grumpig": {
@@ -8562,6 +9195,9 @@
         "num": 326,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Spinda": {
@@ -8582,6 +9218,9 @@
         "num": 327,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Trapinch": {
@@ -8602,6 +9241,9 @@
         "num": 328,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Vibrava": {
@@ -8659,6 +9301,9 @@
         "num": 331,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Cacturne": {
@@ -8758,6 +9403,9 @@
         "num": 335,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Seviper": {
@@ -8777,6 +9425,9 @@
         "num": 336,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Lunatone": {
@@ -8873,6 +9524,9 @@
         "num": 341,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Crawdaunt": {
@@ -9026,6 +9680,9 @@
         "num": 349,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Milotic": {
@@ -9046,6 +9703,9 @@
         "num": 350,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Castform": {
@@ -9064,6 +9724,9 @@
         "num": 351,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Castform-Sunny": {
@@ -9084,6 +9747,9 @@
         "num": 351,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Castform-Rainy": {
@@ -9104,6 +9770,9 @@
         "num": 351,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Castform-Snowy": {
@@ -9124,6 +9793,9 @@
         "num": 351,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Kecleon": {
@@ -9142,6 +9814,9 @@
         "num": 352,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Shuppet": {
@@ -9161,6 +9836,9 @@
         "num": 353,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Banette": {
@@ -9180,6 +9858,9 @@
         "num": 354,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Banette-Mega": {
@@ -9199,6 +9880,9 @@
         "num": 354,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Duskull": {
@@ -9217,6 +9901,9 @@
         "num": 355,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Dusclops": {
@@ -9235,6 +9922,9 @@
         "num": 356,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Tropius": {
@@ -9273,6 +9963,9 @@
         "num": 358,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Absol": {
@@ -9292,6 +9985,9 @@
         "num": 359,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Absol-Mega": {
@@ -9311,6 +10007,9 @@
         "num": 359,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Wynaut": {
@@ -9329,6 +10028,9 @@
         "num": 360,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Snorunt": {
@@ -9349,6 +10051,9 @@
         "num": 361,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Glalie": {
@@ -9369,6 +10074,9 @@
         "num": 362,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Glalie-Mega": {
@@ -9389,6 +10097,9 @@
         "num": 362,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Spheal": {
@@ -9470,6 +10181,9 @@
         "num": 366,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Huntail": {
@@ -9488,6 +10202,9 @@
         "num": 367,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Gorebyss": {
@@ -9506,6 +10223,9 @@
         "num": 368,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Relicanth": {
@@ -9545,6 +10265,9 @@
         "num": 370,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Bagon": {
@@ -9563,6 +10286,9 @@
         "num": 371,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Shelgon": {
@@ -9581,6 +10307,9 @@
         "num": 372,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Salamence": {
@@ -9717,6 +10446,9 @@
         "num": 377,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Regice": {
@@ -9737,6 +10469,9 @@
         "num": 378,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Registeel": {
@@ -9757,6 +10492,9 @@
         "num": 379,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Latias": {
@@ -9860,6 +10598,9 @@
         "num": 382,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Kyogre-Primal": {
@@ -9881,6 +10622,9 @@
         "num": 382,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Groudon": {
@@ -9900,6 +10644,9 @@
         "num": 383,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Groudon-Primal": {
@@ -10005,6 +10752,9 @@
         "num": 386,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Deoxys-Attack": {
@@ -10027,6 +10777,9 @@
         "num": 386,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Deoxys-Defense": {
@@ -10049,6 +10802,9 @@
         "num": 386,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Deoxys-Speed": {
@@ -10071,6 +10827,9 @@
         "num": 386,
         "generation": [
             "Hoenn"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Turtwig": {
@@ -10090,6 +10849,9 @@
         "num": 387,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Grotle": {
@@ -10109,6 +10871,9 @@
         "num": 388,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Torterra": {
@@ -10148,6 +10913,9 @@
         "num": 390,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Monferno": {
@@ -10207,6 +10975,9 @@
         "num": 393,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Prinplup": {
@@ -10226,6 +10997,9 @@
         "num": 394,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Empoleon": {
@@ -10323,6 +11097,9 @@
         "num": 399,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Bibarel": {
@@ -10362,6 +11139,9 @@
         "num": 401,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Kricketune": {
@@ -10380,6 +11160,9 @@
         "num": 402,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Shinx": {
@@ -10399,6 +11182,9 @@
         "num": 403,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Luxio": {
@@ -10418,6 +11204,9 @@
         "num": 404,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Luxray": {
@@ -10437,6 +11226,9 @@
         "num": 405,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Budew": {
@@ -10496,6 +11288,9 @@
         "num": 408,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Rampardos": {
@@ -10514,6 +11309,9 @@
         "num": 409,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Shieldon": {
@@ -10570,6 +11368,9 @@
         "num": 412,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Wormadam": {
@@ -10708,6 +11509,9 @@
         "num": 417,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Buizel": {
@@ -10727,6 +11531,9 @@
         "num": 418,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Floatzel": {
@@ -10746,6 +11553,9 @@
         "num": 419,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Cherubi": {
@@ -10764,6 +11574,9 @@
         "num": 420,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Cherrim": {
@@ -10782,6 +11595,9 @@
         "num": 421,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Cherrim-Sunshine": {
@@ -10802,6 +11618,9 @@
         "num": 421,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Shellos": {
@@ -10822,6 +11641,9 @@
         "num": 422,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Gastrodon": {
@@ -10862,6 +11684,9 @@
         "num": 424,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Drifloon": {
@@ -10922,6 +11747,9 @@
         "num": 427,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Lopunny": {
@@ -10942,6 +11770,9 @@
         "num": 428,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Lopunny-Mega": {
@@ -10980,6 +11811,9 @@
         "num": 429,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Honchkrow": {
@@ -11019,6 +11853,9 @@
         "num": 431,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Purugly": {
@@ -11038,6 +11875,9 @@
         "num": 432,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Chingling": {
@@ -11055,6 +11895,9 @@
         "num": 433,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Stunky": {
@@ -11154,6 +11997,9 @@
         "num": 438,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Mime Jr.": {
@@ -11193,6 +12039,9 @@
         "num": 440,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Chatot": {
@@ -11332,6 +12181,9 @@
         "num": 446,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Riolu": {
@@ -11351,6 +12203,9 @@
         "num": 447,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Lucario": {
@@ -11411,6 +12266,9 @@
         "num": 449,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Hippowdon": {
@@ -11429,6 +12287,9 @@
         "num": 450,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Skorupi": {
@@ -11528,6 +12389,9 @@
         "num": 455,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Finneon": {
@@ -11547,6 +12411,9 @@
         "num": 456,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Lumineon": {
@@ -11566,6 +12433,9 @@
         "num": 457,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Mantyke": {
@@ -11705,6 +12575,9 @@
         "num": 463,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Rhyperior": {
@@ -11745,6 +12618,9 @@
         "num": 465,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Electivire": {
@@ -11763,6 +12639,9 @@
         "num": 466,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Magmortar": {
@@ -11781,6 +12660,9 @@
         "num": 467,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Togekiss": {
@@ -11840,6 +12722,9 @@
         "num": 470,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Glaceon": {
@@ -11858,6 +12743,9 @@
         "num": 471,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Gliscor": {
@@ -11917,6 +12805,9 @@
         "num": 474,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Gallade": {
@@ -11996,6 +12887,9 @@
         "num": 477,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Froslass": {
@@ -12153,6 +13047,9 @@
         "num": 480,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Mesprit": {
@@ -12172,6 +13069,9 @@
         "num": 481,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Azelf": {
@@ -12191,6 +13091,9 @@
         "num": 482,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Dialga": {
@@ -12319,6 +13222,9 @@
         "num": 486,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Giratina": {
@@ -12381,6 +13287,9 @@
         "num": 488,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Phione": {
@@ -12402,6 +13311,9 @@
         "num": 489,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Manaphy": {
@@ -12423,6 +13335,9 @@
         "num": 490,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Darkrai": {
@@ -12443,6 +13358,9 @@
         "num": 491,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Shaymin": {
@@ -12463,6 +13381,9 @@
         "num": 492,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Shaymin-Sky": {
@@ -12506,6 +13427,9 @@
         "num": 493,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Arceus-Bug": {
@@ -12528,6 +13452,9 @@
         "num": 493,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Arceus-Dark": {
@@ -12550,6 +13477,9 @@
         "num": 493,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Arceus-Dragon": {
@@ -12572,6 +13502,9 @@
         "num": 493,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Arceus-Electric": {
@@ -12594,6 +13527,9 @@
         "num": 493,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Arceus-Fairy": {
@@ -12616,6 +13552,9 @@
         "num": 493,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Arceus-Fighting": {
@@ -12638,6 +13577,9 @@
         "num": 493,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Arceus-Fire": {
@@ -12660,6 +13602,9 @@
         "num": 493,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Arceus-Flying": {
@@ -12682,6 +13627,9 @@
         "num": 493,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Arceus-Ghost": {
@@ -12704,6 +13652,9 @@
         "num": 493,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Arceus-Grass": {
@@ -12726,6 +13677,9 @@
         "num": 493,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Arceus-Ground": {
@@ -12748,6 +13702,9 @@
         "num": 493,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Arceus-Ice": {
@@ -12770,6 +13727,9 @@
         "num": 493,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Arceus-Poison": {
@@ -12792,6 +13752,9 @@
         "num": 493,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Arceus-Psychic": {
@@ -12814,6 +13777,9 @@
         "num": 493,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Arceus-Rock": {
@@ -12836,6 +13802,9 @@
         "num": 493,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Arceus-Steel": {
@@ -12858,6 +13827,9 @@
         "num": 493,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Arceus-Water": {
@@ -12880,6 +13852,9 @@
         "num": 493,
         "generation": [
             "Sinnoh"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Victini": {
@@ -12920,6 +13895,9 @@
         "num": 495,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Servine": {
@@ -12939,6 +13917,9 @@
         "num": 496,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Serperior": {
@@ -12958,6 +13939,9 @@
         "num": 497,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Tepig": {
@@ -12976,6 +13960,9 @@
         "num": 498,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Pignite": {
@@ -13032,6 +14019,9 @@
         "num": 501,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Dewott": {
@@ -13050,6 +14040,9 @@
         "num": 502,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Samurott": {
@@ -13068,6 +14061,9 @@
         "num": 503,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Samurott-Hisui": {
@@ -13108,6 +14104,9 @@
         "num": 504,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Watchog": {
@@ -13127,6 +14126,9 @@
         "num": 505,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Lillipup": {
@@ -13146,6 +14148,9 @@
         "num": 506,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Herdier": {
@@ -13165,6 +14170,9 @@
         "num": 507,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Stoutland": {
@@ -13184,6 +14192,9 @@
         "num": 508,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Purrloin": {
@@ -13203,6 +14214,9 @@
         "num": 509,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Liepard": {
@@ -13222,6 +14236,9 @@
         "num": 510,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Pansage": {
@@ -13240,6 +14257,9 @@
         "num": 511,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Simisage": {
@@ -13258,6 +14278,9 @@
         "num": 512,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Pansear": {
@@ -13276,6 +14299,9 @@
         "num": 513,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Simisear": {
@@ -13294,6 +14320,9 @@
         "num": 514,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Panpour": {
@@ -13312,6 +14341,9 @@
         "num": 515,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Simipour": {
@@ -13330,6 +14362,9 @@
         "num": 516,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Munna": {
@@ -13349,6 +14384,9 @@
         "num": 517,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Musharna": {
@@ -13368,6 +14406,9 @@
         "num": 518,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Pidove": {
@@ -13447,6 +14488,9 @@
         "num": 522,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Zebstrika": {
@@ -13466,6 +14510,9 @@
         "num": 523,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Roggenrola": {
@@ -13485,6 +14532,9 @@
         "num": 524,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Boldore": {
@@ -13504,6 +14554,9 @@
         "num": 525,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Gigalith": {
@@ -13523,6 +14576,9 @@
         "num": 526,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Woobat": {
@@ -13584,6 +14640,9 @@
         "num": 529,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Excadrill": {
@@ -13623,6 +14682,9 @@
         "num": 531,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Audino-Mega": {
@@ -13662,6 +14724,9 @@
         "num": 532,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Gurdurr": {
@@ -13681,6 +14746,9 @@
         "num": 533,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Conkeldurr": {
@@ -13700,6 +14768,9 @@
         "num": 534,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Tympole": {
@@ -13719,6 +14790,9 @@
         "num": 535,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Palpitoad": {
@@ -13778,6 +14852,9 @@
         "num": 538,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Sawk": {
@@ -13797,6 +14874,9 @@
         "num": 539,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Sewaddle": {
@@ -13978,6 +15058,9 @@
         "num": 548,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Lilligant": {
@@ -13997,6 +15080,9 @@
         "num": 549,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Lilligant-Hisui": {
@@ -14038,6 +15124,9 @@
         "num": 550,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Basculin-Blue-Striped": {
@@ -14059,6 +15148,9 @@
         "num": 550,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Basculin-White-Striped": {
@@ -14080,6 +15172,9 @@
         "num": 550,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Sandile": {
@@ -14158,6 +15253,9 @@
         "num": 554,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Darumaka-Galar": {
@@ -14178,6 +15276,9 @@
         "num": 554,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Darmanitan": {
@@ -14196,6 +15297,9 @@
         "num": 555,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Darmanitan-Zen": {
@@ -14236,6 +15340,9 @@
         "num": 555,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Darmanitan-Galar-Zen": {
@@ -14275,6 +15382,9 @@
         "num": 556,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Dwebble": {
@@ -14397,6 +15507,9 @@
         "num": 562,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Yamask-Galar": {
@@ -14436,6 +15549,9 @@
         "num": 563,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Tirtouga": {
@@ -14535,6 +15651,9 @@
         "num": 568,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Garbodor": {
@@ -14554,6 +15673,9 @@
         "num": 569,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Garbodor-Gmax": {
@@ -14575,6 +15697,9 @@
         "num": 569,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Zorua": {
@@ -14592,6 +15717,9 @@
         "num": 570,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Zorua-Hisui": {
@@ -14629,6 +15757,9 @@
         "num": 571,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Zoroark-Hisui": {
@@ -14668,6 +15799,9 @@
         "num": 572,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Cinccino": {
@@ -14687,6 +15821,9 @@
         "num": 573,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Gothita": {
@@ -14706,6 +15843,9 @@
         "num": 574,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Gothorita": {
@@ -14725,6 +15865,9 @@
         "num": 575,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Gothitelle": {
@@ -14744,6 +15887,9 @@
         "num": 576,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Solosis": {
@@ -14763,6 +15909,9 @@
         "num": 577,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Duosion": {
@@ -14782,6 +15931,9 @@
         "num": 578,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Reuniclus": {
@@ -14801,6 +15953,9 @@
         "num": 579,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Ducklett": {
@@ -14862,6 +16017,9 @@
         "num": 582,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Vanillish": {
@@ -14881,6 +16039,9 @@
         "num": 583,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Vanilluxe": {
@@ -14900,6 +16061,9 @@
         "num": 584,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Deerling": {
@@ -14978,6 +16142,9 @@
         "num": 588,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Escavalier": {
@@ -15096,6 +16263,9 @@
         "num": 594,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Joltik": {
@@ -15194,6 +16364,9 @@
         "num": 599,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Klang": {
@@ -15213,6 +16386,9 @@
         "num": 600,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Klinklang": {
@@ -15232,6 +16408,9 @@
         "num": 601,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Tynamo": {
@@ -15249,6 +16428,9 @@
         "num": 602,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Eelektrik": {
@@ -15266,6 +16448,9 @@
         "num": 603,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Eelektross": {
@@ -15283,6 +16468,9 @@
         "num": 604,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Elgyem": {
@@ -15302,6 +16490,9 @@
         "num": 605,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Beheeyem": {
@@ -15321,6 +16512,9 @@
         "num": 606,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Litwick": {
@@ -15401,6 +16595,9 @@
         "num": 610,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Fraxure": {
@@ -15421,6 +16618,9 @@
         "num": 611,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Haxorus": {
@@ -15441,6 +16641,9 @@
         "num": 612,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Cubchoo": {
@@ -15460,6 +16663,9 @@
         "num": 613,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Beartic": {
@@ -15479,6 +16685,9 @@
         "num": 614,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Cryogonal": {
@@ -15496,6 +16705,9 @@
         "num": 615,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Shelmet": {
@@ -15515,6 +16727,9 @@
         "num": 616,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Accelgor": {
@@ -15534,6 +16749,9 @@
         "num": 617,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Stunfisk": {
@@ -15596,6 +16814,9 @@
         "num": 619,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Mienshao": {
@@ -15616,6 +16837,9 @@
         "num": 620,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Druddigon": {
@@ -15636,6 +16860,9 @@
         "num": 621,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Golett": {
@@ -15735,6 +16962,9 @@
         "num": 626,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Rufflet": {
@@ -15856,6 +17086,9 @@
         "num": 631,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Durant": {
@@ -16048,6 +17281,9 @@
         "num": 641,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Tornadus-Therian": {
@@ -16069,6 +17305,9 @@
         "num": 641,
         "generation": [
             "Unova"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Thundurus": {
@@ -16478,6 +17717,9 @@
         "num": 650,
         "generation": [
             "Kalos"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Quilladin": {
@@ -16496,6 +17738,9 @@
         "num": 651,
         "generation": [
             "Kalos"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Chesnaught": {
@@ -16533,6 +17778,9 @@
         "num": 653,
         "generation": [
             "Kalos"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Braixen": {
@@ -16551,6 +17799,9 @@
         "num": 654,
         "generation": [
             "Kalos"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Delphox": {
@@ -16588,6 +17839,9 @@
         "num": 656,
         "generation": [
             "Kalos"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Frogadier": {
@@ -16606,6 +17860,9 @@
         "num": 657,
         "generation": [
             "Kalos"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Greninja": {
@@ -16685,6 +17942,9 @@
         "num": 659,
         "generation": [
             "Kalos"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Diggersby": {
@@ -16781,6 +18041,9 @@
         "num": 664,
         "generation": [
             "Kalos"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Spewpa": {
@@ -16799,6 +18062,9 @@
         "num": 665,
         "generation": [
             "Kalos"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Vivillon": {
@@ -16921,6 +18187,9 @@
         "num": 669,
         "generation": [
             "Kalos"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Floette": {
@@ -16939,6 +18208,9 @@
         "num": 670,
         "generation": [
             "Kalos"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Floette-Eternal": {
@@ -16958,6 +18230,9 @@
         "num": 670,
         "generation": [
             "Kalos"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Florges": {
@@ -16976,6 +18251,9 @@
         "num": 671,
         "generation": [
             "Kalos"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Skiddo": {
@@ -16994,6 +18272,9 @@
         "num": 672,
         "generation": [
             "Kalos"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Gogoat": {
@@ -17012,6 +18293,9 @@
         "num": 673,
         "generation": [
             "Kalos"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Pancham": {
@@ -17032,6 +18316,9 @@
         "num": 674,
         "generation": [
             "Kalos"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Pangoro": {
@@ -17070,6 +18357,9 @@
         "num": 676,
         "generation": [
             "Kalos"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Espurr": {
@@ -17089,6 +18379,9 @@
         "num": 677,
         "generation": [
             "Kalos"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Meowstic": {
@@ -17108,6 +18401,9 @@
         "num": 678,
         "generation": [
             "Kalos"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Meowstic-F": {
@@ -17129,6 +18425,9 @@
         "num": 678,
         "generation": [
             "Kalos"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Honedge": {
@@ -17221,6 +18520,9 @@
         "num": 682,
         "generation": [
             "Kalos"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Aromatisse": {
@@ -17239,6 +18541,9 @@
         "num": 683,
         "generation": [
             "Kalos"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Swirlix": {
@@ -17257,6 +18562,9 @@
         "num": 684,
         "generation": [
             "Kalos"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Slurpuff": {
@@ -17275,6 +18583,9 @@
         "num": 685,
         "generation": [
             "Kalos"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Inkay": {
@@ -17417,6 +18728,9 @@
         "num": 692,
         "generation": [
             "Kalos"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Clawitzer": {
@@ -17435,6 +18749,9 @@
         "num": 693,
         "generation": [
             "Kalos"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Helioptile": {
@@ -17573,6 +18890,9 @@
         "num": 700,
         "generation": [
             "Kalos"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Hawlucha": {
@@ -17654,6 +18974,9 @@
         "num": 704,
         "generation": [
             "Kalos"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Sliggoo": {
@@ -17673,6 +18996,9 @@
         "num": 705,
         "generation": [
             "Kalos"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Sliggoo-Hisui": {
@@ -17714,6 +19040,9 @@
         "num": 706,
         "generation": [
             "Kalos"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Goodra-Hisui": {
@@ -17989,6 +19318,9 @@
         "num": 712,
         "generation": [
             "Kalos"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Avalugg": {
@@ -18009,6 +19341,9 @@
         "num": 713,
         "generation": [
             "Kalos"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Avalugg-Hisui": {
@@ -18093,6 +19428,9 @@
         "num": 716,
         "generation": [
             "Kalos"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Xerneas-Neutral": {
@@ -18114,6 +19452,9 @@
         "num": 716,
         "generation": [
             "Kalos"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Yveltal": {
@@ -18405,6 +19746,9 @@
         "num": 725,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Torracat": {
@@ -18423,6 +19767,9 @@
         "num": 726,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Incineroar": {
@@ -18461,6 +19808,9 @@
         "num": 728,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Brionne": {
@@ -18480,6 +19830,9 @@
         "num": 729,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Primarina": {
@@ -18579,6 +19932,9 @@
         "num": 734,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Gumshoos": {
@@ -18598,6 +19954,9 @@
         "num": 735,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Gumshoos-Totem": {
@@ -18617,6 +19976,9 @@
         "num": 735,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Grubbin": {
@@ -18634,6 +19996,9 @@
         "num": 736,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Charjabug": {
@@ -18709,6 +20074,9 @@
         "num": 739,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Crabominable": {
@@ -18890,6 +20258,9 @@
         "num": 744,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Lycanroc": {
@@ -18909,6 +20280,9 @@
         "num": 745,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Lycanroc-Midnight": {
@@ -18930,6 +20304,9 @@
         "num": 745,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Lycanroc-Dusk": {
@@ -18949,6 +20326,9 @@
         "num": 745,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Wishiwashi": {
@@ -18966,6 +20346,9 @@
         "num": 746,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Wishiwashi-School": {
@@ -18985,6 +20368,9 @@
         "num": 746,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Mareanie": {
@@ -19044,6 +20430,9 @@
         "num": 749,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Mudsdale": {
@@ -19063,6 +20452,9 @@
         "num": 750,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Dewpider": {
@@ -19142,6 +20534,9 @@
         "num": 753,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Lurantis": {
@@ -19160,6 +20555,9 @@
         "num": 754,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Lurantis-Totem": {
@@ -19179,6 +20577,9 @@
         "num": 754,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Morelull": {
@@ -19339,6 +20740,9 @@
         "num": 761,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Steenee": {
@@ -19358,6 +20762,9 @@
         "num": 762,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Tsareena": {
@@ -19377,6 +20784,9 @@
         "num": 763,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Comfey": {
@@ -19396,6 +20806,9 @@
         "num": 764,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Oranguru": {
@@ -19434,6 +20847,9 @@
         "num": 766,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Wimpod": {
@@ -19528,6 +20944,9 @@
         "num": 771,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Type: Null": {
@@ -19547,6 +20966,9 @@
         "num": 772,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Silvally": {
@@ -19566,6 +20988,9 @@
         "num": 773,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Silvally-Bug": {
@@ -19587,6 +21012,9 @@
         "num": 773,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Silvally-Dark": {
@@ -19608,6 +21036,9 @@
         "num": 773,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Silvally-Dragon": {
@@ -19629,6 +21060,9 @@
         "num": 773,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Silvally-Electric": {
@@ -19650,6 +21084,9 @@
         "num": 773,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Silvally-Fairy": {
@@ -19671,6 +21108,9 @@
         "num": 773,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Silvally-Fighting": {
@@ -19692,6 +21132,9 @@
         "num": 773,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Silvally-Fire": {
@@ -19713,6 +21156,9 @@
         "num": 773,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Silvally-Flying": {
@@ -19734,6 +21180,9 @@
         "num": 773,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Silvally-Ghost": {
@@ -19755,6 +21204,9 @@
         "num": 773,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Silvally-Grass": {
@@ -19776,6 +21228,9 @@
         "num": 773,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Silvally-Ground": {
@@ -19797,6 +21252,9 @@
         "num": 773,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Silvally-Ice": {
@@ -19818,6 +21276,9 @@
         "num": 773,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Silvally-Poison": {
@@ -19839,6 +21300,9 @@
         "num": 773,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Silvally-Psychic": {
@@ -19860,6 +21324,9 @@
         "num": 773,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Silvally-Rock": {
@@ -19881,6 +21348,9 @@
         "num": 773,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Silvally-Steel": {
@@ -19902,6 +21372,9 @@
         "num": 773,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Silvally-Water": {
@@ -19923,6 +21396,9 @@
         "num": 773,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Minior": {
@@ -19978,6 +21454,9 @@
         "num": 775,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Turtonator": {
@@ -20195,6 +21674,9 @@
         "num": 782,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Hakamo-o": {
@@ -20358,6 +21840,9 @@
         "num": 789,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Cosmoem": {
@@ -20377,6 +21862,9 @@
         "num": 790,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Solgaleo": {
@@ -20496,6 +21984,9 @@
         "num": 796,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Celesteela": {
@@ -20575,6 +22066,9 @@
         "num": 800,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Necrozma-Dusk-Mane": {
@@ -20725,6 +22219,9 @@
         "num": 803,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Naganadel": {
@@ -20805,6 +22302,9 @@
         "num": 807,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Meltan": {
@@ -20825,6 +22325,9 @@
         "num": 808,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Melmetal": {
@@ -20845,6 +22348,9 @@
         "num": 809,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Melmetal-Gmax": {
@@ -20867,6 +22373,9 @@
         "num": 809,
         "generation": [
             "Alola"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Grookey": {
@@ -20886,6 +22395,9 @@
         "num": 810,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Thwackey": {
@@ -20905,6 +22417,9 @@
         "num": 811,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Rillaboom": {
@@ -20924,6 +22439,9 @@
         "num": 812,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Rillaboom-Gmax": {
@@ -20945,6 +22463,9 @@
         "num": 812,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Scorbunny": {
@@ -20964,6 +22485,9 @@
         "num": 813,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Raboot": {
@@ -20983,6 +22507,9 @@
         "num": 814,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Cinderace": {
@@ -21002,6 +22529,9 @@
         "num": 815,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Cinderace-Gmax": {
@@ -21023,6 +22553,9 @@
         "num": 815,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Sobble": {
@@ -21042,6 +22575,9 @@
         "num": 816,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Drizzile": {
@@ -21061,6 +22597,9 @@
         "num": 817,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Inteleon": {
@@ -21080,6 +22619,9 @@
         "num": 818,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Inteleon-Gmax": {
@@ -21101,6 +22643,9 @@
         "num": 818,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Skwovet": {
@@ -21119,6 +22664,9 @@
         "num": 819,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Greedent": {
@@ -21137,6 +22685,9 @@
         "num": 820,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Rookidee": {
@@ -21156,6 +22707,9 @@
         "num": 821,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Corvisquire": {
@@ -21175,6 +22729,9 @@
         "num": 822,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Corviknight": {
@@ -21236,6 +22793,9 @@
         "num": 824,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Dottler": {
@@ -21317,6 +22877,9 @@
         "num": 827,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Thievul": {
@@ -21336,6 +22899,9 @@
         "num": 828,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Gossifleur": {
@@ -21355,6 +22921,9 @@
         "num": 829,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Eldegoss": {
@@ -21374,6 +22943,9 @@
         "num": 830,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Wooloo": {
@@ -21393,6 +22965,9 @@
         "num": 831,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Dubwool": {
@@ -21412,6 +22987,9 @@
         "num": 832,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Chewtle": {
@@ -21432,6 +23010,9 @@
         "num": 833,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Drednaw": {
@@ -21494,6 +23075,9 @@
         "num": 835,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Boltund": {
@@ -21512,6 +23096,9 @@
         "num": 836,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Rolycoly": {
@@ -21531,6 +23118,9 @@
         "num": 837,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Carkol": {
@@ -21722,6 +23312,9 @@
         "num": 843,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Sandaconda": {
@@ -21742,6 +23335,9 @@
         "num": 844,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Sandaconda-Gmax": {
@@ -21764,6 +23360,9 @@
         "num": 844,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Cramorant": {
@@ -21843,6 +23442,9 @@
         "num": 846,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Barraskewda": {
@@ -21861,6 +23463,9 @@
         "num": 847,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Toxel": {
@@ -22048,6 +23653,9 @@
         "num": 852,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Grapploct": {
@@ -22067,6 +23675,9 @@
         "num": 853,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Sinistea": {
@@ -22086,6 +23697,9 @@
         "num": 854,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Sinistea-Antique": {
@@ -22106,6 +23720,9 @@
         "num": 854,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Polteageist": {
@@ -22125,6 +23742,9 @@
         "num": 855,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Polteageist-Antique": {
@@ -22145,6 +23765,9 @@
         "num": 855,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Hatenna": {
@@ -22164,6 +23787,9 @@
         "num": 856,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Hattrem": {
@@ -22183,6 +23809,9 @@
         "num": 857,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Hatterene": {
@@ -22350,6 +23979,9 @@
         "num": 863,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Cursola": {
@@ -22369,6 +24001,9 @@
         "num": 864,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Sirfetch\u2019d": {
@@ -22388,6 +24023,9 @@
         "num": 865,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Mr. Rime": {
@@ -22446,6 +24084,9 @@
         "num": 868,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Alcremie": {
@@ -22465,6 +24106,9 @@
         "num": 869,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Alcremie-Gmax": {
@@ -22486,6 +24130,9 @@
         "num": 869,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Falinks": {
@@ -22505,6 +24152,9 @@
         "num": 870,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Pincurchin": {
@@ -22524,6 +24174,9 @@
         "num": 871,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Snom": {
@@ -22579,6 +24232,9 @@
         "num": 874,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Eiscue": {
@@ -22597,6 +24253,9 @@
         "num": 875,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Eiscue-Noice": {
@@ -22617,6 +24276,9 @@
         "num": 875,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Indeedee": {
@@ -22718,6 +24380,9 @@
         "num": 878,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Copperajah": {
@@ -22737,6 +24402,9 @@
         "num": 879,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Copperajah-Gmax": {
@@ -22758,6 +24426,9 @@
         "num": 879,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Dracozolt": {
@@ -22964,6 +24635,9 @@
         "num": 888,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Zacian-Crowned": {
@@ -23005,6 +24679,9 @@
         "num": 889,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Zamazenta-Crowned": {
@@ -23088,6 +24765,9 @@
         "num": 891,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Urshifu": {
@@ -23237,6 +24917,9 @@
         "num": 894,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Regidrago": {
@@ -23256,6 +24939,9 @@
         "num": 895,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Glastrier": {
@@ -23275,6 +24961,9 @@
         "num": 896,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Spectrier": {
@@ -23294,6 +24983,9 @@
         "num": 897,
         "generation": [
             "Galar/Hisui"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Calyrex": {
@@ -23582,6 +25274,9 @@
         "num": 906,
         "generation": [
             "Paldea"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Floragato": {
@@ -23601,6 +25296,9 @@
         "num": 907,
         "generation": [
             "Paldea"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Meowscarada": {
@@ -23639,6 +25337,9 @@
         "num": 909,
         "generation": [
             "Paldea"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Crocalor": {
@@ -23657,6 +25358,9 @@
         "num": 910,
         "generation": [
             "Paldea"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Skeledirge": {
@@ -23695,6 +25399,9 @@
         "num": 912,
         "generation": [
             "Paldea"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Quaxwell": {
@@ -23714,6 +25421,9 @@
         "num": 913,
         "generation": [
             "Paldea"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Quaquaval": {
@@ -23753,6 +25463,9 @@
         "num": 915,
         "generation": [
             "Paldea"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Oinkologne": {
@@ -23772,6 +25485,9 @@
         "num": 916,
         "generation": [
             "Paldea"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Oinkologne-F": {
@@ -23793,6 +25509,9 @@
         "num": 916,
         "generation": [
             "Paldea"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Tarountula": {
@@ -23811,6 +25530,9 @@
         "num": 917,
         "generation": [
             "Paldea"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Spidops": {
@@ -23829,6 +25551,9 @@
         "num": 918,
         "generation": [
             "Paldea"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Nymble": {
@@ -23847,6 +25572,9 @@
         "num": 919,
         "generation": [
             "Paldea"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Lokix": {
@@ -23885,6 +25613,9 @@
         "num": 921,
         "generation": [
             "Paldea"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Pawmo": {
@@ -23945,6 +25676,9 @@
         "num": 924,
         "generation": [
             "Paldea"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Maushold": {
@@ -23965,6 +25699,9 @@
         "num": 925,
         "generation": [
             "Paldea"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Maushold-Four": {
@@ -23987,6 +25724,9 @@
         "num": 925,
         "generation": [
             "Paldea"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Fidough": {
@@ -24006,6 +25746,9 @@
         "num": 926,
         "generation": [
             "Paldea"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Dachsbun": {
@@ -24025,6 +25768,9 @@
         "num": 927,
         "generation": [
             "Paldea"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Smoliv": {
@@ -24187,6 +25933,9 @@
         "num": 932,
         "generation": [
             "Paldea"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Naclstack": {
@@ -24206,6 +25955,9 @@
         "num": 933,
         "generation": [
             "Paldea"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Garganacl": {
@@ -24225,6 +25977,9 @@
         "num": 934,
         "generation": [
             "Paldea"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Charcadet": {
@@ -24243,6 +25998,9 @@
         "num": 935,
         "generation": [
             "Paldea"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Armarouge": {
@@ -24300,6 +26058,9 @@
         "num": 938,
         "generation": [
             "Paldea"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Bellibolt": {
@@ -24319,6 +26080,9 @@
         "num": 939,
         "generation": [
             "Paldea"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Wattrel": {
@@ -24380,6 +26144,9 @@
         "num": 942,
         "generation": [
             "Paldea"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Mabosstiff": {
@@ -24399,6 +26166,9 @@
         "num": 943,
         "generation": [
             "Paldea"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Shroodle": {
@@ -24532,6 +26302,9 @@
         "num": 950,
         "generation": [
             "Paldea"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Capsakid": {
@@ -24551,6 +26324,9 @@
         "num": 951,
         "generation": [
             "Paldea"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Scovillain": {
@@ -24589,6 +26365,9 @@
         "num": 953,
         "generation": [
             "Paldea"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Rabsca": {
@@ -24627,6 +26406,9 @@
         "num": 955,
         "generation": [
             "Paldea"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Espathra": {
@@ -24646,6 +26428,9 @@
         "num": 956,
         "generation": [
             "Paldea"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Tinkatink": {
@@ -24725,6 +26510,9 @@
         "num": 960,
         "generation": [
             "Paldea"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Wugtrio": {
@@ -24744,6 +26532,9 @@
         "num": 961,
         "generation": [
             "Paldea"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Bombirdier": {
@@ -24782,6 +26573,9 @@
         "num": 963,
         "generation": [
             "Paldea"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Palafin": {
@@ -24800,6 +26594,9 @@
         "num": 964,
         "generation": [
             "Paldea"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Palafin-Hero": {
@@ -24820,6 +26617,9 @@
         "num": 964,
         "generation": [
             "Paldea"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Varoom": {
@@ -24895,6 +26695,9 @@
         "num": 968,
         "generation": [
             "Paldea"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Glimmet": {
@@ -24951,6 +26754,9 @@
         "num": 971,
         "generation": [
             "Paldea"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Houndstone": {
@@ -24969,6 +26775,9 @@
         "num": 972,
         "generation": [
             "Paldea"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Flamigo": {
@@ -25008,6 +26817,9 @@
         "num": 974,
         "generation": [
             "Paldea"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Cetitan": {
@@ -25027,6 +26839,9 @@
         "num": 975,
         "generation": [
             "Paldea"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Veluza": {
@@ -25065,6 +26880,9 @@
         "num": 977,
         "generation": [
             "Paldea"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Tatsugiri": {
@@ -25164,6 +26982,9 @@
         "num": 982,
         "generation": [
             "Paldea"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Dudunsparce-Three-Segment": {
@@ -25185,6 +27006,9 @@
         "num": 982,
         "generation": [
             "Paldea"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Kingambit": {
@@ -25522,6 +27346,9 @@
         "num": 999,
         "generation": [
             "Paldea"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Gimmighoul-Roaming": {
@@ -25541,6 +27368,9 @@
         "num": 999,
         "generation": [
             "Paldea"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Gholdengo": {
@@ -25936,6 +27766,9 @@
         "num": 1017,
         "generation": [
             "Paldea"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Ogerpon-Wellspring": {
@@ -26015,6 +27848,9 @@
         "num": 1017,
         "generation": [
             "Paldea"
+        ],
+        "moreTags": [
+            "Mono-Type"
         ]
     },
     "Ogerpon-Wellspring-Tera": {

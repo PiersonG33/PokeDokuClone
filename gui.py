@@ -20,7 +20,8 @@ def generate_grid(pokemon, pokedict, stats, combo_dict=dict(), invalid = [], cut
             "abilities": False,
             "tags": True,
             "eggGroups": False,
-            "generation": True
+            "generation": True,
+            "moreTags": True
         }
 
     row_labels, col_labels = get_valid_labels(pokedict, stats, combo_dict, invalid, cutoff = cutoff)
