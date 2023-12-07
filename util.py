@@ -76,9 +76,9 @@ def get_valid_labels(pokedict, stats, combo_dict, invalid = [], cutoff = 1):
 
 def get_generation(name, num):
     gen = ""
-    if (1 <= num <= 152):
+    if (1 <= num <= 151):
         gen = "Kanto"
-    elif (152 < num <= 251):
+    elif (151 < num <= 251):
         gen = "Johto"
     elif (251 < num <= 386):
         gen = "Hoenn"
