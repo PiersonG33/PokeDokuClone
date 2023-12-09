@@ -13,8 +13,7 @@ def is_valid(sub_dict, stats, row_label, col_label):
         return True
     return False
 
-def generate_grid(pokemon, pokedict, stats, combo_dict=dict(), invalid = [], cutoff = 1):
-    
+def generate_grid(pokemon, pokedict, stats, combo_dict=dict(), invalid = [], cutoff = 1, guesses = 9):
     if combo_dict == dict():
         combo_dict = { # Default combo_dict
             "types": True,
@@ -54,6 +53,8 @@ def generate_grid(pokemon, pokedict, stats, combo_dict=dict(), invalid = [], cut
                                              key=f"-LIST-{(row-1) * 3 + col + 1}-", enable_events=True)],
                     [sg.Button("Okey Doku", key=f"-BUTTON-{(row-1) * 3 + col + 1}-")]
                 ]))
+            if row == 3:
+                row_layout.append(sg.Text(f"PP: {guesses}", key = "pp", size=(10, 1)))
         layout.append(row_layout)
 
     # Add "New Puzzle" button
@@ -65,7 +66,6 @@ def generate_grid(pokemon, pokedict, stats, combo_dict=dict(), invalid = [], cut
     # Create the window
     window = sg.Window("PokeDoku", layout, finalize=True) #, background_color="#1d1752"
 
-    guesses_remaining = 9
     # Event loop
     while True:
         event, values = window.read()
@@ -112,8 +112,9 @@ def generate_grid(pokemon, pokedict, stats, combo_dict=dict(), invalid = [], cut
                     else:
                         #Change button color to red
                         window[f"-BUTTON-{row * 3 + col + 1}-"].update(button_color=('white', 'red'))
-                    guesses_remaining -= 1
-                    print(f"Guesses Remaining: {guesses_remaining}")
+                    guesses -= 1
+                    window["pp"].update(f"PP: {guesses}")
+                    #print(f"Guesses Remaining: {guesses}")
 
     # Close the window
     window.close()

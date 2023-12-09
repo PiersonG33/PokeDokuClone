@@ -12,6 +12,9 @@ def settings_gui(poke_data = to_dict("pokedex.json"), options = to_dict("options
     cutoff_options = [i for i in range(1, 5)]
     layout.append([sg.Text("Minimum Pokemon per option:"), sg.Combo(cutoff_options, default_value=2, key="-CUTOFF-")])
 
+    # Add number input for number of guesses
+    layout.append([sg.Text("Number of guesses:"), sg.InputText(default_text="9", key="-GUESSES-", size=(3, 1))])
+
     # Add checkbox to say if mythicals count as legendaries
     layout.append([sg.Text("Mythicals count as Legendaries:"), sg.Checkbox("", default=True, key="-MYTHICAL-")])
 
@@ -87,7 +90,12 @@ def settings_gui(poke_data = to_dict("pokedex.json"), options = to_dict("options
                 if label in options:
                     options.pop(label)
             
+            try:
+                guesses = int(values["-GUESSES-"].strip())
+            except:
+                guesses = 9
+                print("Bad number of guesses, defaulting to 2")
 
             window.close()
-            gui.generate_grid(list(poke_data.keys()), poke_data, options, combo_dict, cutoff = cutoff)
+            gui.generate_grid(list(poke_data.keys()), poke_data, options, combo_dict, cutoff = cutoff, guesses = guesses)
             
