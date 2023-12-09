@@ -2,9 +2,10 @@
 # Users can decide what should be included as options for the puzzle
 # E.g. no Legendaries, no Gen 8, etc
 import PySimpleGUI as sg
-from gui import generate_grid
+import gui
+from util import to_dict
 
-def settings_gui(poke_data, options):
+def settings_gui(poke_data = to_dict("pokedex.json"), options = to_dict("options.json")):
     layout = []
 
     # Add dropdown menu for selecting cutoff value
@@ -88,5 +89,5 @@ def settings_gui(poke_data, options):
             
 
             window.close()
-            generate_grid(list(poke_data.keys()), poke_data, options, combo_dict, cutoff = cutoff)
+            gui.generate_grid(list(poke_data.keys()), poke_data, options, combo_dict, cutoff = cutoff)
             

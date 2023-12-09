@@ -1,5 +1,6 @@
 import PySimpleGUI as sg
 from util import *
+import settings_gui
 
 # Function to create a dropdown element
 def create_dropdown(key, pokemon):
@@ -57,6 +58,9 @@ def generate_grid(pokemon, pokedict, stats, combo_dict=dict(), invalid = [], cut
 
     # Add "New Puzzle" button
     layout.append([sg.Button("New Puzzle", key="-NEW PUZZLE-")])
+
+    # Add "Settings" button
+    layout.append([sg.Button("Settings", key="-SETTINGS-")])
     
     # Create the window
     window = sg.Window("PokeDoku", layout, finalize=True) #, background_color="#1d1752"
@@ -73,6 +77,10 @@ def generate_grid(pokemon, pokedict, stats, combo_dict=dict(), invalid = [], cut
         elif event == "-NEW PUZZLE-":
             window.close()
             generate_grid(pokemon, pokedict, stats, combo_dict, invalid, cutoff = cutoff)
+
+        elif event == "-SETTINGS-":
+            window.close()
+            settings_gui.settings_gui()
 
         for row in range(3):
             for col in range(3):
